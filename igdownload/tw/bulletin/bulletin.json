@@ -4,7 +4,7 @@
 	"packageName":"com.igdownloader.instagram.videodownloader.photodownloader",
 	"versionName":"1.0.0",
 	"versionCode":20190927,
-	"title":"Bulletin",
+	"title":"公告-TW",
 	"website":"market://details?id=com.igdownloader.instagram.videodownloader.photodownloader",
-	"content":"<!DOCTYPE html><h5>App 2.0.2 update reminder</h5><p>Users using the old version should update to the latest version as soon as possible, the old version is no longer available!</p></html>"
+	"content":"<!DOCTYPE html><p><a href=\"https://www.google.com\">Google</a></p><p><a href=\"market://details?id=com.igdownloader.instagram.videodownloader.photodownloader\">Googel Play</a></p><p><a href=\"moster1h://ig.igdownloader.helper\">Helper</a></p><a href=\"moster1h://ig.igdownloader.settings\">Settings</a></html>"
 }
