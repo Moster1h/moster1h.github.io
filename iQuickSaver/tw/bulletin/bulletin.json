@@ -1,5 +1,5 @@
 {
-	"isShow":true,
+	"isShow":false,
 	"isForce":false,
 	"packageName":"com.igdownloader.instagram.videodownloader.photodownloader",
 	"versionName":"1.0.0",
