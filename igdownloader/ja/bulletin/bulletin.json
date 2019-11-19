@@ -1,10 +1,10 @@
 {
-	"isShow":false,
+	"isShow":true,
 	"isForce":true,
 	"packageName":"com.igdownloader.instagram.videodownloader.photodownloader",
-	"versionName":"1.0.0",
-	"versionCode":20190927,
-	"title":"発表-JA",
-	"website":"market://details?id=com.igdownloader.instagram.videodownloader.photodownloader",
-	"content":"<!DOCTYPE html><p><a href=\"https://www.google.com\">Google</a></p><p><a href=\"market://details?id=com.igdownloader.instagram.videodownloader.photodownloader\">Googel Play</a></p><p><a href=\"moster1h://ig.igdownloader.helper\">Helper</a></p><a href=\"moster1h://ig.igdownloader.settings\">Settings</a></html>"
+	"versionName":"1.1.1",
+	"versionCode":20191024,
+	"title":"アプリを更新してください、このアプリはメンテナンス中です！",
+	"website":"market://details?id=download.video.instagram.iquicksaver",
+	"content":""
 }
