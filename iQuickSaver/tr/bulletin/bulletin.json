@@ -1,8 +1,8 @@
 {
-	"isShow":false,
+	"isShow":true,
 	"isForce":true,
 	"packageName":"download.video.instagram.iquicksaver",
-	"versionName":"0.52",
+	"versionName":"0.53",
 	"versionCode":20191203,
 	"title":"Uygulama güncelleme hatırlatıcısı",
 	"website":"market://details?id=download.video.instagram.iquicksaver",
