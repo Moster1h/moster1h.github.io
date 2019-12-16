@@ -1,10 +1,24 @@
 {
 	"isShow":false,
 	"isForce":true,
-	"packageName":"download.video.instagram.iquicksaver",
-	"versionName":"0.53",
+	"packageName":"repost.share.instagram.videodownloader.photodownloader",
+	"versionName":"1.2.6",
 	"versionCode":20191203,
-	"title":"App Update Erinnerung",
-	"website":"market://details?id=download.video.instagram.iquicksaver",
-	"content":"Die App wurde mit der neuesten Version veröffentlicht und viele Funktionen wurden hinzugefügt. Jetzt aktualisieren!"
+	"title":"Nachricht vom Entwickler",
+	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
+	"content":"<!DOCTYPE>
+<html>
+<p><b><font color=\"orange\">Wenn Sie der Meinung sind, dass diese Anwendung für Sie hilfreich ist, bewerten Sie mich bitte oder teilen Sie sie mit Ihren Freunden. Ihre Bewertung und Ihr Teilen sind meine Motivation für die Aktualisierung.</font></b></p>
+<h5>App 1.2.6 Update-Inhalt</h5>
+<p>1.Support Batch-Download von Geschichten, IGTV, Beiträge</p>
+<p>2.Unterstützt Download-Posts, IGTV, Storys, Profile, URL-Highlights und mehr von Instagram</p>
+<p>3.Unterstützung für das Herunterladen von Inhalten des Datenschutzkontos</p>
+<p>4.Der umfassendste Instagram-Sparer</p>
+<h5>Tutorial verwenden</h5>
+<p><a href=\"https://www.youtube.com/watch?v=VaosCIskcjk\">Simple to use</a></p>
+<p><a href=\"https://www.youtube.com/watch?v=lBSebQUiKCM\">Batch download posts, IGTV, stories</a></p>
+<h5>Update to the latest version</h5>
+<p>1.You can click the<b><font color=\"blue\">OK button</font></b>to enter Google Play Update</p>
+<p>2.You can click the<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\">Google Play</a>to update</p>
+</html>"
 }
