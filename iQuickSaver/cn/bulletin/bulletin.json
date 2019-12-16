@@ -8,7 +8,7 @@
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 <html>
-<h4><font color="orange">如果你觉得此应用对你有帮助，请评价我或分享给你的朋友，你的评价和分享就是我更新的动力。</font></h4>
+<h4><font color=\"orange\">如果你觉得此应用对你有帮助，请评价我或分享给你的朋友，你的评价和分享就是我更新的动力。</font></h4>
 <h5>应用1.2.6更新内容</h5>
 <p>1.支持批量下载快拍，IGTV，帖子</p>
 <p>2.支持从Instagram下载帖子，IGTV，快拍，个人主页，快拍精彩片段链接等等</p>
@@ -16,10 +16,10 @@
 <p>4.支持下载隐私账户内容</p>
 <p>5.Instagram功能最全面的下载器</p>
 <h5>使用教程</h5>
-<p><a href="https://www.youtube.com/watch?v=VaosCIskcjk">简单使用</a></p>
-<p><a href="https://www.youtube.com/watch?v=lBSebQUiKCM">批量下载帖子，IGTV，快拍</a></p>
+<p><a href=\"https://www.youtube.com/watch?v=VaosCIskcjk\">简单使用</a></p>
+<p><a href=\"https://www.youtube.com/watch?v=lBSebQUiKCM\">批量下载帖子，IGTV，快拍</a></p>
 <h5>更新到最新版本</h5>
-<p>1.你可以点击<b><font color="blue">确定按钮</font></b>进入Google Play更新</p>
-<p>2.你可以点击<a href="market://details?id=download.video.instagram.iquicksaver">Google Play</a>进行更新</p>
+<p>1.你可以点击<b><font color=\"blue\">确定按钮</font></b>进入Google Play更新</p>
+<p>2.你可以点击<a href=\"market://details?id=download.video.instagram.iquicksaver\">Google Play</a>进行更新</p>
 </html>"
 }
