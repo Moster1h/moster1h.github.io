@@ -1,10 +1,24 @@
 {
-	"isShow":false,
+	"isShow":true,
 	"isForce":true,
-	"packageName":"download.video.instagram.iquicksaver",
-	"versionName":"0.53",
+	"packageName":"repost.share.instagram.videodownloader.photodownloader",
+	"versionName":"1.2.63",
 	"versionCode":20191203,
-	"title":"Lembrete de atualização de aplicativo",
-	"website":"market://details?id=download.video.instagram.iquicksaver",
-	"content":"O aplicativo foi lançado com a versão mais recente e muitos recursos foram adicionados. Atualize agora!"
+	"title":"Palavra do desenvolvedor",
+	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
+	"content":"<!DOCTYPE>
+<html>
+<p><b><font color=\"orange\">Se você acha que este aplicativo é útil para você, avalie-me ou compartilhe-o com seus amigos, sua avaliação e compartilhamento são minha motivação para a atualização.</font></b></p>
+<h5>App 1.2.63 atualizar conteúdo</h5>
+<p>1.Suporte para download em lote de Histórias, IGTV, Postar</p>
+<p>2.Suporta Postar de download, IGTV, histórias, perfil, destaca URLs e muito mais do Instagram</p>
+<p>3.Suporte para baixar o conteúdo da conta de privacidade</p>
+<p>4.O mais abrangente protetor de Instagram</p>
+<h5>Use o tutorial</h5>
+<p><a href=\"https://www.youtube.com/watch?v=VaosCIskcjk\">Simples de usar</a></p>
+<p><a href=\"https://www.youtube.com/watch?v=lBSebQUiKCM\">Postar de download em lote, IGTV, histórias</a></p>
+<h5>Atualize para a versão mais recente</h5>
+<p>1.Você pode clicar no<b><font color=\"blue\"> botão OK </font></b>para entrar na Atualização do Google Play</p>
+<p>2.Você pode clicar no<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"> Google Play </a>para atualizar</p>
+</html>"
 }

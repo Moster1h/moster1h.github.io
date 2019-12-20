@@ -1,10 +1,24 @@
 {
-	"isShow":false,
+	"isShow":true,
 	"isForce":true,
-	"packageName":"download.video.instagram.iquicksaver",
-	"versionName":"0.53",
+	"packageName":"repost.share.instagram.videodownloader.photodownloader",
+	"versionName":"1.2.63",
 	"versionCode":20191203,
-	"title":"Uygulama güncelleme hatırlatıcısı",
-	"website":"market://details?id=download.video.instagram.iquicksaver",
-	"content":"Uygulama en son sürümle birlikte piyasaya sürüldü ve birçok özellik eklendi. Şimdi güncelle!"
+	"title":"Geliştiricinin sözcüğü",
+	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
+	"content":"<!DOCTYPE>
+<html>
+<p><b><font color=\"orange\">Bu uygulamanın sizin için yararlı olduğunu düşünüyorsanız, lütfen beni derecelendirin veya arkadaşlarınızla paylaşın, değerlendirme ve paylaşımınız güncelleme için benim motivasyonumdur.</font></b></p>
+<h5>App 1.2.63 güncelleme içeriği</h5>
+<p>1.Toplu hikaye indirme indir, IGTV, İleti</p>
+<p>2.Instagram'dan İleti yayınları, IGTV'yi, hikayeleri, profili, URL'leri ve daha fazlasını destekler</p>
+<p>3.İndirme gizlilik hesabı içeriği desteği</p>
+<p>4.En kapsamlı Instagram koruyucu</p>
+<h5>Öğreticiyi kullan</h5>
+<p><a href=\"https://www.youtube.com/watch?v=VaosCIskcjk\">Kullanımı kolay</a></p>
+<p><a href=\"https://www.youtube.com/watch?v=lBSebQUiKCM\">Toplu indirme İleti, IGTV, hikayeler</a></p>
+<h5>En son sürüme güncelle</h5>
+<p>1.Google Play Güncellemesine girmek için<b><font color=\"blue\"> Tamam düğmesini </font></b>tıklayabilirsiniz.</p>
+<p>2.Güncellemek için<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"> Google Play </a>tıklayabilirsiniz</p>
+</html>"
 }
