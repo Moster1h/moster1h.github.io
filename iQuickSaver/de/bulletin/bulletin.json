@@ -1,24 +1,24 @@
 {
-	"isShow":false,
-	"isForce":true,
+	"isShow":true,
+	"isForce":false,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.2.6",
+	"versionName":"1.2.63",
 	"versionCode":20191203,
-	"title":"Nachricht vom Entwickler",
+	"title":"Entwicklerwort",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 <html>
 <p><b><font color=\"orange\">Wenn Sie der Meinung sind, dass diese Anwendung für Sie hilfreich ist, bewerten Sie mich bitte oder teilen Sie sie mit Ihren Freunden. Ihre Bewertung und Ihr Teilen sind meine Motivation für die Aktualisierung.</font></b></p>
-<h5>App 1.2.6 Update-Inhalt</h5>
-<p>1.Support Batch-Download von Geschichten, IGTV, Beiträge</p>
-<p>2.Unterstützt Download-Posts, IGTV, Storys, Profile, URL-Highlights und mehr von Instagram</p>
+<h5>App 1.2.63 Update-Inhalt</h5>
+<p>1.Support Batch-Download von Geschichten, IGTV, Post</p>
+<p>2.Unterstützt Download-Posts, IGTV, Geschichten, Profile, URL-Highlights und mehr von Instagram</p>
 <p>3.Unterstützung für das Herunterladen von Inhalten des Datenschutzkontos</p>
 <p>4.Der umfassendste Instagram-Sparer</p>
 <h5>Tutorial verwenden</h5>
-<p><a href=\"https://www.youtube.com/watch?v=VaosCIskcjk\">Simple to use</a></p>
-<p><a href=\"https://www.youtube.com/watch?v=lBSebQUiKCM\">Batch download posts, IGTV, stories</a></p>
-<h5>Update to the latest version</h5>
-<p>1.You can click the<b><font color=\"blue\">OK button</font></b>to enter Google Play Update</p>
-<p>2.You can click the<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\">Google Play</a>to update</p>
+<p><a href=\"https://www.youtube.com/watch?v=VaosCIskcjk\">Einfach zu benutzen</a></p>
+<p><a href=\"https://www.youtube.com/watch?v=lBSebQUiKCM\">Batch-Download-Posts, IGTV, Geschichten</a></p>
+<h5>Aktualisieren Sie auf die neueste Version</h5>
+<p>1.Sie können auf die <b><font color=\"blue\"> Schaltfläche OK </font></b>klicken, um Google Play Update aufzurufen</p>
+<p>2.Sie können auf<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"> Google Play </a>klicken, um das Update durchzuführen</p>
 </html>"
 }
