@@ -1,15 +1,15 @@
 {
 	"isShow":true,
-	"isForce":true,
+	"isForce":false,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.2.63",
+	"versionName":"1.2.64",
 	"versionCode":20191203,
 	"title":"開發者的話",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 <html>
 <p><b><font color=\"orange\">如果你覺得此應用對你有幫助，請評價我或分享給你的朋友，你的評價和分享就是我更新的動力。</font></b></p>
-<h5>應用1.2.63更新內容</h5>
+<h5>應用1.2.64更新內容</h5>
 <p>1.支持批量下載限時動態，IGTV，帖子</p>
 <p>2.支持從Instagram下載帖子，IGTV，限時動態，個人主頁，限時動態精彩片段鏈接等等</p>
 <p>3.增加登錄賬號動態內容展示</p>

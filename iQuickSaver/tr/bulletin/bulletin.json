@@ -1,15 +1,15 @@
 {
 	"isShow":true,
-	"isForce":true,
+	"isForce":false,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.2.63",
+	"versionName":"1.2.64",
 	"versionCode":20191203,
 	"title":"Geliştiricinin sözcüğü",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 <html>
 <p><b><font color=\"orange\">Bu uygulamanın sizin için yararlı olduğunu düşünüyorsanız, lütfen beni derecelendirin veya arkadaşlarınızla paylaşın, değerlendirme ve paylaşımınız güncelleme için benim motivasyonumdur.</font></b></p>
-<h5>App 1.2.63 güncelleme içeriği</h5>
+<h5>App 1.2.64 güncelleme içeriği</h5>
 <p>1.Toplu hikaye indirme indir, IGTV, İleti</p>
 <p>2.Instagram'dan İleti yayınları, IGTV'yi, hikayeleri, profili, URL'leri ve daha fazlasını destekler</p>
 <p>3.İndirme gizlilik hesabı içeriği desteği</p>

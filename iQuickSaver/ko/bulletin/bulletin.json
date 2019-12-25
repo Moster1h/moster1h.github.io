@@ -1,15 +1,15 @@
 {
 	"isShow":true,
-	"isForce":true,
+	"isForce":false,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.2.63",
+	"versionName":"1.2.64",
 	"versionCode":20191203,
 	"title":"개발자의 메시지",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 <html>
 <p><b><font color=\"orange\">이 응용 프로그램이 당신에게 도움이된다고 생각한다면, 저를 평가하거나 친구들과 공유하십시오. 평가 및 공유는 업데이트의 동기입니다.</font></b></p>
-<h5>1.2.63 업데이트 적용</h5>
+<h5>1.2.64 업데이트 적용</h5>
 <p>1.스냅 샷, IGTV, 게시물의 일괄 다운로드 지원</p>
 <p>2.Instagram, IGTV, 스냅 샷, 개인 홈페이지, 스냅 샷 하이라이트 링크 등의 게시물 다운로드 지원</p>
 <p>3.로그인 계정 동적 컨텐츠 표시 증가</p>

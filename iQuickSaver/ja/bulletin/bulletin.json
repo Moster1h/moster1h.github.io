@@ -1,15 +1,15 @@
 {
 	"isShow":true,
-	"isForce":true,
+	"isForce":false,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.2.63",
+	"versionName":"1.2.64",
 	"versionCode":20191203,
 	"title":"開発者の言葉",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 <html>
 <p><b><font color=\"orange\">このアプリがあなたに役立つと思うなら、私を評価するか、あなたの友人と共有してください、あなたの評価と共有は更新の私の動機です。</font></b></p>
-<h5>アプリ1.2.63更新コンテンツ</h5>
+<h5>アプリ1.2.64更新コンテンツ</h5>
 <p>1.ストーリー、IGTV、投稿の一括ダウンロードをサポート</p>
 <p>2.Instagramからの投稿、IGTV、ストーリー、プロフィール、ハイライトURLなどのダウンロードをサポート</p>
 <p>3.プライバシーアカウントのコンテンツのダウンロードのサポート</p>
