@@ -1,15 +1,15 @@
 {
-	"isShow":false,
+	"isShow":true,
 	"isForce":false,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.2.64",
+	"versionName":"1.2.69",
 	"versionCode":20191203,
-	"title":"Entwicklerwort",
+	"title":"Kannst du mir eine Bewertung geben?",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 <html>
 <p><b><font color=\"orange\">Wenn Sie der Meinung sind, dass diese Anwendung für Sie hilfreich ist, bewerten Sie mich bitte oder teilen Sie sie mit Ihren Freunden. Ihre Bewertung und Ihr Teilen sind meine Motivation für die Aktualisierung.</font></b></p>
-<h5>App 1.2.64 Update-Inhalt</h5>
+<h5>App 1.2.69 Update-Inhalt</h5>
 <p>1.Support Batch-Download von Geschichten, IGTV, Post</p>
 <p>2.Unterstützt Download-Posts, IGTV, Geschichten, Profile, URL-Highlights und mehr von Instagram</p>
 <p>3.Unterstützung für das Herunterladen von Inhalten des Datenschutzkontos</p>
