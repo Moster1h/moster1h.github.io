@@ -1,24 +1,20 @@
 {
-	"isShow":false,
-	"isForce":false,
+	"isShow":true,
+	"isForce":true,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.2.64",
+	"versionName":"1.2.80",
 	"versionCode":20191203,
-	"title":"Developer's word",
+	"title":"Bisakah Anda memberi saya peringkat?",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 <html>
-<p><b><font color=\"orange\">If you think this app is helpful to you, please rate me or share it with your friends, your evaluation and sharing are my motivation for updating.</font></b></p>
-<h5>App 1.2.64 update content</h5>
-<p>1.Support batch download of stories, IGTV, posts</p>
-<p>2.Supports download posts, IGTV, stories, profile, highlights URL and more from Instagram</p>
-<p>3.Support for download privacy account content</p>
-<p>4.The most comprehensive Instagram saver</p>
-<h5>Use tutorial</h5>
-<p><a href=\"https://www.youtube.com/watch?v=VaosCIskcjk\">Simple to use</a></p>
-<p><a href=\"https://www.youtube.com/watch?v=lBSebQUiKCM\">Batch download posts, IGTV, stories</a></p>
-<h5>Update to the latest version</h5>
-<p>1.You can click the<b><font color=\"blue\"> OK button </font></b>to enter Google Play Update</p>
-<p>2.You can click the<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"> Google Play </a>to update</p>
+<p><b><font color=\"orange\">Jika menurut Anda aplikasi ini bermanfaat bagi Anda, beri nilai saya atau bagikan dengan teman-teman Anda, evaluasi dan berbagi Anda adalah motivasi saya untuk memperbarui.</font></b></p>
+<h5>Aplikasi 1.2.80 memperbarui konten</h5>
+<p>1.Mendukung pengunduhan batch cerita, IGTV, posting</p>
+<p>2.Mendukung posting unduhan, IGTV, cerita, profil, highlight URL, dan lainnya dari Instagram</p>
+<p>3.Dukungan untuk mengunduh konten akun privasi</p>
+<h5>Gunakan tutorial</h5>
+<p><a href=\"https://www.youtube.com/watch?v=VaosCIskcjk\">Mudah digunakan</a></p>
+<p><a href=\"https://www.youtube.com/watch?v=lBSebQUiKCM\">Posting unduhan batch, IGTV, cerita</a></p>
 </html>"
 }
