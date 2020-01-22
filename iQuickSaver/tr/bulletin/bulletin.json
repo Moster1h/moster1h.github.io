@@ -1,24 +1,21 @@
 {
-	"isShow":false,
-	"isForce":false,
+	"isShow":true,
+	"isForce":true,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.2.69",
+	"versionName":"1.2.92",
 	"versionCode":20191203,
 	"title":"Bana bir derece verebilir misin?",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 <html>
-<p><b><font color=\"orange\">Bu uygulamanın sizin için yararlı olduğunu düşünüyorsanız, lütfen beni derecelendirin veya arkadaşlarınızla paylaşın, değerlendirme ve paylaşımınız güncelleme için benim motivasyonumdur.</font></b></p>
-<h5>App 1.2.69 güncelleme içeriği</h5>
-<p>1.Toplu hikaye indirme indir, IGTV, İleti</p>
-<p>2.Instagram'dan İleti yayınları, IGTV'yi, hikayeleri, profili, URL'leri ve daha fazlasını destekler</p>
-<p>3.İndirme gizlilik hesabı içeriği desteği</p>
-<p>4.En kapsamlı Instagram koruyucu</p>
+<p><b><font color=\"orange\">Bu uygulama sizin için yararlı olduğunu düşünüyorsanız, lütfen bana puan ya da arkadaşlarınızla paylaşın, değerlendirme ve paylaşım güncelleme için motivasyon.</font></b></p>
+<h5>Uygulama 1.2.92 güncelleme içeriği</h5>
+<p>1. Otomatik indirme hizmeti ekleyin</p>
+<p>2. avatar resimleri indirmek için destek</p>
+<p>3. Fix some bugs</p>
+<p>4. En iyi ve en kapsamlı instagram downloader</p>
 <h5>Öğreticiyi kullan</h5>
 <p><a href=\"https://www.youtube.com/watch?v=VaosCIskcjk\">Kullanımı kolay</a></p>
-<p><a href=\"https://www.youtube.com/watch?v=lBSebQUiKCM\">Toplu indirme İleti, IGTV, hikayeler</a></p>
-<h5>En son sürüme güncelle</h5>
-<p>1.Google Play Güncellemesine girmek için<b><font color=\"blue\"> Tamam düğmesini </font></b>tıklayabilirsiniz.</p>
-<p>2.Güncellemek için<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"> Google Play </a>tıklayabilirsiniz</p>
+<p><a href=\"https://www.youtube.com/watch?v=lBSebQUiKCM\">Toplu indirme mesajları, IGTV, hikayeler</a></p>
 </html>"
 }

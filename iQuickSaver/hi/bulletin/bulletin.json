@@ -1,24 +1,21 @@
 {
-	"isShow":false,
-	"isForce":false,
+	"isShow":true,
+	"isForce":true,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.2.64",
+	"versionName":"1.2.92",
 	"versionCode":20191203,
-	"title":"Developer's word",
+	"title":"क्या आप मुझे रेटिंग दे सकते हैं?",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 <html>
-<p><b><font color=\"orange\">If you think this app is helpful to you, please rate me or share it with your friends, your evaluation and sharing are my motivation for updating.</font></b></p>
-<h5>App 1.2.64 update content</h5>
-<p>1.Support batch download of stories, IGTV, posts</p>
-<p>2.Supports download posts, IGTV, stories, profile, highlights URL and more from Instagram</p>
-<p>3.Support for download privacy account content</p>
-<p>4.The most comprehensive Instagram saver</p>
-<h5>Use tutorial</h5>
-<p><a href=\"https://www.youtube.com/watch?v=VaosCIskcjk\">Simple to use</a></p>
-<p><a href=\"https://www.youtube.com/watch?v=lBSebQUiKCM\">Batch download posts, IGTV, stories</a></p>
-<h5>Update to the latest version</h5>
-<p>1.You can click the<b><font color=\"blue\"> OK button </font></b>to enter Google Play Update</p>
-<p>2.You can click the<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"> Google Play </a>to update</p>
+<p><b><font color=\"orange\">यदि आपको लगता है कि यह ऐप आपके लिए उपयोगी है, तो कृपया मुझे रेट करें या इसे अपने दोस्तों के साथ साझा करें, आपका मूल्यांकन और साझा करना अपडेट करने की मेरी प्रेरणा है।</font></b></p>
+<h5>ऐप 1.2.92 अपडेट कंटेंट</h5>
+<p>1. स्वचालित डाउनलोड सेवा जोड़ें</p>
+<p>2. अवतार चित्रों को डाउनलोड करने के लिए समर्थन</p>
+<p>3. कुछ कीड़े ठीक करें</p>
+<p>4. सबसे अच्छा और सबसे व्यापक इंस्टाग्राम डाउनलोडर</p>
+<h5>ट्यूटोरियल का उपयोग करें</h5>
+<p><a href=\"https://www.youtube.com/watch?v=VaosCIskcjk\">उपयोग करने के लिए सरल</a></p>
+<p><a href=\"https://www.youtube.com/watch?v=lBSebQUiKCM\">बैच डाउनलोड पोस्ट, IGTV, कहानियाँ</a></p>
 </html>"
 }

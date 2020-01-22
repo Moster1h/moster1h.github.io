@@ -1,24 +1,21 @@
 {
-	"isShow":false,
-	"isForce":false,
+	"isShow":true,
+	"isForce":true,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.2.64",
+	"versionName":"1.2.92",
 	"versionCode":20191203,
-	"title":"Developer's word",
+	"title":"Môžete mi dať hodnotenie?",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 <html>
-<p><b><font color=\"orange\">If you think this app is helpful to you, please rate me or share it with your friends, your evaluation and sharing are my motivation for updating.</font></b></p>
-<h5>App 1.2.64 update content</h5>
-<p>1.Support batch download of stories, IGTV, posts</p>
-<p>2.Supports download posts, IGTV, stories, profile, highlights URL and more from Instagram</p>
-<p>3.Support for download privacy account content</p>
-<p>4.The most comprehensive Instagram saver</p>
-<h5>Use tutorial</h5>
-<p><a href=\"https://www.youtube.com/watch?v=VaosCIskcjk\">Simple to use</a></p>
-<p><a href=\"https://www.youtube.com/watch?v=lBSebQUiKCM\">Batch download posts, IGTV, stories</a></p>
-<h5>Update to the latest version</h5>
-<p>1.You can click the<b><font color=\"blue\"> OK button </font></b>to enter Google Play Update</p>
-<p>2.You can click the<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"> Google Play </a>to update</p>
+<p><b><font color=\"orange\">Ak si myslíte, že táto aplikácia je pre vás užitočná, ohodnoťte ma alebo zdieľajte so svojimi priateľmi. Vaše hodnotenie a zdieľanie sú mojou motiváciou pre aktualizáciu.</font></b></p>
+<h5>Aktualizácia obsahu aplikácie 1.2.92</h5>
+<p>1. Pridajte službu automatického sťahovania</p>
+<p>2. Podpora sťahovania avatar obrázkov</p>
+<p>3. Opravte niektoré chyby</p>
+<p>4. Najlepšie a najkomplexnejšie downloader instagramu</p>
+<h5>Použite príručku</h5>
+<p><a href=\"https://www.youtube.com/watch?v=VaosCIskcjk\">Jednoduché použitie</a></p>
+<p><a href=\"https://www.youtube.com/watch?v=lBSebQUiKCM\">Dávkové príspevky na stiahnutie, IGTV, príbehy</a></p>
 </html>"
 }

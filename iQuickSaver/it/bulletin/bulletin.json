@@ -1,24 +1,21 @@
 {
-	"isShow":false,
-	"isForce":false,
+	"isShow":true,
+	"isForce":true,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.2.69",
+	"versionName":"1.2.92",
 	"versionCode":20191203,
 	"title":"Puoi darmi una valutazione?",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 <html>
-<p><b><font color=\"orange\">Se ritieni che questa app ti sia utile, ti preghiamo di valutarmi o condividerla con i tuoi amici, la tua valutazione e condivisione sono la mia motivazione per l'aggiornamento.</font></b></p>
-<h5>App aggiorna il contenuto 1.2.69</h5>
-<p>1.Supporta il download in batch di Storie, IGTV, Inviare</p>
-<p>2.Supporta Inviare di download, IGTV, storie, profilo, URL di momenti salienti e altro da Instagram</p>
-<p>3.Supporto per il download del contenuto dell'account sulla privacy</p>
-<p>4.Il risparmiatore di Instagram più completo</p>
+<p><b><font color=\"orange\">Se ritieni che questa app ti sia utile, ti prego di valutarmi o condividerla con i tuoi amici, la tua valutazione e condivisione sono la mia motivazione per l'aggiornamento.</font></b></p>
+<h5>App aggiorna il contenuto 1.2.92</h5>
+<p>1. Aggiungi il servizio di download automatico</p>
+<p>2. Supporto per il download di immagini avatar</p>
+<p>3. Correggi alcuni bug</p>
+<p>4. Il downloader di instagram migliore e più completo</p>
 <h5>Usa il tutorial</h5>
 <p><a href=\"https://www.youtube.com/watch?v=VaosCIskcjk\">Semplice da usare</a></p>
-<p><a href=\"https://www.youtube.com/watch?v=lBSebQUiKCM\">Inviare di download in batch, IGTV, storie</a></p>
-<h5>Aggiornamento all'ultima versione</h5>
-<p>1.Puoi fare clic sul<b><font color=\"blue\"> pulsante OK </font></b>per accedere a Google Play Update</p>
-<p>2.Puoi fare clic su<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"> Google Play </a>per aggiornare</p>
+<p><a href=\"https://www.youtube.com/watch?v=lBSebQUiKCM\">Batch scaricare messaggi, IGTV, storie</a></p>
 </html>"
 }

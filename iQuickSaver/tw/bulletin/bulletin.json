@@ -1,25 +1,21 @@
 {
-	"isShow":false,
-	"isForce":false,
+	"isShow":true,
+	"isForce":true,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.2.69",
+	"versionName":"1.2.92",
 	"versionCode":20191203,
 	"title":"你能給我一個評分嗎？",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 <html>
-<p><b><font color=\"orange\">如果你覺得此應用對你有幫助，請評價我或分享給你的朋友，你的評價和分享就是我更新的動力。</font></b></p>
-<h5>應用1.2.69更新內容</h5>
-<p>1.支持批量下載限時動態，IGTV，帖子</p>
-<p>2.支持從Instagram下載帖子，IGTV，限時動態，個人主頁，限時動態精彩片段鏈接等等</p>
-<p>3.增加登錄賬號動態內容展示</p>
-<p>4.支持下載隱私賬戶內容</p>
-<p>5.功能最全面的Instagram下載器</p>
+<p><b><font color=\"orange\">如果您認為此應用對您有幫助，請給我評分或與您的朋友分享，您的評價和分享是我更新的動力。</font></b></p>
+<h5>App 1.2.92更新內容</h5>
+<p>1.添加自動下載服務</p>
+<p>2.支持下載頭像圖片</p>
+<p>3.修復一些錯誤</p>
+<p>4.最好，最全面的instagram下載器</p>
 <h5>使用教程</h5>
 <p><a href=\"https://www.youtube.com/watch?v=VaosCIskcjk\">簡單使用</a></p>
-<p><a href=\"https://www.youtube.com/watch?v=lBSebQUiKCM\">批量下載帖子，IGTV，限時動態</a></p>
-<h5>更新到最新版本</h5>
-<p>1.你可以點擊<b><font color=\"blue\">確定按鈕</font></b>進入Google Play更新</p>
-<p>2.你可以點擊<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\">Google Play</a>進行更新</p>
+<p><a href=\"https://www.youtube.com/watch?v=lBSebQUiKCM\">批量下載帖子，IGTV，故事</a></p>
 </html>"
 }
