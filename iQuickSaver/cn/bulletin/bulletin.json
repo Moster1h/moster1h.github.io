@@ -1,25 +1,21 @@
 {
-	"isShow":false,
-	"isForce":false,
+	"isShow":true,
+	"isForce":true,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.2.69",
+	"versionName":"1.2.92",
 	"versionCode":20191203,
 	"title":"你能给我一个评分吗？",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 <html>
 <p><b><font color=\"orange\">如果你觉得此应用对你有帮助，请评价我或分享给你的朋友，你的评价和分享就是我更新的动力。</font></b></p>
-<h5>应用1.2.69更新内容</h5>
-<p>1.支持批量下载快拍，IGTV，帖子</p>
-<p>2.支持从Instagram下载帖子，IGTV，快拍，个人主页，快拍精彩片段链接等等</p>
-<p>3.增加登录账号动态内容展示</p>
-<p>4.支持下载隐私账户内容</p>
-<p>5.功能最全面的Instagram下载器</p>
+<h5>应用1.2.92更新内容</h5>
+<p>1.添加自动下载服务</p>
+<p>2.支持下载头像图片</p>
+<p>3.修复一些Bugs</p>
+<p>4.最好，最全面的instagram下载器</p>
 <h5>使用教程</h5>
 <p><a href=\"https://www.youtube.com/watch?v=VaosCIskcjk\">简单使用</a></p>
 <p><a href=\"https://www.youtube.com/watch?v=lBSebQUiKCM\">批量下载帖子，IGTV，快拍</a></p>
-<h5>更新到最新版本</h5>
-<p>1.你可以点击<b><font color=\"blue\">确定按钮</font></b>进入Google Play更新</p>
-<p>2.你可以点击<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\">Google Play</a>进行更新</p>
 </html>"
 }

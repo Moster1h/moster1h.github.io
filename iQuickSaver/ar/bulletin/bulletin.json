@@ -1,24 +1,21 @@
 {
-	"isShow":false,
-	"isForce":false,
+	"isShow":true,
+	"isForce":true,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.2.64",
+	"versionName":"1.2.92",
 	"versionCode":20191203,
-	"title":"Developer's word",
+	"title":"هل يمكنك أن تعطيني تقييم؟",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 <html>
-<p><b><font color=\"orange\">If you think this app is helpful to you, please rate me or share it with your friends, your evaluation and sharing are my motivation for updating.</font></b></p>
-<h5>App 1.2.64 update content</h5>
-<p>1.Support batch download of stories, IGTV, posts</p>
-<p>2.Supports download posts, IGTV, stories, profile, highlights URL and more from Instagram</p>
-<p>3.Support for download privacy account content</p>
-<p>4.The most comprehensive Instagram saver</p>
-<h5>Use tutorial</h5>
-<p><a href=\"https://www.youtube.com/watch?v=VaosCIskcjk\">Simple to use</a></p>
-<p><a href=\"https://www.youtube.com/watch?v=lBSebQUiKCM\">Batch download posts, IGTV, stories</a></p>
-<h5>Update to the latest version</h5>
-<p>1.You can click the<b><font color=\"blue\"> OK button </font></b>to enter Google Play Update</p>
-<p>2.You can click the<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"> Google Play </a>to update</p>
+<p><b><font color=\"orange\">إذا كنت تعتقد أن هذا التطبيق مفيد لك ، فيرجى تقييم لي أو مشاركته مع أصدقائك ، وتقييمك ومشاركتك هما الدافع وراء التحديث.</font></b></p>
+<h5>التطبيق 1.2.92 تحديث المحتوى</h5>
+<p>1. إضافة خدمة التحميل التلقائي</p>
+<p>2. دعم لتحميل الصور الرمزية</p>
+<p>3. إصلاح بعض الأخطاء</p>
+<p>4. أفضل وأشمل تنزيل instagram</p>
+<h5>استخدام البرنامج التعليمي</h5>
+<p><a href=\"https://www.youtube.com/watch?v=VaosCIskcjk\">سهلة الاستخدام</a></p>
+<p><a href=\"https://www.youtube.com/watch?v=lBSebQUiKCM\">المشاركات تحميل الدفعة ، IGTV ، قصص</a></p>
 </html>"
 }

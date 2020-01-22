@@ -1,24 +1,21 @@
 {
-	"isShow":false,
-	"isForce":false,
+	"isShow":true,
+	"isForce":true,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.2.69",
+	"versionName":"1.2.92",
 	"versionCode":20191203,
 	"title":"¿Me puede dar una calificación?",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 <html>
-<p><b><font color=\"orange\">Si cree que esta app es útil para usted, califíqueme o compártala con sus amigos, su evaluación y uso compartido son mi motivación para actualizar.</font></b></p>
-<h5>App 1.2.69 actualizar contenido</h5>
-<p>1.Admite la descarga por lotes de Cuentos, IGTV, Enviar</p>
-<p>2.Admite Cuentos de descarga, IGTV, Enviar, perfil, URL destacada y más de Instagram</p>
-<p>3.Soporte para descargar contenido de la cuenta de privacidad</p>
-<p>4.El protector de Instagram más completo</p>
+<p><b><font color=\"orange\">Si cree que esta aplicación es útil para usted, califíqueme o compártala con sus amigos, su evaluación y uso compartido son mi motivación para actualizar.</font></b></p>
+<h5>Contenido de la actualización de la aplicación 1.2.92</h5>
+<p>1. Agregar servicio de descarga automática</p>
+<p>2. Soporte para descargar imágenes de avatar</p>
+<p>3. Arreglar algunos errores</p>
+<p>4. El mejor y más completo descargador de instagram</p>
 <h5>Usar tutorial</h5>
 <p><a href=\"https://www.youtube.com/watch?v=VaosCIskcjk\">Fácil de usar</a></p>
-<p><a href=\"https://www.youtube.com/watch?v=lBSebQUiKCM\">Cuentos de descarga por lotes, IGTV, Enviar</a></p>
-<h5>Actualiza a la última versión</h5>
-<p>1.Puede hacer clic en el<b><font color=\"blue\"> botón Aceptar </font></b>para ingresar a Google Play Update</p>
-<p>2.Puede hacer clic en<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"> Google Play </a>para actualizar</p>
+<p><a href=\"https://www.youtube.com/watch?v=lBSebQUiKCM\">Publicaciones de descarga por lotes, IGTV, historias</a></p>
 </html>"
 }

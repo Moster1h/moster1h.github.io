@@ -1,24 +1,21 @@
 {
-	"isShow":false,
-	"isForce":false,
+	"isShow":true,
+	"isForce":true,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.2.69",
+	"versionName":"1.2.92",
 	"versionCode":20191203,
 	"title":"Pouvez-vous me donner une note?",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 <html>
-<p><b><font color=\"orange\">Si vous pensez que cette app vous est utile, merci de m'évaluer ou de la partager avec vos amis, votre évaluation et votre partage sont ma motivation pour la mise à jour.</font></b></p>
-<h5>Contenu de la mise à jour de l'app 1.2.69</h5>
-<p>1.Prise en charge du téléchargement par lots Histoires, IGTV, Poster</p>
-<p>2.Prend en charge les Poster de téléchargement, IGTV, les histoires, le profil, les URL en surbrillance et plus depuis Instagram</p>
-<p>3.Prise en charge du téléchargement du contenu du compte de confidentialité</p>
-<p>4.L'économiseur Instagram le plus complet</p>
+<p><b><font color=\"orange\">Si vous pensez que cette application vous est utile, donnez-moi une note ou partagez-la avec vos amis, votre évaluation et votre partage sont ma motivation pour la mise à jour.</font></b></p>
+<h5>Contenu de la mise à jour de l'application 1.2.92</h5>
+<p>1. Ajouter un service de téléchargement automatique</p>
+<p>2. Prise en charge du téléchargement des photos d'avatar</p>
+<p>3. Correction de quelques bugs</p>
+<p>4. Le téléchargeur instagram le meilleur et le plus complet</p>
 <h5>Utiliser le tutoriel</h5>
-<p><a href=\"https://www.youtube.com/watch?v=VaosCIskcjk\">Simple d'utilisation</a></p>
-<p><a href=\"https://www.youtube.com/watch?v=lBSebQUiKCM\">Poster de téléchargement par lots, IGTV, histoires</a></p>
-<h5>Mise à jour vers la dernière version</h5>
-<p>1.Vous pouvez cliquer sur le<b><font color=\"blue\"> bouton OK </font></b>pour accéder à Google Play Update</p>
-<p>2.Vous pouvez cliquer sur<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"> Google Play </a>pour mettre à jour</p>
+<p><a href=\"https://www.youtube.com/watch?v=VaosCIskcjk\">Simple à utiliser</a></p>
+<p><a href=\"https://www.youtube.com/watch?v=lBSebQUiKCM\">Messages de téléchargement par lots, IGTV, histoires</a></p>
 </html>"
 }
