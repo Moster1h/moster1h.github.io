@@ -1,19 +1,20 @@
 {
-	"isShow":false,
+	"isShow":true,
 	"isForce":true,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.2.92",
+	"versionName":"1.2.93",
 	"versionCode":20191203,
 	"title":"Bisakah Anda memberi saya peringkat?",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 <html>
 <p><b><font color=\"orange\">Jika menurut Anda aplikasi ini bermanfaat bagi Anda, beri nilai saya atau bagikan dengan teman-teman Anda, evaluasi dan berbagi Anda adalah motivasi saya untuk memperbarui.</font></b></p>
-<h5>Aplikasi 1.2.92 memperbarui konten</h5>
-<p>1.Tambahkan layanan unduhan otomatis</p>
-<p>2.Dukungan untuk mengunduh gambar avatar</p>
-<p>3.Perbaiki beberapa bug</p>
-<p>4.Pengunduh instagram terbaik dan terlengkap</p>
+<h5>Aplikasi 1.2.93 memperbarui konten</h5>
+<p>1. Perbaiki file yang diunduh tidak muncul di galeri</p>
+<p>1. Tambahkan layanan unduhan otomatis</p>
+<p>2. Dukungan untuk mengunduh gambar avatar</p>
+<p>3. Perbaiki beberapa bug</p>
+<p>4. Pengunduh instagram terbaik dan terlengkap</p>
 <h5>Gunakan tutorial</h5>
 <p><a href=\"https://www.youtube.com/watch?v=VaosCIskcjk\">Mudah digunakan</a></p>
 <p><a href=\"https://www.youtube.com/watch?v=lBSebQUiKCM\">Posting unduhan batch, IGTV, cerita</a></p>

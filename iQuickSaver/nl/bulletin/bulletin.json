@@ -1,19 +1,20 @@
 {
-	"isShow":false,
+	"isShow":true,
 	"isForce":true,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.2.92",
+	"versionName":"1.2.93",
 	"versionCode":20191203,
 	"title":"Kun je me een cijfer geven?",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 <html>
 <p><b><font color=\"orange\">Als u denkt dat deze app nuttig voor u is, geef me dan een beoordeling of deel het met uw vrienden, uw evaluatie en delen zijn mijn motivatie voor het bijwerken.</font></b></p>
-<h5>App 1.2.92 update-inhoud</h5>
-<p>1. Voeg een automatische downloadservice toe</p>
-<p>2. Ondersteuning voor het downloaden van avatarafbeeldingen</p>
-<p>3. Los enkele bugs op</p>
-<p>4. De beste en meest uitgebreide instagramdownloader</p>
+<h5>App 1.2.93 update-inhoud</h5>
+<p>1. Gedownloade bestanden repareren die niet in de galerij verschijnen</p>
+<p>2. Voeg een automatische downloadservice toe</p>
+<p>3. Ondersteuning voor het downloaden van avatarafbeeldingen</p>
+<p>4. Los enkele bugs op</p>
+<p>5. De beste en meest uitgebreide instagramdownloader</p>
 <h5>Gebruik tutorial</h5>
 <p><a href=\"https://www.youtube.com/watch?v=VaosCIskcjk\">Eenvoudig in gebruik</a></p>
 <p><a href=\"https://www.youtube.com/watch?v=lBSebQUiKCM\">Batch downloaden berichten, IGTV, verhalen</a></p>

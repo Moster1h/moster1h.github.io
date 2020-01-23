@@ -1,19 +1,20 @@
 {
-	"isShow":false,
+	"isShow":true,
 	"isForce":true,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.2.92",
+	"versionName":"1.2.93",
 	"versionCode":20191203,
 	"title":"評価をお願いできますか？",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 <html>
 <p><b><font color=\"orange\">このアプリがあなたに役立つと思うなら、私を評価するか、あなたの友人と共有してください、あなたの評価と共有は更新の私の動機です。</font></b></p>
-<h5>アプリ1.2.92アップデートコンテンツ</h5>
-<p>1.自動ダウンロードサービスを追加する</p>
-<p>2.アバター画像のダウンロードのサポート</p>
-<p>3.いくつかのバグを修正</p>
-<p>4.最良かつ最も包括的なinstagramダウンローダー</p>
+<h5>アプリ1.2.93アップデートコンテンツ</h5>
+<p>1.ダウンロードしたファイルがギャラリーに表示されない問題を修正</p>
+<p>2.自動ダウンロードサービスを追加する</p>
+<p>3.アバター画像のダウンロードのサポート</p>
+<p>4.いくつかのバグを修正</p>
+<p>5.最良かつ最も包括的なinstagramダウンローダー</p>
 <h5>チュートリアルを使用する</h5>
 <p><a href=\"https://www.youtube.com/watch?v=VaosCIskcjk\">使いやすい</a></p>
 <p><a href=\"https://www.youtube.com/watch?v=lBSebQUiKCM\">投稿、IGTV、ストーリーの一括ダウンロード</a></p>

@@ -1,19 +1,20 @@
 {
-	"isShow":false,
+	"isShow":true,
 	"isForce":true,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.2.92",
+	"versionName":"1.2.93",
 	"versionCode":20191203,
 	"title":"你能給我一個評分嗎？",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 <html>
 <p><b><font color=\"orange\">如果您認為此應用對您有幫助，請給我評分或與您的朋友分享，您的評價和分享是我更新的動力。</font></b></p>
-<h5>App 1.2.92更新內容</h5>
-<p>1.添加自動下載服務</p>
-<p>2.支持下載頭像圖片</p>
-<p>3.修復一些錯誤</p>
-<p>4.最好，最全面的instagram下載器</p>
+<h5>App 1.2.93更新內容</h5>
+<p>1.修復下載的文件未顯示在圖庫中的問題</p>
+<p>2.添加自動下載服務</p>
+<p>3.支持下載頭像圖片</p>
+<p>4.修復一些錯誤</p>
+<p>5.最好，最全面的instagram下載器</p>
 <h5>使用教程</h5>
 <p><a href=\"https://www.youtube.com/watch?v=VaosCIskcjk\">簡單使用</a></p>
 <p><a href=\"https://www.youtube.com/watch?v=lBSebQUiKCM\">批量下載帖子，IGTV，故事</a></p>

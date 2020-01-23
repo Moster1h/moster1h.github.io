@@ -1,19 +1,20 @@
 {
-	"isShow":false,
+	"isShow":true,
 	"isForce":true,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.2.92",
+	"versionName":"1.2.93",
 	"versionCode":20191203,
 	"title":"هل يمكنك أن تعطيني تقييم؟",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 <html>
 <p><b><font color=\"orange\">إذا كنت تعتقد أن هذا التطبيق مفيد لك ، فيرجى تقييم لي أو مشاركته مع أصدقائك ، وتقييمك ومشاركتك هما الدافع وراء التحديث.</font></b></p>
-<h5>التطبيق 1.2.92 تحديث المحتوى</h5>
-<p>1. إضافة خدمة التحميل التلقائي</p>
-<p>2. دعم لتحميل الصور الرمزية</p>
-<p>3. إصلاح بعض الأخطاء</p>
-<p>4. أفضل وأشمل تنزيل instagram</p>
+<h5>التطبيق 1.2.93 تحديث المحتوى</h5>
+<p>1. إصلاح الملفات التي تم تنزيلها لا تظهر في المعرض</p>
+<p>2. إضافة خدمة التحميل التلقائي</p>
+<p>3. دعم لتحميل الصور الرمزية</p>
+<p>4. إصلاح بعض الأخطاء</p>
+<p>5. أفضل وأشمل تنزيل instagram</p>
 <h5>استخدام البرنامج التعليمي</h5>
 <p><a href=\"https://www.youtube.com/watch?v=VaosCIskcjk\">سهلة الاستخدام</a></p>
 <p><a href=\"https://www.youtube.com/watch?v=lBSebQUiKCM\">المشاركات تحميل الدفعة ، IGTV ، قصص</a></p>

@@ -1,15 +1,16 @@
 {
-	"isShow":false,
+	"isShow":true,
 	"isForce":true,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.2.92",
+	"versionName":"1.2.93",
 	"versionCode":20191203,
 	"title":"Чи можете ви дати мені оцінку?",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 <html>
 <p><b><font color=\"orange\">Якщо ви вважаєте, що цей додаток вам корисний, будь ласка, оцініть мене або поділіться ним із друзями, ваша оцінка та обмін - моя мотивація для оновлення.</font></b></p>
-<h5>Додаток 1.2.92 оновити вміст</h5>
+<h5>Додаток 1.2.93 оновити вміст</h5>
+<p>1. Виправити завантажені файли, які не відображаються в галереї</p>
 <p>1. Додати послугу автоматичного завантаження</p>
 <p>2. Підтримка завантаження аватарних зображень</p>
 <p>3. Виправити деякі помилки</p>

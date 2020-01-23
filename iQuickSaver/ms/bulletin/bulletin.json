@@ -1,19 +1,20 @@
 {
-	"isShow":false,
+	"isShow":true,
 	"isForce":true,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.2.92",
+	"versionName":"1.2.93",
 	"versionCode":20191203,
 	"title":"Bolehkah anda memberi penilaian?",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 <html>
 <p><b><font color=\"orange\">Jika anda menganggap aplikasi ini berguna untuk anda, sila menilainya atau kongsi dengan rakan anda, penilaian dan perkongsian anda adalah motivasi saya untuk mengemaskini.</font></b></p>
-<h5>App 1.2.92 mengemaskini kandungan</h5>
-<p>1. Tambah perkhidmatan muat turun automatik</p>
-<p>2. Sokongan untuk gambar avatar muat turun</p>
-<p>3. Betulkan beberapa pepijat</p>
-<p>4. Pemuat instagram terbaik dan paling komprehensif</p>
+<h5>App 1.2.93 mengemaskini kandungan</h5>
+<p>1. Betulkan fail yang dimuat turun tidak dipaparkan dalam galeri</p>
+<p>2. Tambah perkhidmatan muat turun automatik</p>
+<p>3. Sokongan untuk gambar avatar muat turun</p>
+<p>4. Betulkan beberapa pepijat</p>
+<p>5. Pemuat instagram terbaik dan paling komprehensif</p>
 <h5>Gunakan tutorial</h5>
 <p><a href=\"https://www.youtube.com/watch?v=VaosCIskcjk\">Mudah untuk digunakan</a></p>
 <p><a href=\"https://www.youtube.com/watch?v=lBSebQUiKCM\">Siaran memuatkan kumpulan, IGTV, cerita</a></p>

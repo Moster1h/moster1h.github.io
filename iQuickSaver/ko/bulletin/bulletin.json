@@ -1,19 +1,20 @@
 {
-	"isShow":false,
+	"isShow":true,
 	"isForce":true,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.2.92",
+	"versionName":"1.2.93",
 	"versionCode":20191203,
 	"title":"당신은 저에게 평가를 줄 수 있습니까?",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 <html>
 <p><b><font color=\"orange\">이 응용 프로그램이 당신에게 도움이된다고 생각한다면, 저를 평가하거나 친구들과 공유하십시오. 평가 및 공유는 업데이트에 대한 나의 동기입니다.</font></b></p>
-<h5>앱 1.2.92 업데이트 내용</h5>
-<p>1. 자동 다운로드 서비스 추가</p>
-<p>2. 아바타 사진 다운로드 지원</p>
-<p>3. 몇 가지 버그 수정</p>
-<p>4. 가장 포괄적 인 인스 타 그램 다운로더</p>
+<h5>앱 1.2.93 업데이트 내용</h5>
+<p>1. 다운로드 한 파일이 갤러리에 표시되지 않는 문제 수정</p>
+<p>2. 자동 다운로드 서비스 추가</p>
+<p>3. 아바타 사진 다운로드 지원</p>
+<p>4. 몇 가지 버그 수정</p>
+<p>5. 가장 포괄적 인 인스 타 그램 다운로더</p>
 <h5>Use tutorial</h5>
 <p><a href=\"https://www.youtube.com/watch?v=VaosCIskcjk\">사용하기 간단</a></p>
 <p><a href=\"https://www.youtube.com/watch?v=lBSebQUiKCM\">배치 다운로드 게시물, IGTV, 스토리</a></p>

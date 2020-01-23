@@ -1,19 +1,20 @@
 {
-	"isShow":false,
+	"isShow":true,
 	"isForce":true,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.2.92",
+	"versionName":"1.2.93",
 	"versionCode":20191203,
 	"title":"Puoi darmi una valutazione?",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 <html>
 <p><b><font color=\"orange\">Se ritieni che questa app ti sia utile, ti prego di valutarmi o condividerla con i tuoi amici, la tua valutazione e condivisione sono la mia motivazione per l'aggiornamento.</font></b></p>
-<h5>App aggiorna il contenuto 1.2.92</h5>
-<p>1. Aggiungi il servizio di download automatico</p>
-<p>2. Supporto per il download di immagini avatar</p>
-<p>3. Correggi alcuni bug</p>
-<p>4. Il downloader di instagram migliore e più completo</p>
+<h5>App aggiorna il contenuto 1.2.93</h5>
+<p>1. Correggi i file scaricati che non vengono visualizzati nella galleria</p>
+<p>2. Aggiungi il servizio di download automatico</p>
+<p>3. Supporto per il download di immagini avatar</p>
+<p>4. Correggi alcuni bug</p>
+<p>5. Il downloader di instagram migliore e più completo</p>
 <h5>Usa il tutorial</h5>
 <p><a href=\"https://www.youtube.com/watch?v=VaosCIskcjk\">Semplice da usare</a></p>
 <p><a href=\"https://www.youtube.com/watch?v=lBSebQUiKCM\">Batch scaricare messaggi, IGTV, storie</a></p>

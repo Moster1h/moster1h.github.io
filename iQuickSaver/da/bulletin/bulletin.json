@@ -1,19 +1,20 @@
 {
-	"isShow":false,
+	"isShow":true,
 	"isForce":true,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.2.92",
+	"versionName":"1.2.93",
 	"versionCode":20191203,
 	"title":"Kan du give mig en vurdering?",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 <html>
 <p><b><font color=\"orange\">Hvis du synes, at denne app er nyttig for dig, bedøm venligst mig eller del den med dine venner, din evaluering og deling er min motivation til at opdatere.</font></b></p>
-<h5>App 1.2.92 opdatering af indhold</h5>
-<p>1.Tilføj automatisk downloadtjeneste</p>
-<p>2.Støtte til download-avatar billeder</p>
-<p>3.Løs nogle fejl</p>
-<p>4.Den bedste og mest omfattende instagram-downloader</p>
+<h5>App 1.2.93 opdatering af indhold</h5>
+<p>1.Fix downloadede filer, der ikke vises i galleriet</p>
+<p>2.Tilføj automatisk downloadtjeneste</p>
+<p>3.Støtte til download-avatar billeder</p>
+<p>4.Løs nogle fejl</p>
+<p>5.Den bedste og mest omfattende instagram-downloader</p>
 <h5>Brug tutorial</h5>
 <p><a href=\"https://www.youtube.com/watch?v=VaosCIskcjk\">Enkel at bruge</a></p>
 <p><a href=\"https://www.youtube.com/watch?v=lBSebQUiKCM\">Batch-download-indlæg, IGTV, historier</a></p>

@@ -1,19 +1,20 @@
 {
-	"isShow":false,
+	"isShow":true,
 	"isForce":true,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.2.92",
+	"versionName":"1.2.93",
 	"versionCode":20191203,
 	"title":"Czy możesz dać mi ocenę?",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 <html>
 <p><b><font color=\"orange\">Jeśli uważasz, że ta aplikacja jest dla Ciebie pomocna, oceń mnie lub udostępnij znajomym, a moja ocena i udostępnianie są moją motywacją do aktualizacji.</font></b></p>
-<h5>Aktualizacja zawartości aplikacji 1.2.92</h5>
-<p>1. Dodaj usługę automatycznego pobierania</p>
-<p>2. Wsparcie dla pobierania zdjęć awatara</p>
-<p>3. Napraw niektóre błędy</p>
-<p>4. Najlepszy i najbardziej wszechstronny program do pobierania Instagram</p>
+<h5>Aktualizacja zawartości aplikacji 1.2.93</h5>
+<p>1. Napraw pobrane pliki, które nie pojawiają się w galerii</p>
+<p>2. Dodaj usługę automatycznego pobierania</p>
+<p>3. Wsparcie dla pobierania zdjęć awatara</p>
+<p>4. Napraw niektóre błędy</p>
+<p>5. Najlepszy i najbardziej wszechstronny program do pobierania Instagram</p>
 <h5>Skorzystaj z samouczka</h5>
 <p><a href=\"https://www.youtube.com/watch?v=VaosCIskcjk\">Prosty w użyciu</a></p>
 <p><a href=\"https://www.youtube.com/watch?v=lBSebQUiKCM\">Wpisy do pobrania partii, IGTV, historie</a></p>

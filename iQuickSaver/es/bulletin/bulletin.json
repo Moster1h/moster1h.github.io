@@ -1,15 +1,16 @@
 {
-	"isShow":false,
+	"isShow":true,
 	"isForce":true,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.2.92",
+	"versionName":"1.2.93",
 	"versionCode":20191203,
 	"title":"¿Me puede dar una calificación?",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 <html>
 <p><b><font color=\"orange\">Si cree que esta aplicación es útil para usted, califíqueme o compártala con sus amigos, su evaluación y uso compartido son mi motivación para actualizar.</font></b></p>
-<h5>Contenido de la actualización de la aplicación 1.2.92</h5>
+<h5>Contenido de la actualización de la aplicación 1.2.93</h5>
+<p>1. Se corrigieron los archivos descargados que no aparecían en la galería</p>
 <p>1. Agregar servicio de descarga automática</p>
 <p>2. Soporte para descargar imágenes de avatar</p>
 <p>3. Arreglar algunos errores</p>

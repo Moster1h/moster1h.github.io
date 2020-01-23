@@ -1,19 +1,20 @@
 {
-	"isShow":false,
+	"isShow":true,
 	"isForce":true,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.2.92",
+	"versionName":"1.2.93",
 	"versionCode":20191203,
 	"title":"Môžete mi dať hodnotenie?",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 <html>
 <p><b><font color=\"orange\">Ak si myslíte, že táto aplikácia je pre vás užitočná, ohodnoťte ma alebo zdieľajte so svojimi priateľmi. Vaše hodnotenie a zdieľanie sú mojou motiváciou pre aktualizáciu.</font></b></p>
-<h5>Aktualizácia obsahu aplikácie 1.2.92</h5>
-<p>1. Pridajte službu automatického sťahovania</p>
-<p>2. Podpora sťahovania avatar obrázkov</p>
-<p>3. Opravte niektoré chyby</p>
-<p>4. Najlepšie a najkomplexnejšie downloader instagramu</p>
+<h5>Aktualizácia obsahu aplikácie 1.2.93</h5>
+<p>1. Oprava stiahnutých súborov, ktoré sa nezobrazujú v galérii</p>
+<p>2. Pridajte službu automatického sťahovania</p>
+<p>3. Podpora sťahovania avatar obrázkov</p>
+<p>4. Opravte niektoré chyby</p>
+<p>5. Najlepšie a najkomplexnejšie downloader instagramu</p>
 <h5>Použite príručku</h5>
 <p><a href=\"https://www.youtube.com/watch?v=VaosCIskcjk\">Jednoduché použitie</a></p>
 <p><a href=\"https://www.youtube.com/watch?v=lBSebQUiKCM\">Dávkové príspevky na stiahnutie, IGTV, príbehy</a></p>
