@@ -1,6 +1,6 @@
 {
-	"isShow":false,
-	"isForce":true,
+	"isShow":true,
+	"isForce":false,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
 	"versionName":"1.2.93",
 	"versionCode":20191203,
@@ -9,14 +9,5 @@
 	"content":"<!DOCTYPE>
 <html>
 <p><b><font color=\"orange\">If you think this app is helpful to you, please rate me or share it with your friends, your evaluation and sharing are my motivation for updating.</font></b></p>
-<h5>App 1.2.93 update content</h5>
-<p>1. Fix downloaded files not showing up in gallery</p>
-<p>2. Add automatic download service</p>
-<p>3. Support for download avatar pictures</p>
-<p>4. Fix some bugs</p>
-<p>5. The best and most comprehensive instagram downloader</p>
-<h5>Use tutorial</h5>
-<p><a href=\"https://www.youtube.com/watch?v=VaosCIskcjk\">Simple to use</a></p>
-<p><a href=\"https://www.youtube.com/watch?v=lBSebQUiKCM\">Batch download posts, IGTV, stories</a></p>
 </html>"
 }
