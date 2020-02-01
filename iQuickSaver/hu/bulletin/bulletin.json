@@ -1,6 +1,6 @@
 {
-	"isShow":false,
-	"isForce":true,
+	"isShow":true,
+	"isForce":false,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
 	"versionName":"1.2.93",
 	"versionCode":20191203,
@@ -8,15 +8,6 @@
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 <html>
-<p><b><font color=\"orange\">Ha úgy gondolja, hogy ez az alkalmazás hasznos neked, kérjük értékelje vagy ossza meg barátaival, az értékelés és a megosztás motiválja a frissítést.</font></b></p>
-<h5>Az 1.2.93 alkalmazás frissíti a tartalmat</h5>
-<p>1. Javítsa meg a letöltött fájlokat, amelyek nem jelennek meg a galériában</p>
-<p>2. Adjon hozzá automatikus letöltési szolgáltatást</p>
-<p>3. Támogatás avatar képek letöltéséhez</p>
-<p>4. Javítson ki néhány hibát</p>
-<p>5. A legjobb és legátfogóbb Instagram letöltő</p>
-<h5>Használja az oktatóprogramot</h5>
-<p><a href=\"https://www.youtube.com/watch?v=VaosCIskcjk\">Egyszerű használat</a></p>
-<p><a href=\"https://www.youtube.com/watch?v=lBSebQUiKCM\">Kötegelt letöltési üzenetek, IGTV, történetek</a></p>
+<b><font color=\"orange\">Ha úgy gondolja, hogy ez az alkalmazás hasznos neked, kérjük értékelje vagy ossza meg barátaival, az értékelés és a megosztás motiválja a frissítést.</font></b>
 </html>"
 }

@@ -1,6 +1,6 @@
 {
-	"isShow":false,
-	"isForce":true,
+	"isShow":true,
+	"isForce":false,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
 	"versionName":"1.2.93",
 	"versionCode":20191203,
@@ -8,15 +8,6 @@
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 <html>
-<p><b><font color=\"orange\">Nếu bạn nghĩ ứng dụng này hữu ích với bạn, vui lòng đánh giá tôi hoặc chia sẻ nó với bạn bè của bạn, đánh giá và chia sẻ của bạn là động lực để tôi cập nhật.</font></b></p>
-<h5>Nội dung cập nhật ứng dụng 1.2.93</h5>
-<p>1. Sửa các tệp đã tải xuống không hiển thị trong thư viện</p>
-<p>2. Thêm dịch vụ tải xuống tự động</p>
-<p>3. Hỗ trợ tải ảnh đại diện</p>
-<p>4. Sửa một số lỗi</p>
-<p>5. Trình tải xuống instagram tốt nhất và toàn diện nhất</p>
-<h5>Sử dụng hướng dẫn</h5>
-<p><a href=\"https://www.youtube.com/watch?v=VaosCIskcjk\">Đơn giản để sử dụng</a></p>
-<p><a href=\"https://www.youtube.com/watch?v=lBSebQUiKCM\">Batch tải bài viết, IGTV, câu chuyện</a></p>
+<b><font color=\"orange\">Nếu bạn nghĩ ứng dụng này hữu ích với bạn, vui lòng đánh giá tôi hoặc chia sẻ nó với bạn bè của bạn, đánh giá và chia sẻ của bạn là động lực để tôi cập nhật.</font></b>
 </html>"
 }

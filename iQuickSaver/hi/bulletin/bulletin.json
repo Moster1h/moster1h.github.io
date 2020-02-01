@@ -1,6 +1,6 @@
 {
-	"isShow":false,
-	"isForce":true,
+	"isShow":true,
+	"isForce":false,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
 	"versionName":"1.2.93",
 	"versionCode":20191203,
@@ -8,15 +8,6 @@
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 <html>
-<p><b><font color=\"orange\">यदि आपको लगता है कि यह ऐप आपके लिए उपयोगी है, तो कृपया मुझे रेट करें या इसे अपने दोस्तों के साथ साझा करें, आपका मूल्यांकन और साझा करना अपडेट करने की मेरी प्रेरणा है।</font></b></p>
-<h5>ऐप 1.2.93 अपडेट कंटेंट</h5>
-<p>1. गैलरी में दिखाई न देने वाली डाउनलोड की गई फ़ाइलों को ठीक करें</p>
-<p>2. स्वचालित डाउनलोड सेवा जोड़ें</p>
-<p>3. अवतार चित्रों को डाउनलोड करने के लिए समर्थन</p>
-<p>4. कुछ कीड़े ठीक करें</p>
-<p>5. सबसे अच्छा और सबसे व्यापक इंस्टाग्राम डाउनलोडर</p>
-<h5>ट्यूटोरियल का उपयोग करें</h5>
-<p><a href=\"https://www.youtube.com/watch?v=VaosCIskcjk\">उपयोग करने के लिए सरल</a></p>
-<p><a href=\"https://www.youtube.com/watch?v=lBSebQUiKCM\">बैच डाउनलोड पोस्ट, IGTV, कहानियाँ</a></p>
+<b><font color=\"orange\">यदि आपको लगता है कि यह ऐप आपके लिए उपयोगी है, तो कृपया मुझे रेट करें या इसे अपने दोस्तों के साथ साझा करें, आपका मूल्यांकन और साझा करना अपडेट करने की मेरी प्रेरणा है।</font></b>
 </html>"
 }

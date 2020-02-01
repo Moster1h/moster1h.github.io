@@ -1,6 +1,6 @@
 {
-	"isShow":false,
-	"isForce":true,
+	"isShow":true,
+	"isForce":false,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
 	"versionName":"1.2.93",
 	"versionCode":20191203,
@@ -8,15 +8,6 @@
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 <html>
-<p><b><font color=\"orange\">Wenn Sie der Meinung sind, dass diese App hilfreich für Sie ist, bewerten Sie mich bitte oder teilen Sie sie mit Ihren Freunden. Ihre Bewertung und Ihr Teilen sind meine Motivation für die Aktualisierung.</font></b></p>
-<h5>App 1.2.93 Update-Inhalt</h5>
-<p>1. Behoben, dass heruntergeladene Dateien nicht in der Galerie angezeigt werden</p>
-<p>2. Automatischen Download-Service hinzufügen</p>
-<p>3. Unterstützen Sie das Herunterladen von Avatar-Bildern</p>
-<p>4. Beheben Sie einige Fehler</p>
-<p>5. Der beste und umfassendste Instagram-Downloader</p>
-<h5>Tutorial verwenden</h5>
-<p><a href=\"https://www.youtube.com/watch?v=VaosCIskcjk\">Einfach zu benutzen</a></p>
-<p><a href=\"https://www.youtube.com/watch?v=lBSebQUiKCM\">Batch-Download-Beiträge, IGTV, Geschichten</a></p>
+<b><font color=\"orange\">Wenn Sie der Meinung sind, dass diese App hilfreich für Sie ist, bewerten Sie mich bitte oder teilen Sie sie mit Ihren Freunden. Ihre Bewertung und Ihr Teilen sind meine Motivation für die Aktualisierung.</font></b>
 </html>"
 }

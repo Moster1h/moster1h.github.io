@@ -1,6 +1,6 @@
 {
-	"isShow":false,
-	"isForce":true,
+	"isShow":true,
+	"isForce":false,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
 	"versionName":"1.2.93",
 	"versionCode":20191203,
@@ -8,15 +8,6 @@
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 <html>
-<p><b><font color=\"orange\">Bu uygulama sizin için yararlı olduğunu düşünüyorsanız, lütfen bana puan ya da arkadaşlarınızla paylaşın, değerlendirme ve paylaşım güncelleme için motivasyon.</font></b></p>
-<h5>Uygulama 1.2.93 güncelleme içeriği</h5>
-<p>1. İndirilen dosyaları galeride görünmeme düzeltildi</p>
-<p>2. Otomatik indirme hizmeti ekleyin</p>
-<p>3. avatar resimleri indirmek için destek</p>
-<p>4. Fix some bugs</p>
-<p>5. En iyi ve en kapsamlı instagram downloader</p>
-<h5>Öğreticiyi kullan</h5>
-<p><a href=\"https://www.youtube.com/watch?v=VaosCIskcjk\">Kullanımı kolay</a></p>
-<p><a href=\"https://www.youtube.com/watch?v=lBSebQUiKCM\">Toplu indirme mesajları, IGTV, hikayeler</a></p>
+<b><font color=\"orange\">Bu uygulama sizin için yararlı olduğunu düşünüyorsanız, lütfen bana puan ya da arkadaşlarınızla paylaşın, değerlendirme ve paylaşım güncelleme için motivasyon.</font></b>
 </html>"
 }

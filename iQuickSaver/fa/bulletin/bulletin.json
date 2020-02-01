@@ -1,6 +1,6 @@
 {
-	"isShow":false,
-	"isForce":true,
+	"isShow":true,
+	"isForce":false,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
 	"versionName":"1.2.93",
 	"versionCode":20191203,
@@ -8,15 +8,6 @@
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 <html>
-<p><b><font color=\"orange\">اگر فکر می کنید این برنامه برای شما مفید است ، لطفا به من امتیاز دهید یا آن را با دوستان خود به اشتراک بگذارید ، ارزیابی و اشتراک گذاری انگیزه من برای به روز رسانی است.</font></b></p>
-<h5>محتوای بروزرسانی 1.2.93 برنامه</h5>
-<p>1. پرونده های بارگیری شده در گالری را برطرف نکنید</p>
-<p>2. خدمات بارگیری خودکار</p>
-<p>3. پشتیبانی از دانلود تصاویر آواتار</p>
-<p>4. رفع برخی از اشکالات</p>
-<p>5. بهترین و کاملترین بارگیری کننده اینستاگرام</p>
-<h5>از آموزش استفاده کنید</h5>
-<p><a href=\"https://www.youtube.com/watch?v=VaosCIskcjk\">ساده برای استفاده</a></p>
-<p><a href=\"https://www.youtube.com/watch?v=lBSebQUiKCM\">پست های بارگیری دسته ای ، IGTV ، داستان ها</a></p>
+<b><font color=\"orange\">اگر فکر می کنید این برنامه برای شما مفید است ، لطفا به من امتیاز دهید یا آن را با دوستان خود به اشتراک بگذارید ، ارزیابی و اشتراک گذاری انگیزه من برای به روز رسانی است.</font></b>
 </html>"
 }

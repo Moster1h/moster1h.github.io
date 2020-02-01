@@ -1,6 +1,6 @@
 {
-	"isShow":false,
-	"isForce":true,
+	"isShow":true,
+	"isForce":false,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
 	"versionName":"1.2.93",
 	"versionCode":20191203,
@@ -8,15 +8,6 @@
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 <html>
-<p><b><font color=\"orange\">Если вы считаете, что это приложение полезно для вас, пожалуйста, оцените меня или поделитесь им с друзьями, ваша оценка и обмен - моя мотивация для обновления.</font></b></p>
-<h5>Приложение 1.2.93 обновление контента</h5>
-<p>1. Исправлена ошибка, при которой загруженные файлы не отображаются в галерее.</p>
-<p>2. Добавить сервис автоматической загрузки</p>
-<p>3. Поддержка загрузки аватара картинок</p>
-<p>4. Исправить некоторые ошибки</p>
-<p>5. Лучший и наиболее полный загрузчик Instagram</p>
-<h5>Используйте учебник</h5>
-<p><a href=\"https://www.youtube.com/watch?v=VaosCIskcjk\">Прост в использовании</a></p>
-<p><a href=\"https://www.youtube.com/watch?v=lBSebQUiKCM\">Пакетная загрузка постов, IGTV, рассказы</a></p>
+<b><font color=\"orange\">Если вы считаете, что это приложение полезно для вас, пожалуйста, оцените меня или поделитесь им с друзьями, ваша оценка и обмен - моя мотивация для обновления.</font></b>
 </html>"
 }

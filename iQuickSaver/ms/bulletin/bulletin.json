@@ -1,6 +1,6 @@
 {
-	"isShow":false,
-	"isForce":true,
+	"isShow":true,
+	"isForce":false,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
 	"versionName":"1.2.93",
 	"versionCode":20191203,
@@ -8,15 +8,6 @@
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 <html>
-<p><b><font color=\"orange\">Jika anda menganggap aplikasi ini berguna untuk anda, sila menilainya atau kongsi dengan rakan anda, penilaian dan perkongsian anda adalah motivasi saya untuk mengemaskini.</font></b></p>
-<h5>App 1.2.93 mengemaskini kandungan</h5>
-<p>1. Betulkan fail yang dimuat turun tidak dipaparkan dalam galeri</p>
-<p>2. Tambah perkhidmatan muat turun automatik</p>
-<p>3. Sokongan untuk gambar avatar muat turun</p>
-<p>4. Betulkan beberapa pepijat</p>
-<p>5. Pemuat instagram terbaik dan paling komprehensif</p>
-<h5>Gunakan tutorial</h5>
-<p><a href=\"https://www.youtube.com/watch?v=VaosCIskcjk\">Mudah untuk digunakan</a></p>
-<p><a href=\"https://www.youtube.com/watch?v=lBSebQUiKCM\">Siaran memuatkan kumpulan, IGTV, cerita</a></p>
+<b><font color=\"orange\">Jika anda menganggap aplikasi ini berguna untuk anda, sila menilainya atau kongsi dengan rakan anda, penilaian dan perkongsian anda adalah motivasi saya untuk mengemaskini.</font></b>
 </html>"
 }

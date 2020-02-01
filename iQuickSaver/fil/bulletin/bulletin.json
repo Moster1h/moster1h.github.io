@@ -1,6 +1,6 @@
 {
-	"isShow":false,
-	"isForce":true,
+	"isShow":true,
+	"isForce":false,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
 	"versionName":"1.2.93",
 	"versionCode":20191203,
@@ -8,15 +8,6 @@
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 <html>
-<p><b><font color=\"orange\">Kung sa palagay mo ay kapaki-pakinabang sa iyo ang app na ito, mangyaring i-rate sa akin o ibahagi ito sa iyong mga kaibigan, ang iyong pagsusuri at pagbabahagi ay ang aking pagganyak para sa pag-update.</font></b></p>
-<h5>App 1.2.93 na nilalaman ng pag-update</h5>
-<p>1. Ayusin ang nai-download na mga file na hindi nagpapakita sa gallery</p>
-<p>2. Magdagdag ng awtomatikong pag-download service</p>
-<p>3. Suporta para sa pag-download ng mga larawan ng avatar</p>
-<p>4. Ayusin ang ilang mga bug</p>
-<p>5. Ang pinakamahusay at pinaka-komprehensibong instagram downloader</p>
-<h5>Gumamit ng tutorial</h5>
-<p><a href=\"https://www.youtube.com/watch?v=VaosCIskcjk\">Simpleng gamitin</a></p>
-<p><a href=\"https://www.youtube.com/watch?v=lBSebQUiKCM\">Mag-download ng mga post ng Batch, IGTV, mga kwento</a></p>
+<b><font color=\"orange\">Kung sa palagay mo ay kapaki-pakinabang sa iyo ang app na ito, mangyaring i-rate sa akin o ibahagi ito sa iyong mga kaibigan, ang iyong pagsusuri at pagbabahagi ay ang aking pagganyak para sa pag-update.</font></b>
 </html>"
 }
