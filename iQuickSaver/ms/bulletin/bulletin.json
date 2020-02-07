@@ -1,8 +1,8 @@
 {
 	"isShow":true,
-	"isForce":false,
+	"isForce":true,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.2.93",
+	"versionName":"1.3.06",
 	"versionCode":20191203,
 	"title":"Bolehkah anda memberi penilaian?",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
