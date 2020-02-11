@@ -2,12 +2,12 @@
 	"isShow":true,
 	"isForce":false,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.3.06",
+	"versionName":"1.3.07",
 	"versionCode":20191203,
 	"title":"Tudsz értékelést adni?",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 <html>
-<b><font color=\"orange\">Ha úgy gondolja, hogy ez az alkalmazás hasznos neked, kérjük értékelje vagy ossza meg barátaival, az értékelés és a megosztás motiválja a frissítést.</font></b>
+<b><font color=\"orange\">Ha úgy gondolja, hogy ez az alkalmazás hasznos az Ön számára, kérjük értékelje vagy ossza meg barátaival, az Ön értékelése és megosztása motiválja a frissítést.</font></b>
 </html>"
 }

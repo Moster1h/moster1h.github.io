@@ -2,12 +2,12 @@
 	"isShow":true,
 	"isForce":false,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.3.06",
+	"versionName":"1.3.07",
 	"versionCode":20191203,
 	"title":"¿Me puede dar una calificación?",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 <html>
-<b><font color=\"orange\">Si cree que esta aplicación es útil para usted, califíqueme o compártala con sus amigos, su evaluación y uso compartido son mi motivación para actualizar.</font></b>
+<b><font color=\"orange\">Si cree que esta aplicación es útil para usted, califíqueme o compártala con sus amigos, su calificación y uso compartido son mi motivación para actualizar.</font></b>
 </html>"
 }
