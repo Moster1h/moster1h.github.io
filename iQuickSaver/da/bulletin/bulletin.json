@@ -1,13 +1,13 @@
 {
-	"isShow":false,
+	"isShow":true,
 	"isForce":false,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.3.08",
+	"versionName":"1.3.12",
 	"versionCode":20191203,
-	"title":"Kan du give mig en vurdering?",
+	"title":"Tip til appopdatering",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 <html>
-<b><font color=\"orange\">Hvis du synes, at denne app er nyttig for dig, bedøm venligst mig eller del den med dine venner, din vurdering og deling er min motivation til at opdatere.</font></b>
+ <b>”Kopier link = Downloade“</b>
 </html>"
 }

@@ -1,13 +1,13 @@
 {
-	"isShow":false,
+	"isShow":true,
 	"isForce":false,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.3.08",
+	"versionName":"1.3.12",
 	"versionCode":20191203,
-	"title":"Bạn có thể cho tôi một đánh giá?",
+	"title":"Mẹo cập nhật ứng dụng",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 <html>
-<b><font color=\"orange\">Nếu bạn nghĩ ứng dụng này hữu ích với bạn, vui lòng đánh giá tôi hoặc chia sẻ nó với bạn bè của bạn, đánh giá và chia sẻ của bạn là động lực để tôi cập nhật.</font></b>
+ <b>Liên kết sao chép liên kết = Tải xuống</b>
 </html>"
 }

@@ -1,13 +1,13 @@
 {
-	"isShow":false,
+	"isShow":true,
 	"isForce":false,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.3.08",
+	"versionName":"1.3.12",
 	"versionCode":20191203,
-	"title":"Bolehkah anda memberi penilaian?",
+	"title":"Petua kemas kini apl",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 <html>
-<b><font color=\"orange\">Jika anda menganggap aplikasi ini berguna untuk anda, sila menilainya atau kongsi dengan kawan anda, penarafan dan perkongsian anda adalah motivasi saya untuk mengemaskini.</font></b>
+ <b>"Salin Pautan = Muat turun"</b>
 </html>"
 }

@@ -1,13 +1,13 @@
 {
-	"isShow":false,
+	"isShow":true,
 	"isForce":false,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.3.08",
+	"versionName":"1.3.12",
 	"versionCode":20191203,
-	"title":"Môžete mi dať hodnotenie?",
+	"title":"Tipy na aktualizáciu aplikácií",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 <html>
-<b><font color=\"orange\">Ak si myslíte, že táto aplikácia je pre vás užitočná, ohodnoťte ma alebo ju zdieľajte so svojimi priateľmi. Vaše hodnotenie a zdieľanie sú mojou motiváciou pre aktualizáciu.</font></b>
+ <b>”Skopírovať odkaz = Stiahnuť ▼”</b>
 </html>"
 }
