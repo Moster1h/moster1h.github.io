@@ -274,7 +274,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #home {
-  background: #535bd4 url('../images/home-bg.jpg') no-repeat;
+  background: #d7246e url('../images/home-bg.jpg') no-repeat;
   background-size: cover;
   background-position: center center;
   color: #ffffff;
@@ -443,7 +443,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #pricing {
-  background: #535bd4;
+  background: #d7246e;
 }
 
 #pricing .pricing-plan {
