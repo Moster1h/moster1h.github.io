@@ -45,7 +45,43 @@
     <link rel="stylesheet" href="/static/appwebsite/style.css" charset="UTF-8">
 	
 	
-    
+    <script src="/static/appwebsite/vue.js"></script>
+<script src="/static/appwebsite/vue-i18n.js"></script>
+
+<script>
+								const i18nApp = new VueI18n({
+								  locale: 'cn',
+								  messages: {
+								    en: {
+								      message: {
+								      	appname_: 'IQuickSaver',
+								      	desc_: 'Fast download or repost Instagram HD videos & photos. \"Copy link = download\"',
+								        main_: 'App Main',
+								        screenshot_: 'App Screenshot',
+								        download_: 'App Download'
+								      }
+								    },
+								    cn: {
+								      message: {
+								      	appname_: 'IQuickSaver',
+								      	desc_: '快速下载或转发Instagram高清视频和照片。 “复制链接=下载”',
+								        main_: '应用主页',
+								        screenshot_: '屏幕截图',
+								        download_: '应用下载'
+								      }
+								    }
+								  }
+								})
+
+								new Vue({
+								  i18n:i18nApp,
+								 	data: { appname: 'appname_',
+								 		desc: 'desc_',
+								 		main: 'main_',
+								 		screenshot: 'screenshot_',
+								 		download: 'download_' }
+								}).$mount('#app')
+</script>
 </head>
 <body id="app" data-spy="scroll" data-target=".navbar-collapse" data-offset="50">
 <div class="adcenter">
@@ -248,43 +284,7 @@
 <script src="/static/appwebsite/smoothscroll.js"></script>
 <script src="/static/appwebsite/wow.min.js"></script>
 <script src="/static/appwebsite/custom.js"></script>
-<script src="/static/appwebsite/vue.js"></script>
-<script src="/static/appwebsite/vue-i18n.js"></script>
 
-<script>
-								const i18nApp = new VueI18n({
-								  locale: 'cn',
-								  messages: {
-								    en: {
-								      message: {
-								      	appname_: 'IQuickSaver',
-								      	desc_: 'Fast download or repost Instagram HD videos & photos. \"Copy link = download\"',
-								        main_: 'App Main',
-								        screenshot_: 'App Screenshot',
-								        download_: 'App Download'
-								      }
-								    },
-								    cn: {
-								      message: {
-								      	appname_: 'IQuickSaver',
-								      	desc_: '快速下载或转发Instagram高清视频和照片。 “复制链接=下载”',
-								        main_: '应用主页',
-								        screenshot_: '屏幕截图',
-								        download_: '应用下载'
-								      }
-								    }
-								  }
-								})
-
-								new Vue({
-								  i18n:i18nApp,
-								 	data: { appname: 'appname_',
-								 		desc: 'desc_',
-								 		main: 'main_',
-								 		screenshot: 'screenshot_',
-								 		download: 'download_' }
-								}).$mount('#app')
-</script>
 
 </body>
 </html>
