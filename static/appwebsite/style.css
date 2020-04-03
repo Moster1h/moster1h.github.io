@@ -212,7 +212,7 @@ a:hover, a:active, a:focus {
 }
 
 .navbar-default .navbar-brand {
-  color: #535bd4;
+  color: #d62470;
   font-size: 20px;
   font-weight: bold;
   text-transform: uppercase;
@@ -222,7 +222,7 @@ a:hover, a:active, a:focus {
 }
 
 .navbar-default .navbar-brand span {
-  color: #1dc9e3;
+  color: #9831b6;
 }
 
 .navbar-default .navbar-nav li a {
