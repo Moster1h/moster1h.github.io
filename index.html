@@ -252,7 +252,7 @@
 <script src="/static/appwebsite/vue-i18n.js"></script>
 
 <script>
-								const i18n = new VueI18n({
+								const i18nApp = new VueI18n({
 								  locale: 'cn',
 								  messages: {
 								    en: {
@@ -277,7 +277,12 @@
 								})
 
 								new Vue({
-								  i18n
+								  i18n:i18nApp,
+								 	data: { appname: 'appname',
+								 		desc: 'desc',
+								 		main: 'main',
+								 		screenshot: 'screenshot',
+								 		download: 'download' }
 								}).$mount('#app')
 </script>
 
