@@ -281,7 +281,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #home {
-  background: #d7246e url('../images/home-bg.jpg') no-repeat;
+  background: #b929a4 url('../images/home-bg.jpg') no-repeat;
   background-size: cover;
   background-position: center center;
   color: #ffffff;
@@ -298,7 +298,7 @@ a:hover, a:active, a:focus {
 }
 
 #home .overlay {
-  background: #9831b6; /* fallback for old browsers */
+  background: #f64f44; /* fallback for old browsers */
   background: -webkit-linear-gradient(to left, #d7246e , #9831b6); /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(to left, #d7246e , #9831b6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   opacity: 0.9;
@@ -450,7 +450,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #pricing {
-  background: #d7246e;
+  background: #cb2685;
 }
 
 #pricing .pricing-plan {
