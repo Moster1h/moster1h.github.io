@@ -299,8 +299,8 @@ a:hover, a:active, a:focus {
 
 #home .overlay {
   background: #f64f44; /* fallback for old browsers */
-  background: -webkit-linear-gradient(to left, #d7246e , #9831b6); /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to left, #d7246e , #9831b6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: -webkit-linear-gradient(to left, #b929a4 , #f64f44); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #b929a4 , #f64f44); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   opacity: 0.9;
   position: absolute;
   width: 100%;
