@@ -1,5 +1,5 @@
 {
-	"isShow":false,
+	"isShow":true,
 	"isForce":false,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
 	"versionName":"1.3.12",
@@ -8,6 +8,6 @@
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 <html>
- <b>\"Copiar enlace = Descargar\" (Android10 no está disponible)</b>
+ <b>Si cree que esta aplicación es útil para usted, por favor denos su opinión de 5 estrellas, su opinión es nuestra motivación para actualizar.</b>
 </html>"
 }
