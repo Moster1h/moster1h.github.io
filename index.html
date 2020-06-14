@@ -8,16 +8,16 @@
 
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-		<title>IQuickSaver - HD Photo & Video Downloader for Instagram</title>
+		<title>Saveig App - Download any photos and videos of Instagram in bulk</title>
 
 		<meta name="description"
 		content="Fast download or repost Instagram HD videos & photos. \"Copy link = download\"">
 
 		<meta property="og:type" content="webpage">
 		<meta property="og:url" content="">
-		<meta property="og:title" content="IQuickSaver">
-		<meta property="og:description" content="IQuickSaver Website">
-		<meta name="apple-mobile-web-app-title" content="IQuickSaver">
+		<meta property="og:title" content="Saveig">
+		<meta property="og:description" content="Saveig Website">
+		<meta name="apple-mobile-web-app-title" content="Saveig">
 		<meta name="apple-mobile-web-app-capable" content="yes">
 		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
@@ -227,7 +227,7 @@
 						<div class="col-md-8 col-sm-6">
 							<div class="wow fadeInUp footer-copyright animated" data-wow-delay="0.4s"
 								style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
-								<p>©2019 IQuickSaver All Rights Reserved</p
+								<p>©2019 Saveig All Rights Reserved</p
 								>
 							</div>
 						</div>
@@ -263,40 +263,5 @@
 			<script src="/static/appwebsite/vue.js"></script>
 			<script src="/static/appwebsite/vue-i18n.js"></script>
 
-			<script>
-				const i18n_app = new VueI18n({
-					locale: 'cn',
-					messages: {
-						en: {
-							message: {
-								appname_: 'IQuickSaver',
-								desc_: 'Fast download or repost Instagram HD videos & photos. \"Copy link = download\"',
-								main_: 'App Main',
-								screenshot_: 'App Screenshot',
-								download_: 'App Download'
-							}
-						},
-						cn: {
-							message: {
-								appname_: 'IQuickSaver',
-								desc_: '快速下载或转发Instagram高清视频和照片。 “复制链接=下载”',
-								main_: '应用主页',
-								screenshot_: '屏幕截图',
-								download_: '应用下载'
-							}
-						}
-					}
-				})
-
-				new Vue({
-					i18n:i18n_app,
-					data: { 
-						appname: 'appname_',
-						desc: 'desc_',
-						main: 'main_',
-						screenshot: 'screenshot_',
-					  download: 'download_' }
-				}).$mount('#app')
-			</script>
 		</body>
 	</html>
