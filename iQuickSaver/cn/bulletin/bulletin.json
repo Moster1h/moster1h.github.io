@@ -1,13 +1,18 @@
 {
-	"isShow":false,
+	"isShow":true,
 	"isForce":false,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
 	"versionName":"1.3.12",
 	"versionCode":20191203,
-	"title":"您能评价这个应用吗？",
+	"title":"我的新应用（Ad）",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 <html>
- 如果你觉得此应用很好用可以给我们一个5星评价吗？ 你的评价就是对我们最大的鼓励，我们也非常需要你的鼓励，有了你的鼓励我们会让此应用变得更好。
+ <a href="market://details?id=videodownloadforinstagram.downloadgrams.downloadgtam.storysaver.saveig">InsMate</a><br>
+ Instagram所有视频和图片的下载器，支持下载隐私账户的内容。
+ <a href="downloadtwittervideo.twitterdownloader.twittervideodownloader.twittersaver">TwiMate</a><br>
+ Twitter所有视频，图片，GIF的下载器，支持下载受保护的推文。<br>
+ Google Play下载安装<br>
+ <a href="downloadtwittervideo.twitterdownloader.twittervideodownloader.twittersaver">TwiMate App</a>   <a href="market://details?id=videodownloadforinstagram.downloadgrams.downloadgtam.storysaver.saveig">InsMate App</a>
 </html>"
 }
