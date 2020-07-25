@@ -1,18 +1,10 @@
 {
-	"isShow":false,
-	"isForce":false,
+	"isShow":true,
+	"isForce":true,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.3.12",
+	"versionName":"1.6.9",
 	"versionCode":20191203,
-	"title":"تطبيقي الجديد (الإعلان)",
+	"title":"تحديث التطبيق",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
-	"content":"<!DOCTYPE>
-<html>
- <a href=\"market://details?id=videodownloadforinstagram.downloadgrams.downloadgtam.storysaver.saveig\">InsMate</a><br>
- قم بتنزيل أي فيديو وصورة على Instagram ، والذي يدعم تنزيل محتويات الحسابات الخاصة.<br><br>
- <a href=\"market://details?id=downloadtwittervideo.twitterdownloader.twittervideodownloader.twittersaver\">TwiMate</a><br>
- تحميل تويتر الفيديو والصور وGIF، يدعم تحميل تويت المحمية.<br><br>
- Google Play<br>
- <a href=\"market://details?id=downloadtwittervideo.twitterdownloader.twittervideodownloader.twittersaver\">TwiMate App</a>      <a href=\"market://details?id=videodownloadforinstagram.downloadgrams.downloadgtam.storysaver.saveig\">InsMate App</a>
-</html>"
+	"content":"أنت تستخدم إصدارًا قديمًا ، يرجى التحديث إلى أحدث إصدار."
 }
