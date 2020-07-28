@@ -1,13 +1,10 @@
 {
-	"isShow":false,
-	"isForce":false,
+	"isShow":true,
+	"isForce":true,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.3.12",
+	"versionName":"1.6.9",
 	"versionCode":20191203,
-	"title":"您能評價這個應用嗎？",
+	"title":"更新應用",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
-	"content":"<!DOCTYPE>
-<html>
- 如果你覺得此應用很好用可以給我們一個5星評價嗎？你的評價就是對我們最大的鼓勵，我們也非常需要你的鼓勵，有了你的鼓勵我們會讓此應用變得更好。
-</html>"
+	"content":"您使用的是舊版本，請更新為最新版本。"
 }

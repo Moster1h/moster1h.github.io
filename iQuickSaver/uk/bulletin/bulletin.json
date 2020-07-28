@@ -1,13 +1,10 @@
 {
-	"isShow": false,
-	"isForce": false,
-	"packageName": "repost.share.instagram.videodownloader.photodownloader",
-	"versionName": "1.3.12",
-	"versionCode": 20191203,
-	"title": "Поради щодо оновлення додатків",
-	"website": "market://details?id=repost.share.instagram.videodownloader.photodownloader",
-	"content": "<!DOCTYPE>
-<html>
- <b>\"Скопіювати посилання = Завантажити\" (Android10 не доступний)</b>
-</html>"
+	"isShow":true,
+	"isForce":true,
+	"packageName":"repost.share.instagram.videodownloader.photodownloader",
+	"versionName":"1.6.9",
+	"versionCode":20191203,
+	"title":"Оновити додаток",
+	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
+	"content":"Ви використовуєте стару версію, оновіть її до останньої версії."
 }

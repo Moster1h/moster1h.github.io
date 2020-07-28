@@ -1,6 +1,6 @@
 {
-	"isShow":false,
-	"isForce":false,
+	"isShow":true,
+	"isForce":true,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
 	"versionName":"1.6.9",
 	"versionCode":20191203,
