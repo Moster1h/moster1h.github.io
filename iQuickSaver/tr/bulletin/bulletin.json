@@ -6,5 +6,9 @@
 	"versionCode":20191203,
 	"title":"Uygulamayı güncelle",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
-	"content":"Eski bir sürüm kullanıyorsunuz, lütfen en son sürüme güncelleyin."
+	"content":"<!DOCTYPE><html>Eski bir sürüm kullanıyorsunuz, lütfen en son sürüme güncelleyin.
+	<br>
+	<br>
+	<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\">Yüklemek</a>
+	</html>"
 }

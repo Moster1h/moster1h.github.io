@@ -6,5 +6,9 @@
 	"versionCode":20191203,
 	"title":"アプリを更新",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
-	"content":"古いバージョンを使用しています。最新バージョンに更新してください。"
+	"content":"<!DOCTYPE><html>古いバージョンを使用しています。最新バージョンに更新してください。
+		<br>
+	<br>
+	<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\">インストール</a>
+	</html>"
 }

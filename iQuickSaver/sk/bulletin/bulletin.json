@@ -6,5 +6,9 @@
 	"versionCode":20191203,
 	"title":"Aktualizujte aplikáciu",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
-	"content":"Používate starú verziu, aktualizujte ju na najnovšiu verziu."
+	"content":"<!DOCTYPE><html>Používate starú verziu, aktualizujte ju na najnovšiu verziu.
+	<br>
+	<br>
+	<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\">Inštalácia</a>
+	</html>"
 }

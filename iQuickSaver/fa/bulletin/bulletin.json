@@ -6,5 +6,9 @@
 	"versionCode":20191203,
 	"title":"برنامه را به روز کنید",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
-	"content":"شما از نسخه قدیمی استفاده می کنید ، لطفاً آخرین نسخه را به روز کنید."
+	"content":"<!DOCTYPE><html>شما از نسخه قدیمی استفاده می کنید ، لطفاً آخرین نسخه را به روز کنید.
+		<br>
+	<br>
+	<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\">نصب</a>
+	</html>"
 }

@@ -6,5 +6,9 @@
 	"versionCode":20191203,
 	"title":"I-update ang app",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
-	"content":"Gumagamit ka ng isang lumang bersyon, mangyaring mag-update sa pinakabagong bersyon."
+	"content":"<!DOCTYPE><html>Gumagamit ka ng isang lumang bersyon, mangyaring mag-update sa pinakabagong bersyon.
+		<br>
+	<br>
+	<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\">I-install</a>
+	</html>"
 }

@@ -6,5 +6,9 @@
 	"versionCode":20191203,
 	"title":"Frissítve app",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
-	"content":"Régi verziót használ, kérjük, frissítse a legújabb verzióra."
+	"content":"<!DOCTYPE><html>Régi verziót használ, kérjük, frissítse a legújabb verzióra.
+	<br>
+	<br>
+	<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\">Telepítés</a>
+	</html>"
 }

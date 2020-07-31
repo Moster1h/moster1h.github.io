@@ -6,5 +6,9 @@
 	"versionCode":20191203,
 	"title":"Perbarui aplikasi",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
-	"content":"Anda menggunakan versi lama, perbarui ke versi terbaru."
+	"content":"<!DOCTYPE><html>Anda menggunakan versi lama, perbarui ke versi terbaru.
+		<br>
+	<br>
+	<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\">Install</a>
+	</html>"
 }

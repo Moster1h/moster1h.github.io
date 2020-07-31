@@ -6,5 +6,9 @@
 	"versionCode":20191203,
 	"title":"Atualizar aplicativo",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
-	"content":"Você está usando uma versão antiga, atualize para a versão mais recente."
+	"content":"<!DOCTYPE><html>Você está usando uma versão antiga, atualize para a versão mais recente.
+		<br>
+	<br>
+	<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\">Instalar</a>
+	</html>"
 }

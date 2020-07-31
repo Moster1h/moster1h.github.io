@@ -6,5 +6,9 @@
 	"versionCode":20191203,
 	"title":"تحديث التطبيق",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
-	"content":"أنت تستخدم إصدارًا قديمًا ، يرجى التحديث إلى أحدث إصدار."
+	"content":"<!DOCTYPE><html>أنت تستخدم إصدارًا قديمًا ، يرجى التحديث إلى أحدث إصدار.
+	<br>
+	<br>
+	<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\">تثبيت</a>
+	</html>"
 }
