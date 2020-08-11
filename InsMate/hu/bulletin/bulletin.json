@@ -1,13 +1,14 @@
 {
-	"isShow":false,
-	"isForce":false,
-	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.3.12",
+	"isShow":true,
+	"isForce":true,
+	"packageName":"instasaver.instagramdownloader.instagramvideodownloader.instagramphotodownloader.igsaver",
+	"versionName":"1.0.4",
 	"versionCode":20191203,
-	"title":"Alkalmazásfrissítési tippek",
-	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
-	"content":"<!DOCTYPE>
-<html>
- <b>„Hivatkozás másolása = Letöltés“ (Android10 nem érhető el)</b>
-</html>"
+	"title":"Frissítve app",
+	"website":"market://details?id=instasaver.instagramdownloader.instagramvideodownloader.instagramphotodownloader.igsaver",
+	"content":"<!DOCTYPE><html>Régi verziót használ, kérjük, frissítse a legújabb verzióra.
+	<br>
+	<br>
+	<a href=\"market://details?id=instasaver.instagramdownloader.instagramvideodownloader.instagramphotodownloader.igsaver\">Telepítés</a>
+	</html>"
 }

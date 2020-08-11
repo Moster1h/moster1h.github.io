@@ -1,13 +1,14 @@
 {
-	"isShow":false,
-	"isForce":false,
-	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.3.12",
+	"isShow":true,
+	"isForce":true,
+	"packageName":"instasaver.instagramdownloader.instagramvideodownloader.instagramphotodownloader.igsaver",
+	"versionName":"1.0.4",
 	"versionCode":20191203,
-	"title":"Can you review me?",
-	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
-	"content":"<!DOCTYPE>
-<html>
- <b>If you think this app is helpful to you, please give us 5 stars review, your review is our motivation to update.</b>
-</html>"
+	"title":"Update app",
+	"website":"market://details?id=instasaver.instagramdownloader.instagramvideodownloader.instagramphotodownloader.igsaver",
+	"content":"<!DOCTYPE><html>You are using an old version, please update to the latest version.
+	<br>
+	<br>
+	<a href=\"market://details?id=instasaver.instagramdownloader.instagramvideodownloader.instagramphotodownloader.igsaver\">Install</a>
+	</html>"
 }

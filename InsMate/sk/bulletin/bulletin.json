@@ -1,13 +1,14 @@
 {
-	"isShow":false,
-	"isForce":false,
-	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.3.12",
+	"isShow":true,
+	"isForce":true,
+	"packageName":"instasaver.instagramdownloader.instagramvideodownloader.instagramphotodownloader.igsaver",
+	"versionName":"1.0.4",
 	"versionCode":20191203,
-	"title":"Tipy na aktualizáciu aplikácií",
-	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
-	"content":"<!DOCTYPE>
-<html>
- <b>”Skopírovať odkaz = Stiahnuť ▼” (Android10 nie je k dispozícii)</b>
-</html>"
+	"title":"Aktualizujte aplikáciu",
+	"website":"market://details?id=instasaver.instagramdownloader.instagramvideodownloader.instagramphotodownloader.igsaver",
+	"content":"<!DOCTYPE><html>Používate starú verziu, aktualizujte ju na najnovšiu verziu.
+	<br>
+	<br>
+	<a href=\"market://details?id=instasaver.instagramdownloader.instagramvideodownloader.instagramphotodownloader.igsaver\">Inštalácia</a>
+	</html>"
 }

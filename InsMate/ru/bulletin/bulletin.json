@@ -1,13 +1,14 @@
 {
-	"isShow":false,
-	"isForce":false,
-	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.3.12",
+	"isShow":true,
+	"isForce":true,
+	"packageName":"instasaver.instagramdownloader.instagramvideodownloader.instagramphotodownloader.igsaver",
+	"versionName":"1.0.4",
 	"versionCode":20191203,
-	"title":"Советы по обновлению приложения",
-	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
-	"content":"<!DOCTYPE>
-<html>
-<b>«Скопировать ссылку = Скачать» (Android10 не доступен)</b>
-</html>"
+	"title":"Обновить приложение",
+	"website":"market://details?id=instasaver.instagramdownloader.instagramvideodownloader.instagramphotodownloader.igsaver",
+	"content":"<!DOCTYPE><html>Вы используете старую версию, пожалуйста, обновите ее до последней версии.
+			<br>
+	<br>
+	<a href=\"market://details?id=instasaver.instagramdownloader.instagramvideodownloader.instagramphotodownloader.igsaver\">устанавливать</a>
+	</html>"
 }
