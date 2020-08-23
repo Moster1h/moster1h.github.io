@@ -1,6 +1,6 @@
 {
 	"isShow":true,
-	"isForce": true,
+	"isForce": false,
 	"packageName":"instasaver.instagramdownloader.instagramvideodownloader.instagramphotodownloader.igsaver",
 	"versionName":"1.0.4",
 	"versionCode":20191203,
