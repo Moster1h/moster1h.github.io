@@ -1,0 +1,14 @@
+{
+	"isShow":false,
+	"isForce":false,
+	"packageName":"repost.share.instagram.videodownloader.photodownloader",
+	"versionName":"1.6.9",
+	"versionCode":20191203,
+	"title":"Mettre à jour l'application",
+	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
+	"content":"<!DOCTYPE><html>Vous utilisez une ancienne version, veuillez mettre à jour vers la dernière version.
+		<br>
+	<br>
+	<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\">Installer</a>
+	</html>"
+}

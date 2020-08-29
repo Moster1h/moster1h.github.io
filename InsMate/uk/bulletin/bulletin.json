@@ -1,0 +1,14 @@
+{
+	"isShow":false,
+	"isForce":false,
+	"packageName":"repost.share.instagram.videodownloader.photodownloader",
+	"versionName":"1.6.9",
+	"versionCode":20191203,
+	"title":"Оновити додаток",
+	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
+	"content":"<!DOCTYPE><html>Ви використовуєте стару версію, оновіть її до останньої версії.
+	<br>
+	<br>
+	<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\">Встановити</a>
+	</html>"
+}
