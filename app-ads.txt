@@ -1,2 +1,2 @@
 google.com, pub-6246716339260159, DIRECT, f08c47fec0942fa0
-google.com, pub-3940256099942544, DIRECT, testads
+google.com, pub-3940256099942544, DIRECT, fc8ca7fecc94afa0
