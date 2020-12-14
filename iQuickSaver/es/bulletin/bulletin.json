@@ -1,14 +1,10 @@
 {
-	"isShow":false,
+	"isShow":true,
 	"isForce":false,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
 	"versionName":"1.7.3",
 	"versionCode":20191203,
-	"title":"Actualizar aplicación",
+	"title":"¿Por qué no se puede descargar?",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
-	"content":"<!DOCTYPE><html>Está utilizando una versión anterior, actualice a la última versión.
-		<br>
-	<br>
-	<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\">Instalar</a>
-	</html>"
+	"content":"Si no puede descargar, intente iniciar sesión en su cuenta nuevamente. Quizás la cookie haya expirado."
 }

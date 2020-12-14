@@ -1,14 +1,10 @@
 {
-	"isShow":false,
+	"isShow":true,
 	"isForce":false,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
 	"versionName":"1.7.3",
 	"versionCode":20191203,
-	"title":"อัปเดตแอป",
+	"title":"ทำไมดาวน์โหลดไม่ได้",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
-	"content":"<!DOCTYPE><html>คุณใช้เวอร์ชั่นเก่าโปรดอัปเดตเป็นเวอร์ชั่นล่าสุด
-	<br>
-	<br>
-	<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\">ติดตั้ง</a>
-	</html>"
+	"content":"หากคุณไม่สามารถดาวน์โหลดได้โปรดลองลงชื่อเข้าใช้บัญชีของคุณอีกครั้งคุกกี้อาจหมดอายุ"
 }

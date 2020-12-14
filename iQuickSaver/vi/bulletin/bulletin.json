@@ -1,14 +1,10 @@
 {
-	"isShow":false,
+	"isShow":true,
 	"isForce":false,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
 	"versionName":"1.7.3",
 	"versionCode":20191203,
-	"title":"Cập nhật ứng dụng",
+	"title":"Tại sao nó không thể tải xuống?",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
-	"content":"<!DOCTYPE><html>Bạn đang sử dụng phiên bản cũ, vui lòng cập nhật lên phiên bản mới nhất.
-		<br>
-	<br>
-	<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\">Tải về</a>
-	</html>"
+	"content":"Nếu bạn không thể tải xuống, vui lòng thử đăng nhập lại vào tài khoản của bạn, có thể cookie đã hết hạn."
 }

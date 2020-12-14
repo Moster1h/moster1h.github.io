@@ -1,14 +1,10 @@
 {
-	"isShow":false,
+	"isShow":true,
 	"isForce":false,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
 	"versionName":"1.7.3",
 	"versionCode":20191203,
-	"title":"アプリを更新",
+	"title":"なぜダウンロードできないのですか？",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
-	"content":"<!DOCTYPE><html>古いバージョンを使用しています。最新バージョンに更新してください。
-		<br>
-	<br>
-	<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\">インストール</a>
-	</html>"
+	"content":"ダウンロードできない場合は、アカウントに再度ログインしてみてください。Cookieの有効期限が切れている可能性があります。"
 }

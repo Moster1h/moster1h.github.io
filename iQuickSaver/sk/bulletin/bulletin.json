@@ -1,14 +1,10 @@
 {
-	"isShow":false,
+	"isShow":true,
 	"isForce":false,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
 	"versionName":"1.7.3",
 	"versionCode":20191203,
-	"title":"Aktualizujte aplikáciu",
+	"title":"Prečo sa to nedá stiahnuť?",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
-	"content":"<!DOCTYPE><html>Používate starú verziu, aktualizujte ju na najnovšiu verziu.
-	<br>
-	<br>
-	<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\">Inštalácia</a>
-	</html>"
+	"content":"Ak nemôžete sťahovať, skúste sa znova prihlásiť do svojho účtu. Je možné, že platnosť súboru cookie vypršala."
 }

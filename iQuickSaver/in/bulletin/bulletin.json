@@ -1,14 +1,10 @@
 {
-	"isShow":false,
+	"isShow":true,
 	"isForce":false,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
 	"versionName":"1.7.3",
 	"versionCode":20191203,
-	"title":"Perbarui aplikasi",
+	"title":"Mengapa tidak bisa diunduh?",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
-	"content":"<!DOCTYPE><html>Anda menggunakan versi lama, perbarui ke versi terbaru.
-		<br>
-	<br>
-	<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\">Install</a>
-	</html>"
+	"content":"Jika Anda tidak dapat mengunduh, silakan coba masuk ke akun Anda lagi. Mungkin cookie telah kedaluwarsa."
 }

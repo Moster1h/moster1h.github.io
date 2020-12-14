@@ -1,14 +1,10 @@
 {
-	"isShow":false,
+	"isShow":true,
 	"isForce":false,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
 	"versionName":"1.7.3",
 	"versionCode":20191203,
-	"title":"Обновить приложение",
+	"title":"Почему не загружается?",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
-	"content":"<!DOCTYPE><html>Вы используете старую версию, пожалуйста, обновите ее до последней версии.
-			<br>
-	<br>
-	<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\">устанавливать</a>
-	</html>"
+	"content":"Если вы не можете загрузить, попробуйте снова войти в свою учетную запись. Возможно, срок действия cookie истек."
 }

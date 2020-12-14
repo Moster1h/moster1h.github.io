@@ -1,14 +1,10 @@
 {
-	"isShow":false,
+	"isShow":true,
 	"isForce":false,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
 	"versionName":"1.7.3",
 	"versionCode":20191203,
-	"title":"Оновити додаток",
+	"title":"Чому не вдається завантажити?",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
-	"content":"<!DOCTYPE><html>Ви використовуєте стару версію, оновіть її до останньої версії.
-	<br>
-	<br>
-	<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\">Встановити</a>
-	</html>"
+	"content":"Якщо ви не можете завантажити, спробуйте ввійти у свій обліковий запис ще раз, можливо, термін дії файлу cookie закінчився."
 }

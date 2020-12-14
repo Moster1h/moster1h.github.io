@@ -1,14 +1,10 @@
 {
-	"isShow":false,
+	"isShow":true,
 	"isForce":false,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
 	"versionName":"1.7.3",
 	"versionCode":20191203,
-	"title":"Opdater app",
+	"title":"Hvorfor kan den ikke downloades?",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
-	"content":"<!DOCTYPE><html>أDu bruger en gammel version, skal du opdatere til den nyeste version.
-	<br>
-	<br>
-	<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\">Installere</a>
-	</html>"
+	"content":"Hvis du ikke kan downloade, så prøv at logge ind på din konto igen. Måske er cookien udløbet."
 }

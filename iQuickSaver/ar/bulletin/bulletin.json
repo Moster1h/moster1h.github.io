@@ -1,14 +1,10 @@
 {
-	"isShow":false,
+	"isShow":true,
 	"isForce":false,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
 	"versionName":"1.7.3",
 	"versionCode":20191203,
-	"title":"تحديث التطبيق",
+	"title":"لماذا لا يمكن تنزيله؟",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
-	"content":"<!DOCTYPE><html>أنت تستخدم إصدارًا قديمًا ، يرجى التحديث إلى أحدث إصدار.
-	<br>
-	<br>
-	<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\">تثبيت</a>
-	</html>"
+	"content":"اگر نمی توانید بارگیری کنید ، لطفاً دوباره به حساب خود وارد شوید. شاید کوکی منقضی شده باشد."
 }
