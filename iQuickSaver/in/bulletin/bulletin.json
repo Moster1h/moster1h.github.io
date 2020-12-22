@@ -1,18 +1,14 @@
 {
-	"isShow":true,
-<<<<<<< HEAD
-<<<<<<< HEAD
+	"isShow":false,
 	"isForce":false,
-=======
-	"isForce":true,
->>>>>>> parent of f62e55f... update bulletin
-=======
-	"isForce":true,
->>>>>>> parent of f62e55f... update bulletin
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
 	"versionName":"1.7.3",
 	"versionCode":20191203,
-	"title":"Mengapa tidak bisa diunduh?",
-	"website":"",
-	"content":"Jika Anda tidak dapat mengunduh, silakan coba masuk ke akun Anda lagi. Mungkin cookie telah kedaluwarsa."
+	"title":"Perbarui aplikasi",
+	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
+	"content":"<!DOCTYPE><html>Anda menggunakan versi lama, perbarui ke versi terbaru.
+		<br>
+	<br>
+	<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\">Install</a>
+	</html>"
 }

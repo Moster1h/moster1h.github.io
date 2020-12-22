@@ -1,18 +1,14 @@
 {
-	"isShow":true,
-<<<<<<< HEAD
-<<<<<<< HEAD
+	"isShow":false,
 	"isForce":false,
-=======
-	"isForce":true,
->>>>>>> parent of f62e55f... update bulletin
-=======
-	"isForce":true,
->>>>>>> parent of f62e55f... update bulletin
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
 	"versionName":"1.7.3",
 	"versionCode":20191203,
-	"title":"Bakit hindi ito makapag-download?",
-	"website":"",
-	"content":"Kung hindi ka maaaring mag-download, mangyaring subukang mag-log in muli sa iyong account. Siguro nag-expire na ang cookie."
+	"title":"I-update ang app",
+	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
+	"content":"<!DOCTYPE><html>Gumagamit ka ng isang lumang bersyon, mangyaring mag-update sa pinakabagong bersyon.
+		<br>
+	<br>
+	<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\">I-install</a>
+	</html>"
 }

@@ -1,18 +1,14 @@
 {
-	"isShow":true,
-<<<<<<< HEAD
-<<<<<<< HEAD
+	"isShow":false,
 	"isForce":false,
-=======
-	"isForce":true,
->>>>>>> parent of f62e55f... update bulletin
-=======
-	"isForce":true,
->>>>>>> parent of f62e55f... update bulletin
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
 	"versionName":"1.7.3",
 	"versionCode":20191203,
-	"title":"Pourquoi ne peut-il pas télécharger?",
-	"website":"",
-	"content":"Si vous ne parvenez pas à télécharger, essayez de vous connecter à nouveau à votre compte. Le cookie a peut-être expiré."
+	"title":"Mettre à jour l'application",
+	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
+	"content":"<!DOCTYPE><html>Vous utilisez une ancienne version, veuillez mettre à jour vers la dernière version.
+		<br>
+	<br>
+	<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\">Installer</a>
+	</html>"
 }

@@ -1,18 +1,14 @@
 {
-	"isShow":true,
-<<<<<<< HEAD
-<<<<<<< HEAD
+	"isShow":false,
 	"isForce":false,
-=======
-	"isForce":true,
->>>>>>> parent of f62e55f... update bulletin
-=======
-	"isForce":true,
->>>>>>> parent of f62e55f... update bulletin
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
 	"versionName":"1.7.3",
 	"versionCode":20191203,
-	"title":"Tại sao nó không thể tải xuống?",
-	"website":"",
-	"content":"Nếu bạn không thể tải xuống, vui lòng thử đăng nhập lại vào tài khoản của bạn, có thể cookie đã hết hạn."
+	"title":"Cập nhật ứng dụng",
+	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
+	"content":"<!DOCTYPE><html>Bạn đang sử dụng phiên bản cũ, vui lòng cập nhật lên phiên bản mới nhất.
+		<br>
+	<br>
+	<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\">Tải về</a>
+	</html>"
 }
