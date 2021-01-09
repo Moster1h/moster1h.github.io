@@ -8,8 +8,9 @@
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 	<html>
-	You are using an old version, please update to the latest version.
+	<p>You are using an old version, please update to the latest version.</p>
 	<br>
-	1.Fix not working bug
+	<br>
+	<p>1.Fix not working bug</p>
 	</html>"
 }
