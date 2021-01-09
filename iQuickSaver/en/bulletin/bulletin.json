@@ -6,8 +6,9 @@
 	"versionCode":20191203,
 	"title":"Update app",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
-	"content":"<!DOCTYPE><html>You are using an old version, please update to the latest version.
-	<br>
+	"content":"<!DOCTYPE>
+	<html>
+	You are using an old version, please update to the latest version.
 	<br>
 	1.Fix not working bug
 	</html>"
