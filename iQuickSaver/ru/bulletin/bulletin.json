@@ -1,14 +1,16 @@
 {
-	"isShow":false,
-	"isForce":false,
+	"isShow":true,
+	"isForce":true,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.7.3",
+	"versionName":"1.8.9b",
 	"versionCode":20191203,
 	"title":"Обновить приложение",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
-	"content":"<!DOCTYPE><html>Вы используете старую версию, пожалуйста, обновите ее до последней версии.
-			<br>
+	"content":"<!DOCTYPE>
+	<html>
+	Вы используете старую версию, пожалуйста, обновите ее до последней версии.
 	<br>
-	<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\">устанавливать</a>
+	<br>
+	1. исправить неработающую ошибку
 	</html>"
 }

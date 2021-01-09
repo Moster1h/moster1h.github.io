@@ -1,14 +1,16 @@
 {
-	"isShow":false,
-	"isForce":false,
+	"isShow":true,
+	"isForce":true,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.7.3",
+	"versionName":"1.8.9b",
 	"versionCode":20191203,
 	"title":"アプリを更新",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
-	"content":"<!DOCTYPE><html>古いバージョンを使用しています。最新バージョンに更新してください。
-		<br>
+	"content":"<!DOCTYPE>
+	<html>
+	古いバージョンを使用しています。最新バージョンに更新してください。
 	<br>
-	<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\">インストール</a>
+	<br>
+	1.動作しないバグを修正
 	</html>"
 }

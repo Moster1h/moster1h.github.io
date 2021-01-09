@@ -1,14 +1,16 @@
 {
-	"isShow":false,
-	"isForce":false,
+	"isShow":true,
+	"isForce":true,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.7.3",
+	"versionName":"1.8.9b",
 	"versionCode":20191203,
 	"title":"برنامه را به روز کنید",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
-	"content":"<!DOCTYPE><html>شما از نسخه قدیمی استفاده می کنید ، لطفاً آخرین نسخه را به روز کنید.
-		<br>
+	"content":"<!DOCTYPE>
+	<html>
+	ما از نسخه قدیمی استفاده می کنید ، لطفاً آخرین نسخه را به روز کنید.
 	<br>
-	<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\">نصب</a>
+	<br>
+	1.رفع اشکال
 	</html>"
 }

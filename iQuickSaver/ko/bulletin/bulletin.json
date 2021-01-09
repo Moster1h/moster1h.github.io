@@ -1,14 +1,16 @@
 {
-	"isShow":false,
-	"isForce":false,
+	"isShow":true,
+	"isForce":true,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.7.3",
+	"versionName":"1.8.9b",
 	"versionCode":20191203,
 	"title":"앱 업데이트",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
-	"content":"<!DOCTYPE><html>이전 버전을 사용하고 있습니다. 최신 버전으로 업데이트하십시오.
-		<br>
+	"content":"<!DOCTYPE>
+	<html>
+	이전 버전을 사용하고 있습니다. 최신 버전으로 업데이트하십시오.
 	<br>
-	<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\">설치</a>
+	<br>
+	1. 작동하지 않는 버그 수정
 	</html>"
 }

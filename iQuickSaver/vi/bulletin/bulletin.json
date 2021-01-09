@@ -1,14 +1,16 @@
 {
-	"isShow":false,
-	"isForce":false,
+	"isShow":true,
+	"isForce":true,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.7.3",
+	"versionName":"1.8.9b",
 	"versionCode":20191203,
 	"title":"Cập nhật ứng dụng",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
-	"content":"<!DOCTYPE><html>Bạn đang sử dụng phiên bản cũ, vui lòng cập nhật lên phiên bản mới nhất.
-		<br>
+	"content":"<!DOCTYPE>
+	<html>
+	Bạn đang sử dụng phiên bản cũ, vui lòng cập nhật lên phiên bản mới nhất.
 	<br>
-	<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\">Tải về</a>
+	<br>
+	1. sửa lỗi không hoạt động
 	</html>"
 }

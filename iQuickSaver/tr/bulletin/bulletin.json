@@ -1,14 +1,16 @@
 {
-	"isShow":false,
-	"isForce":false,
+	"isShow":true,
+	"isForce":true,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.7.3",
+	"versionName":"1.8.9b",
 	"versionCode":20191203,
 	"title":"Uygulamayı güncelle",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
-	"content":"<!DOCTYPE><html>Eski bir sürüm kullanıyorsunuz, lütfen en son sürüme güncelleyin.
+	"content":"<!DOCTYPE>
+	<html>
+	Eski bir sürüm kullanıyorsunuz, lütfen en son sürüme güncelleyin.
 	<br>
 	<br>
-	<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\">Yüklemek</a>
+	1.Çalışmayan hatayı düzeltin
 	</html>"
 }

@@ -1,14 +1,16 @@
 {
-	"isShow":false,
-	"isForce":false,
+	"isShow":true,
+	"isForce":true,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.7.3",
+	"versionName":"1.8.9b",
 	"versionCode":20191203,
 	"title":"更新應用",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
-	"content":"<!DOCTYPE><html>您使用的是舊版本，請更新為最新版本。
+	"content":"<!DOCTYPE>
+	<html>
+	您使用的是舊版本，請更新為最新版本。
 	<br>
 	<br>
-	<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\">安裝</a>
+	1.修復無法正常工作的錯誤
 	</html>"
 }

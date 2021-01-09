@@ -1,14 +1,16 @@
 {
-	"isShow":false,
-	"isForce":false,
+	"isShow":true,
+	"isForce":true,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.7.3",
+	"versionName":"1.8.9b",
 	"versionCode":20191203,
 	"title":"Mettre à jour l'application",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
-	"content":"<!DOCTYPE><html>Vous utilisez une ancienne version, veuillez mettre à jour vers la dernière version.
-		<br>
+	"content":"<!DOCTYPE>
+	<html>
+	Vous utilisez une ancienne version, veuillez mettre à jour vers la dernière version.
 	<br>
-	<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\">Installer</a>
+	<br>
+	1.Fix ne fonctionne pas bug
 	</html>"
 }

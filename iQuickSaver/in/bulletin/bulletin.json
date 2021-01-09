@@ -1,14 +1,16 @@
 {
-	"isShow":false,
-	"isForce":false,
+	"isShow":true,
+	"isForce":true,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.7.3",
+	"versionName":"1.8.9b",
 	"versionCode":20191203,
 	"title":"Perbarui aplikasi",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
-	"content":"<!DOCTYPE><html>Anda menggunakan versi lama, perbarui ke versi terbaru.
-		<br>
+	"content":"<!DOCTYPE>
+	<html>
+	Anda menggunakan versi lama, perbarui ke versi terbaru.
 	<br>
-	<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\">Install</a>
+	<br>
+	1. Perbaiki bug yang tidak berfungsi
 	</html>"
 }
