@@ -1,8 +1,8 @@
 {
-	"isShow":false,
-	"isForce":false,
+	"isShow":true,
+	"isForce":true,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.8.9b",
+	"versionName":"1.9.1b3",
 	"versionCode":20191203,
 	"title":"更新应用",
 	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
