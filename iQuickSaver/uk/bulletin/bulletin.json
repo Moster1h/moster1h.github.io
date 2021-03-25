@@ -1,5 +1,5 @@
 {
-	"isShow":false,
+	"isShow":true,
 	"isForce":false,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
 	"versionName":"1.9.1b3",
@@ -8,12 +8,11 @@
 	"website":"https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 	<html>
-	Ви використовуєте стару версію, оновіть її до останньої версії.
+	Якщо ви ввійдете в програму і зіткнетеся з проблемою аварійного завершення роботи, оновіть WebView у магазині Play. І тримати це додаток в останній версії.
 	<br>
 	<br>
-	1. Виправте непрацюючу помилку
+	<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\">InsMate Pro</a>
 	<br>
-	<br>
-	<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\">Встановити</a>
+	<a href=\"market://details?id=com.google.android.webview\">Webview</a>
 	</html>"
 }
