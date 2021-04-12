@@ -283,6 +283,9 @@ a:hover, a:active, a:focus {
 /*---------------------------------------
     Home section              
 -----------------------------------------*/
+#update-time{
+  text-align: center;
+}
 
 #home {
   background: #b929a4 url('../images/home-bg.jpg') no-repeat;
