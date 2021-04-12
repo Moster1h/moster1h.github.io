@@ -141,6 +141,10 @@ a:hover, a:active, a:focus {
   text-align: center;
 }
 
+.section-title p{
+  text-align: start;
+}
+
 #about,
 #screenshot,
 #pricing,
@@ -824,6 +828,10 @@ footer p {
 
   .section-title {
     padding-bottom: 32px;
+  }
+
+  .section-title p{
+    text-align: start;
   }
 
   #about,
