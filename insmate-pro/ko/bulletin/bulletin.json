@@ -8,6 +8,6 @@
 	"website": "",
 	"content":"<!DOCTYPE>
 	<html>
-Android 11 기기의 경우 다운로드 할 수없는 경우 다운로드 위치를 "Download"디렉토리로 변경하는 것이 좋습니다.
+Android 11 기기의 경우 다운로드 할 수없는 경우 다운로드 위치를 \"Download\"디렉토리로 변경하는 것이 좋습니다.
 	</html>"
 }
