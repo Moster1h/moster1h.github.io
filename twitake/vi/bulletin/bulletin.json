@@ -1,18 +1,13 @@
 {
-	"isShow":false,
+	"isShow":true,
 	"isForce":false,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.3.12",
+	"versionName":"1.9.1b3",
 	"versionCode":20191203,
-	"title":"Ứng dụng mới của tôi",
-	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
+	"title":"Tips",
+	"website": "",
 	"content":"<!DOCTYPE>
-<html>
- <a href=\"market://details?id=videodownloadforinstagram.downloadgrams.downloadgtam.storysaver.saveig\">InsMate</a><br>
- Tải instagram video và ảnh<br><br>
- <a href=\"market://details?id=downloadtwittervideo.twitterdownloader.twittervideodownloader.twittersaver\">TwiMate</a><br>
- Tải xuống video twitter, hình ảnh và GIF<br><br>
- Google Play<br>
- <a href=\"market://details?id=downloadtwittervideo.twitterdownloader.twittervideodownloader.twittersaver\">TwiMate App</a>      <a href=\"market://details?id=videodownloadforinstagram.downloadgrams.downloadgtam.storysaver.saveig\">InsMate App</a>
-</html>"
+	<html>
+Đối với thiết bị Android 11, nếu bạn không thể tải xuống, chúng tôi khuyên bạn nên thay đổi vị trí tải xuống thành thư mục \"Download\".
+	</html>"
 }

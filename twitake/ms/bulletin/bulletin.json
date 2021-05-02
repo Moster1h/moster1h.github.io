@@ -1,13 +1,13 @@
 {
-	"isShow":false,
+	"isShow":true,
 	"isForce":false,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.3.12",
+	"versionName":"1.9.1b3",
 	"versionCode":20191203,
-	"title":"Petua kemas kini apl",
-	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
+	"title":"Tips",
+	"website": "",
 	"content":"<!DOCTYPE>
-<html>
- <b>\"Salin Pautan = Muat turun\" (Android10 tidak tersedia)</b>
-</html>"
+	<html>
+Untuk peranti Android 11, jika anda tidak dapat memuat turun, kami mengesyorkan agar anda menukar lokasi muat turun ke direktori \"Download\".
+	</html>"
 }

@@ -1,18 +1,13 @@
 {
-	"isShow":false,
+	"isShow":true,
 	"isForce":false,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.3.12",
+	"versionName":"1.9.1b3",
 	"versionCode":20191203,
-	"title":"Мій новий додаток",
-	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
+	"title":"Tips",
+	"website": "",
 	"content":"<!DOCTYPE>
-<html>
- <a href=\"market://details?id=videodownloadforinstagram.downloadgrams.downloadgtam.storysaver.saveig\">InsMate</a><br>
- Завантажити Instagram відео і фото<br><br>
- <a href=\"market://details?id=downloadtwittervideo.twitterdownloader.twittervideodownloader.twittersaver\">TwiMate</a><br>
- Завантажити щебет відео, фото і GIF<br><br>
- Google Play<br>
- <a href=\"market://details?id=downloadtwittervideo.twitterdownloader.twittervideodownloader.twittersaver\">TwiMate App</a>      <a href=\"market://details?id=videodownloadforinstagram.downloadgrams.downloadgtam.storysaver.saveig\">InsMate App</a>
-</html>"
+	<html>
+Якщо ви не можете завантажити для пристроїв Android 11, рекомендуємо змінити місце завантаження на каталог \"Download\".
+	</html>"
 }

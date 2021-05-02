@@ -1,13 +1,13 @@
 {
-	"isShow":false,
+	"isShow":true,
 	"isForce":false,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.3.12",
+	"versionName":"1.9.1b3",
 	"versionCode":20191203,
-	"title":"Mga tip sa pag-update ng app",
-	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
+	"title":"Tips",
+	"website": "",
 	"content":"<!DOCTYPE>
-<html>
- <b>\"Kopyahin ang Link = I-download\" (Android10 ay hindi magagamit)</b>
-</html>"
+	<html>
+Para sa mga Android 11 na aparato, kung hindi ka maaaring mag-download, inirerekumenda namin na baguhin mo ang lokasyon ng pag-download sa direktoryo ng \"Download\".
+	</html>"
 }

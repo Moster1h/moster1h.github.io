@@ -1,13 +1,13 @@
 {
-	"isShow":false,
+	"isShow":true,
 	"isForce":false,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.3.12",
+	"versionName":"1.9.1b3",
 	"versionCode":20191203,
-	"title":"앱 업데이트 팁",
-	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
+	"title":"Tips",
+	"website": "",
 	"content":"<!DOCTYPE>
-<html>
- <b>“링크 복사 = 다운로드” (Android10을 사용할 수 없습니다)</b>
-</html>"
+	<html>
+Android 11 기기의 경우 다운로드 할 수없는 경우 다운로드 위치를 \"Download\"디렉토리로 변경하는 것이 좋습니다.
+	</html>"
 }

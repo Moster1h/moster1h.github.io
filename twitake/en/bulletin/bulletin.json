@@ -1,13 +1,13 @@
 {
-	"isShow":false,
-	"isForce":false,
-	"packageName":"repost.share.instagram.videodownloader.photodownloader",
-	"versionName":"1.3.12",
-	"versionCode":20191203,
-	"title":"Can you review me?",
-	"website":"market://details?id=repost.share.instagram.videodownloader.photodownloader",
+	"isShow": true,
+	"isForce": false,
+	"packageName": "repost.share.instagram.videodownloader.photodownloader",
+	"versionName": "1.9.1b3",
+	"versionCode": 20191203,
+	"title": "Tips",
+	"website": "",
 	"content":"<!DOCTYPE>
-<html>
- <b>If you think this app is helpful to you, please give us 5 stars review, your review is our motivation to update.</b>
-</html>"
+	<html>
+	For Android 11 devices, if you cannot download, we recommend that you change the download location to the \"Download\" directory.
+	</html>"
 }
