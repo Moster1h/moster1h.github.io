@@ -1,18 +1,13 @@
 {
-	"isShow":false,
+	"isShow":true,
 	"isForce":false,
 	"packageName":"repost.share.instagram.videodownloader.photodownloader",
 	"versionName":"1.9.1b3",
 	"versionCode":20191203,
-	"title":"Uygulamayı güncelle",
+	"title":"Tips",
 	"website":"https://play.google.com/store/apps/details?id=com.google.android.webview",
 	"content":"<!DOCTYPE>
 	<html>
-	Uygulamaya girerseniz ve bir kilitlenme sorunuyla karşılaşırsanız, lütfen Play Store'daki WebView'yi güncelleyin. Ve bu uygulamayı en son sürümde tutun.
-	<br>
-	<br>
-	<a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\">InsMate Pro</a>
-	\t
-	<a href=\"market://details?id=com.google.android.webview\">WebView</a>
+Android 11 cihazları için, indiremiyorsanız, indirme konumunu "Download" dizini olarak değiştirmenizi öneririz.
 	</html>"
 }
