@@ -1,20 +1,18 @@
 {
-	"isShow": false,
-	"isForce": false,
+	"isShow": true,
+	"isForce": true,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
 	"versionName": "1.9.7b1",
 	"versionCode": 20191203,
 	"title": "Tips",
-	"website": "",
+	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 	<html>
 	<h2>The latest version has been released</h2>
-	<br>
     <p>Update log:</p>
     <p>1.Fix Android11 can’t download</p>
     <p>2.Fix the bug that the video cannot display the preview image.</p>
     <p>3.Add re-download function. The history of deleted files can be re-downloaded.</p>
-	<br>
     <p><a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>Update Now</b></a></p>
 	</html>"
 }
