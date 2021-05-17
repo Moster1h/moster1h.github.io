@@ -1,13 +1,18 @@
 {
-	"isShow": false,
-	"isForce": false,
+	"isShow": true,
+	"isForce": true,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
 	"versionName": "1.9.7b1",
 	"versionCode": 20191203,
 	"title": "Tips",
-	"website": "",
+	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
-	<html>أ
-	For Android 11-enheder, hvis du ikke kan downloade, anbefaler vi, at du ændrer downloadplaceringen til \"Download\" -mappen.
+	<html>
+	<h2>Den seneste version er frigivet</h2>
+    <p>Opdater noter:</p>
+    <p>1.Fix Android 11 kan ikke downloades</p>
+    <p>2.Ret fejlen, at videoen ikke kan vise eksempelbilledet.</p>
+    <p>3.Tilføj gen-download-funktion. Historikken over slettede filer kan downloades igen.</p>
+    <p><a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>Opdatere nu</b></a></p>
 	</html>"
 }

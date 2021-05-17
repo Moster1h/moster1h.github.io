@@ -9,7 +9,7 @@
 	"content":"<!DOCTYPE>
 	<html>
 	<h2>The latest version has been released</h2>
-    <p>Update log:</p>
+    <p>Update Notes:</p>
     <p>1.Fix Android11 can’t download</p>
     <p>2.Fix the bug that the video cannot display the preview image.</p>
     <p>3.Add re-download function. The history of deleted files can be re-downloaded.</p>

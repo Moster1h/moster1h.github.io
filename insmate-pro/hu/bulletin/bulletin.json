@@ -1,13 +1,18 @@
 {
-	"isShow": false,
-	"isForce": false,
+	"isShow": true,
+	"isForce": true,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
 	"versionName": "1.9.7b1",
 	"versionCode": 20191203,
 	"title": "Tips",
-	"website": "",
+	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 	<html>
-Android 11-es eszközök esetén, ha nem tudja letölteni, javasoljuk, hogy változtassa meg a letöltés helyét az \"Download\" könyvtárra.
+	<h2>Megjelent a legújabb verzió</h2>
+    <p>Frissítési megjegyzések:</p>
+    <p>1.Fix Android 11 nem lehet letölteni</p>
+    <p>2.Javítsa ki azt a hibát, hogy a videó nem tudja megjeleníteni az előnézeti képet.</p>
+    <p>3.Add újra letöltési funkciót. A törölt fájlok előzményei újból letölthetők.</p>
+    <p><a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>Frissítse most</b></a></p>
 	</html>"
 }

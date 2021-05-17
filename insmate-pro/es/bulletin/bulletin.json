@@ -1,13 +1,18 @@
 {
-	"isShow": false,
-	"isForce": false,
+	"isShow": true,
+	"isForce": true,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
 	"versionName": "1.9.7b1",
 	"versionCode": 20191203,
 	"title": "Tips",
-	"website": "",
+	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 	<html>
-	Para dispositivos con Android 11, si no puede descargar, le recomendamos que cambie la ubicación de descarga al directorio \"Download\".
+	<h2>Se ha lanzado la última versión</h2>
+    <p>Notas de actualización:</p>
+	<p>1.Repara Android11 ​​que no se puede descargar</p>
+	<p>2.Soluciona el error de que el video no puede mostrar la imagen de vista previa.</p>
+	<p>3.Agregue la función de volver a descargar. El historial de archivos eliminados se puede volver a descargar.</p>
+    <p><a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>Actualizar ahora</b></a></p>
 	</html>"
 }

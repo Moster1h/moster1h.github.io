@@ -1,13 +1,18 @@
 {
-	"isShow": false,
-	"isForce": false,
+	"isShow": true,
+	"isForce": true,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
 	"versionName": "1.9.7b1",
 	"versionCode": 20191203,
 	"title": "Tips",
-	"website": "",
+	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 	<html>
-Untuk perangkat Android 11, jika Anda tidak dapat mengunduh, sebaiknya ubah lokasi unduhan ke direktori \"Download\".
+	<h2>Versi terbaru telah dirilis</h2>
+    <p>Perbarui Catatan:</p>
+	<p>1.Perbaiki Android11 ​​tidak dapat mengunduh</p>
+	<p>2.Perbaiki bug yang video tidak dapat menampilkan gambar pratinjau.</p>
+	<p>3.Tambahkan fungsi unduh ulang. Sejarah file yang terhapus dapat diunduh ulang.</p>
+    <p><a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>Memperbarui sekarang</b></a></p>
 	</html>"
 }

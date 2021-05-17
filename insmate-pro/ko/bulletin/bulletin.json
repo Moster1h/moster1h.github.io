@@ -1,13 +1,18 @@
 {
-	"isShow": false,
-	"isForce": false,
+	"isShow": true,
+	"isForce": true,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
 	"versionName": "1.9.7b1",
 	"versionCode": 20191203,
 	"title": "Tips",
-	"website": "",
+	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 	<html>
-Android 11 기기의 경우 다운로드 할 수없는 경우 다운로드 위치를 \"Download\"디렉토리로 변경하는 것이 좋습니다.
+	<h2>최신 버전이 출시되었습니다</h2>
+    <p>업데이트 노트 :</p>
+	<p>1.Android11이 다운로드되지 않는 문제 수정</p>
+	<p>2.동영상이 미리보기 이미지를 표시 할 수없는 버그를 수정했습니다.</p>
+	<p>3.재 다운로드 기능을 추가합니다. 삭제 된 파일의 내역을 다시 다운로드 할 수 있습니다.</p>
+    <p><a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>지금 업데이트</b></a></p>
 	</html>"
 }

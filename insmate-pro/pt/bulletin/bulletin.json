@@ -1,13 +1,18 @@
 {
-	"isShow": false,
-	"isForce": false,
+	"isShow": true,
+	"isForce": true,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
 	"versionName": "1.9.7b1",
 	"versionCode": 20191203,
 	"title": "Tips",
-	"website": "",
+	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 	<html>
-Para dispositivos Android 11, se você não puder fazer o download, recomendamos que você altere o local do download para o diretório \"Download\".
+	<h2>A última versão foi lançada</h2>
+    <p>Notas de atualização:</p>
+	<p>1.Corrigir que o Android11 ​​não pode baixar</p>
+	<p>2.Corrija o bug que impede o vídeo de exibir a imagem de visualização.</p>
+	<p>3.Adicionar função de re-download. O histórico de arquivos excluídos pode ser baixado novamente.</p>
+    <p><a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>Atualize agora</b></a></p>
 	</html>"
 }

@@ -9,6 +9,7 @@
 	"content":"<!DOCTYPE>
 	<html>
 	<h3>Die neueste Version wurde veröffentlicht</h3>
+	<p>Update-Hinweise:</p>
     <p>1.Fix Android11 ​​kann nicht heruntergeladen werden</p>
     <p>2.Behebung des Fehlers, dass das Video das Vorschaubild nicht anzeigen kann.</p>
     <p>3.Re-Download-Funktion hinzufügen. Der Verlauf gelöschter Dateien kann erneut heruntergeladen werden.</p>

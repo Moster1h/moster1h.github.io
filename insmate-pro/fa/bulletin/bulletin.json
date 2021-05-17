@@ -1,13 +1,18 @@
 {
-	"isShow": false,
-	"isForce": false,
+	"isShow": true,
+	"isForce": true,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
 	"versionName": "1.9.7b1",
 	"versionCode": 20191203,
 	"title": "Tips",
-	"website": "",
+	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 	<html>
-برای دستگاه های Android 11 ، اگر نمی توانید بارگیری کنید ، توصیه می کنیم مکان بارگیری را به فهرست \"Download\" تغییر دهید.
+	<h2>آخرین نسخه منتشر شده است</h2>
+    <p>به روز رسانی یادداشت ها:</p>
+	<p>1.رفع مشکل Android11 ​​بارگیری نمی شود</p>
+	<p>2.رفع اشکالی که ویدیو نمی تواند تصویر پیش نمایش را نشان دهد.</p>
+	<p>3.اضافه کردن عملکرد بارگیری مجدد. تاریخچه پرونده های حذف شده بارگیری مجدد می شود.</p>
+    <p><a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>اکنون به روز کنید</b></a></p>
 	</html>"
 }

@@ -1,13 +1,18 @@
 {
-	"isShow": false,
-	"isForce": false,
+	"isShow": true,
+	"isForce": true,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
 	"versionName": "1.9.7b1",
 	"versionCode": 20191203,
 	"title": "Tips",
-	"website": "",
+	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 	<html>
-Untuk peranti Android 11, jika anda tidak dapat memuat turun, kami mengesyorkan agar anda menukar lokasi muat turun ke direktori \"Download\".
+	<h2>Versi terbaru telah dikeluarkan</h2>
+    <p>Kemas kini Nota:</p>
+	<p>1.Betulkan Android11 ​​tidak dapat memuat turun</p>
+	<p>2.Perbaiki pepijat bahawa video tidak dapat memaparkan gambar pratonton.</p>
+	<p>3.Tambahkan fungsi muat turun semula. Sejarah fail yang dipadam boleh dimuat turun semula.</p>
+    <p><a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>Mengemas kini sekarang</b></a></p>
 	</html>"
 }

@@ -1,13 +1,18 @@
 {
-	"isShow": false,
-	"isForce": false,
+	"isShow": true,
+	"isForce": true,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
 	"versionName": "1.9.7b1",
 	"versionCode": 20191203,
 	"title": "Tips",
-	"website": "",
+	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 	<html>
-    بالنسبة لأجهزة Android 11 ، إذا لم تتمكن من التنزيل ، نوصيك بتغيير موقع التنزيل إلى دليل \"Download\".
+	<h2>تم الافراج عن أحدث نسخة</h2>
+    <p>ملاحظات التحديث:</p>
+	<p>1.إصلاح Android11 ​​لا يمكن تنزيله</p>
+	<p>2.أصلح الخطأ المتمثل في أن الفيديو لا يمكنه عرض صورة المعاينة.</p>
+	<p>3.إضافة وظيفة إعادة التحميل. يمكن إعادة تنزيل محفوظات الملفات المحذوفة.</p>
+    <p><a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>تحديث الان</b></a></p>
 	</html>"
 }

@@ -1,13 +1,18 @@
 {
-	"isShow": false,
-	"isForce": false,
+	"isShow": true,
+	"isForce": true,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
 	"versionName": "1.9.7b1",
 	"versionCode": 20191203,
 	"title": "Tips",
-	"website": "",
+	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 	<html>
-Ak na zariadeniach s Androidom 11 nemôžete sťahovať, odporúčame vám zmeniť umiestnenie sťahovania na adresár „Download“.
+	<h2>Bola vydaná najnovšia verzia</h2>
+    <p>Poznámky k aktualizácii:</p>
+    <p>1.Fix Android 11 nemožno stiahnuť</p>
+    <p>2.Fix chybu, že video sa nedá zobraziť náhľad obrázku.</p>
+    <p>3. Pridajte funkciu opätovného stiahnutia. Históriu odstránených súborov je možné znova stiahnuť.</p>
+    <p><a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>Teraz aktualizovať</b></a></p>
 	</html>"
 }
