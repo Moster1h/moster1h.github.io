@@ -8,12 +8,12 @@
 	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 	<html>
-    <h2>En son sürüm yayınlandı</h2>
-    <p>Güncelleme Notları:</p>
-    <p>1.Fix Android11 ​​indirilemiyor</p>
-    <p>2.Videonun önizleme görüntüsünü gösterememesi hatasını düzeltin.</p>
-    <p>3.Yeniden indirme işlevi ekleyin. Silinen dosyaların geçmişi yeniden indirilebilir.</p>
-    <h3><a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>Şimdi güncelle:
-                InsMate Pro</b></a></h3>
+    <h3>En son sürüm yayınlandı</h3>
+    <b>Güncelleme Notları:</b><br>
+    <small>1.Fix Android11 ​​indirilemiyor</small><br>
+    <small>2.Videonun önizleme görüntüsünü gösterememesi hatasını düzeltin.</small><br>
+    <small>3.Yeniden indirme işlevi ekleyin. Silinen dosyaların geçmişi yeniden indirilebilir.</small><br>
+    <br><a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>Şimdi güncelle:
+                InsMate Pro</b></a>
 	</html>"
 }

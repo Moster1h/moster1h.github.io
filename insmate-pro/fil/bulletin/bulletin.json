@@ -8,13 +8,13 @@
 	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 	<html>
-    <h2>Ang pinakabagong bersyon ay pinakawalan</h2>
-    <p>I-update ang Mga Tala:</p>
-    <p>1.Fix Android 11 ay hindi maaaring mag-download</p>
-    <p>2.Ayusin ang bug na hindi maipakita ng video ang preview na imahe.</p>
-    <p>3.Idagdag ang pagpapaandar na muling pag-download. Maaaring ma-download muli ang kasaysayan ng mga tinanggal na
-        file.</p>
-    <h3><a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>I-update Ngayon:
-                InsMate Pro</b></a></h3>
+    <h3>Ang pinakabagong bersyon ay pinakawalan</h3>
+    <b>I-update ang Mga Tala:</b><br>
+    <small>1.Fix Android 11 ay hindi maaaring mag-download</small><br>
+    <small>2.Ayusin ang bug na hindi maipakita ng video ang preview na imahe.</small><br>
+    <small>3.Idagdag ang pagpapaandar na muling pag-download. Maaaring ma-download muli ang kasaysayan ng mga tinanggal na
+        file.</small><br>
+    <br><a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>I-update Ngayon:
+                InsMate Pro</b></a>
 	</html>"
 }

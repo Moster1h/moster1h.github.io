@@ -8,12 +8,12 @@
 	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 	<html>
-    <h2>A última versão foi lançada</h2>
-    <p>Notas de atualização:</p>
-    <p>1.Corrigir que o Android11 ​​não pode baixar</p>
-    <p>2.Corrija o bug que impede o vídeo de exibir a imagem de visualização.</p>
-    <p>3.Adicionar função de re-download. O histórico de arquivos excluídos pode ser baixado novamente.</p>
-    <h3><a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>Atualize agora:
-                InsMate Pro</b></a></h3>
+    <h3>A última versão foi lançada</h3>
+    <b>Notas de atualização:</b><br>
+    <small>1.Corrigir que o Android11 ​​não pode baixar</small><br>
+    <small>2.Corrija o bug que impede o vídeo de exibir a imagem de visualização.</small><br>
+    <small>3.Adicionar função de re-download. O histórico de arquivos excluídos pode ser baixado novamente.</small><br>
+    <br><a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>Atualize agora:
+                InsMate Pro</b></a>
 	</html>"
 }

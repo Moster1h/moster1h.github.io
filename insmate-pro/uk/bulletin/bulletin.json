@@ -8,12 +8,12 @@
 	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 	<html>
-    <h2>Вийшла остання версія</h2>
-    <p>Примітки до оновлення:</p>
-    <p>1.Виправлення Android 11 не вдається завантажити</p>
-    <p>2.Виправте помилку, що відео не може відображати зображення попереднього перегляду.</p>
-    <p>3.Додайте функцію повторного завантаження. Історію видалених файлів можна повторно завантажити.</p>
-    <h3><a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>Оновити зараз: InsMate
-                Pro</b></a></h3>
+    <h3>Вийшла остання версія</h3>
+    <b>Примітки до оновлення:</b><br>
+    <small>1.Виправлення Android 11 не вдається завантажити</small><br>
+    <small>2.Виправте помилку, що відео не може відображати зображення попереднього перегляду.</small><br>
+    <small>3.Додайте функцію повторного завантаження. Історію видалених файлів можна повторно завантажити.</small><br>
+    <br><a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>Оновити зараз: InsMate
+                Pro</b></a>
 	</html>"
 }

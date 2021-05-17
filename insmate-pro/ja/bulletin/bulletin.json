@@ -8,12 +8,12 @@
 	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 	<html>
-    <h2>最新バージョンがリリースされました</h2>
-    <p>更新メモ：</p>
-    <p>1.Android11をダウンロードできない問題を修正</p>
-    <p>2.ビデオがプレビュー画像を表示できないバグを修正します。</p>
-    <p>3.再ダウンロード機能を追加します。 削除されたファイルの履歴は再ダウンロードできます。</p>
-    <h3><a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>今すぐアップデート: InsMate
-                Pro</b></a></h3>
+    <h3>最新バージョンがリリースされました</h3>
+    <b>更新メモ：</b><br>
+    <small>1.Android11をダウンロードできない問題を修正</small><br>
+    <small>2.ビデオがプレビュー画像を表示できないバグを修正します。</small><br>
+    <small>3.再ダウンロード機能を追加します。 削除されたファイルの履歴は再ダウンロードできます。</small><br>
+    <br><a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>今すぐアップデート: InsMate
+                Pro</b></a>
 	</html>"
 }
