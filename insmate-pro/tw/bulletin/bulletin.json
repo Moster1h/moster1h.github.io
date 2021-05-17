@@ -9,10 +9,10 @@
 	"content":"<!DOCTYPE>
 	<html>
 	<h2>最新版本已發布</h2>
-    <p>更新說明：</p>
+	<p>更新說明：</p>
 	<p>1.修復Android11不能下載</p>
 	<p>2.修復了影片無法顯示預覽圖像的錯誤。</p>
 	<p>3.添加重新下載功能。 刪除文件的歷史記錄可以重新下載。</p>
-    <p><a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>現在更新</b></a></p>
+	<p><a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>現在更新</b></a></p>
 	</html>"
 }
