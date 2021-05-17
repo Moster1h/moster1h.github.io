@@ -8,11 +8,12 @@
 	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 	<html>
-	<h2>Megjelent a legújabb verzió</h2>
+    <h2>Megjelent a legújabb verzió</h2>
     <p>Frissítési megjegyzések:</p>
     <p>1.Fix Android 11 nem lehet letölteni</p>
     <p>2.Javítsa ki azt a hibát, hogy a videó nem tudja megjeleníteni az előnézeti képet.</p>
     <p>3.Add újra letöltési funkciót. A törölt fájlok előzményei újból letölthetők.</p>
-    <p><a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>Frissítse most</b></a></p>
+    <h3><a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>Frissítse most:
+                InsMate Pro</b></a></h3>
 	</html>"
 }

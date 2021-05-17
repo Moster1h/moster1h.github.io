@@ -8,11 +8,12 @@
 	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 	<html>
-	<h2>Bola vydaná najnovšia verzia</h2>
+    <h2>Bola vydaná najnovšia verzia</h2>
     <p>Poznámky k aktualizácii:</p>
     <p>1.Fix Android 11 nemožno stiahnuť</p>
     <p>2.Fix chybu, že video sa nedá zobraziť náhľad obrázku.</p>
-    <p>3. Pridajte funkciu opätovného stiahnutia. Históriu odstránených súborov je možné znova stiahnuť.</p>
-    <p><a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>Teraz aktualizovať</b></a></p>
+    <p>3.Pridajte funkciu opätovného stiahnutia. Históriu odstránených súborov je možné znova stiahnuť.</p>
+    <h3><a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>Teraz aktualizovať:
+                InsMate Pro</b></a></h3>
 	</html>"
 }

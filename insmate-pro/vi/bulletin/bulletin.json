@@ -8,11 +8,12 @@
 	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 	<html>
-	<h2>Phiên bản mới nhất đã được phát hành</h2>
+    <h2>Phiên bản mới nhất đã được phát hành</h2>
     <p>Cập nhật Ghi chú:</p>
     <p>1.Fix Android 11 không thể tải xuống</p>
     <p>2.Sửa lỗi video không thể hiển thị hình ảnh xem trước.</p>
     <p>3.Thêm chức năng tải xuống lại. Lịch sử của các tệp đã xóa có thể được tải xuống lại.</p>
-    <p><a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>Cập nhật bây giờ</b></a></p>
+    <h3><a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>Cập nhật bây
+                giờ: InsMate Pro</b></a></h3>
 	</html>"
 }
