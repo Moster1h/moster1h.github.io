@@ -1,13 +1,21 @@
 {
-	"isShow": false,
+	"isShow": true,
 	"isForce": false,
+	"isUpdate": true,
 	"packageName": "downloadtwittervideo.twitterdownloader.twittervideodownloader.twittersaver",
-	"versionName": "1.4.3b",
+	"versionName": "1.4.6b",
 	"versionCode": 20191203,
 	"title": "Tips",
-	"website": "",
+	"website": "https://play.google.com/store/apps/details?id=downloadtwittervideo.twitterdownloader.twittervideodownloader.twittersaver",
 	"content":"<!DOCTYPE>
 	<html>
-Android 11 cihazları için, indiremiyorsanız, indirme konumunu \"Download\" dizini olarak değiştirmenizi öneririz.
+    <h3>En son sürüm yayınlandı</h3>
+    <b>Güncelleme Notları:</b><br>
+    <small>1.Paylaşımın indirilemediği hatayı düzeltin</small><br>
+    <small>2.Android11'in indirilemediği hatayı düzeltin</small><br>
+    <small>3.Son indirilen kayıtları ekleyin</small><br>
+    <small>4.Yeniden indirme işlevi ekleyin, Silinen dosyaların geçmişi yeniden indirilebilir</small><br>
+    <small>5.Daha fazla hata düzeltin</small><br>
+    <br>Şimdi güncelle: <a href=\"market://details?id=downloadtwittervideo.twitterdownloader.twittervideodownloader.twittersaver\"><b>TwiTake</b></a>
 	</html>"
 }

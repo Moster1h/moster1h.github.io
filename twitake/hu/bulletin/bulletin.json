@@ -1,13 +1,21 @@
 {
-	"isShow": false,
+	"isShow": true,
 	"isForce": false,
+	"isUpdate": true,
 	"packageName": "downloadtwittervideo.twitterdownloader.twittervideodownloader.twittersaver",
-	"versionName": "1.4.3b",
+	"versionName": "1.4.6b",
 	"versionCode": 20191203,
 	"title": "Tips",
-	"website": "",
+	"website": "https://play.google.com/store/apps/details?id=downloadtwittervideo.twitterdownloader.twittervideodownloader.twittersaver",
 	"content":"<!DOCTYPE>
 	<html>
-Android 11-es eszközök esetén, ha nem tudja letölteni, javasoljuk, hogy változtassa meg a letöltés helyét az \"Download\" könyvtárra.
+    <h3>Megjelent a legújabb verzió</h3>
+    <b>Frissítési megjegyzések:</b><br>
+    <small>1.Javítsa ki azt a hibát, amelyet nem lehet letölteni</small><br>
+    <small>2.Javítsa ki azt a hibát, amelyet az Android11 nem tud letölteni</small><br>
+    <small>3.Adjon hozzá nemrégiben letöltött rekordokat</small><br>
+    <small>4.Újratöltés funkció hozzáadása, A törölt fájlok előzményei újra letölthetők</small><br>
+    <small>5.Javítson ki további hibákat</small><br>
+    <br>Frissítse most: <a href=\"market://details?id=downloadtwittervideo.twitterdownloader.twittervideodownloader.twittersaver\"><b>TwiTake</b></a>
 	</html>"
 }

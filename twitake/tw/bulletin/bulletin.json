@@ -1,13 +1,21 @@
 {
-	"isShow": false,
+	"isShow": true,
 	"isForce": false,
+	"isUpdate": true,
 	"packageName": "downloadtwittervideo.twitterdownloader.twittervideodownloader.twittersaver",
-	"versionName": "1.4.3b",
+	"versionName": "1.4.6b",
 	"versionCode": 20191203,
 	"title": "Tips",
-	"website": "",
+	"website": "https://play.google.com/store/apps/details?id=downloadtwittervideo.twitterdownloader.twittervideodownloader.twittersaver",
 	"content":"<!DOCTYPE>
 	<html>
-對於Android 11設備，如果無法下載，建議您將下載位置更改為“Download”目錄。
+    <h3>最新版本已發布</h3>
+    <b>更新說明：</b><br>
+    <small>1.修復分享無法下載的bug</small><br>
+    <small>2.修復Android11無法下載的bug</small><br>
+    <small>3.添加最近下載的記錄</small><br>
+    <small>4.增加重新下載功能，刪除文件的記錄可重新下載</small><br>
+    <small>5.修復更多bug</small><br>
+    <br>現在更新: <a href=\"market://details?id=downloadtwittervideo.twitterdownloader.twittervideodownloader.twittersaver\"><b>TwiTake</b></a>
 	</html>"
 }

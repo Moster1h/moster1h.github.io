@@ -1,13 +1,21 @@
 {
-	"isShow": false,
+	"isShow": true,
 	"isForce": false,
+	"isUpdate": true,
 	"packageName": "downloadtwittervideo.twitterdownloader.twittervideodownloader.twittersaver",
-	"versionName": "1.4.3b",
+	"versionName": "1.4.6b",
 	"versionCode": 20191203,
 	"title": "Tips",
-	"website": "",
+	"website": "https://play.google.com/store/apps/details?id=downloadtwittervideo.twitterdownloader.twittervideodownloader.twittersaver",
 	"content":"<!DOCTYPE>
 	<html>
-Para dispositivos Android 11, se você não puder fazer o download, recomendamos que você altere o local do download para o diretório \"Download\".
+    <h3>A última versão foi lançada</h3>
+    <b>Notas de atualização:</b><br>
+    <small>1.Corrija o bug de que o compartilhamento não pode ser baixado</small><br>
+    <small>2.Corrija o bug que impede o download do Android11</small><br>
+    <small>3.Adicionar registros baixados recentemente</small><br>
+    <small>4.Adicionar função redownload, O histórico de arquivos excluídos pode ser baixado novamente</small><br>
+    <small>5.Corrija mais bugs</small><br>
+    <br>Atualize agora: <a href=\"market://details?id=downloadtwittervideo.twitterdownloader.twittervideodownloader.twittersaver\"><b>TwiTake</b></a>
 	</html>"
 }

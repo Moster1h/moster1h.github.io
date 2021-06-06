@@ -1,13 +1,21 @@
 {
-	"isShow": false,
+	"isShow": true,
 	"isForce": false,
+	"isUpdate": true,
 	"packageName": "downloadtwittervideo.twitterdownloader.twittervideodownloader.twittersaver",
-	"versionName": "1.4.3b",
+	"versionName": "1.4.6b",
 	"versionCode": 20191203,
 	"title": "Tips",
-	"website": "",
+	"website": "https://play.google.com/store/apps/details?id=downloadtwittervideo.twitterdownloader.twittervideodownloader.twittersaver",
 	"content":"<!DOCTYPE>
 	<html>
-एंड्रॉइड 11 उपकरणों के लिए, यदि आप डाउनलोड नहीं कर सकते हैं, तो हम अनुशंसा करते हैं कि आप डाउनलोड स्थान को \"Download\" निर्देशिका में बदल दें।
+    <h3>नवीनतम संस्करण जारी किया गया है</h3>
+    <b>अद्यतन नोट:</b><br>
+    <small>1.उस बग को ठीक करें जिसे साझा करना डाउनलोड नहीं किया जा सकता</small><br>
+    <small>2.उस बग को ठीक करें जिसे Android11 डाउनलोड नहीं किया जा सकता</small><br>
+    <small>3.हाल ही में डाउनलोड किए गए रिकॉर्ड जोड़ें</small><br>
+    <small>4.पुनः डाउनलोड फ़ंक्शन जोड़ें। हटाई गई फ़ाइलों का इतिहास फिर से डाउनलोड किया जा सकता है।</small><br>
+    <small>5.अधिक बग्स को ठीक करें</small><br>
+    <br>अभी अद्यतन करें: <a href=\"market://details?id=downloadtwittervideo.twitterdownloader.twittervideodownloader.twittersaver\"><b>TwiTake</b></a>
 	</html>"
 }
