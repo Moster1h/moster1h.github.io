@@ -1,8 +1,9 @@
 {
-	"isShow": false,
-	"isForce": true,
+	"isShow": true,
+	"isForce": false,
+	"isUpdate": true,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
-	"versionName": "1.9.7b1",
+	"versionName": "1.9.8b",
 	"versionCode": 20191203,
 	"title": "Tips",
 	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
@@ -10,9 +11,11 @@
 	<html>
     <h3>Se ha lanzado la última versión</h3>
     <b>Notas de actualización:</b><br>
-    <small>1.Repara Android11 ​​que no se puede descargar</small><br>
-    <small>2.Soluciona el error de que el video no puede mostrar la imagen de vista previa.</small><br>
-    <small>3.Agregue la función de volver a descargar. El historial de archivos eliminados se puede volver a descargar.</small><br>
+    <small>1.Solucione el error de que el uso compartido no se puede descargar</small><br>
+    <small>2.Solucione el error de que no se puede descargar Android11</small><br>
+    <small>3.Añadir registros descargados recientemente</small><br>
+    <small>4.Añadir la función de descarga, El historial de archivos eliminados se puede volver a descargar</small><br>
+    <small>5.Corregir más errores</small><br>
     <br>Actualizar ahora: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate Pro</b></a>
 	</html>"
 }

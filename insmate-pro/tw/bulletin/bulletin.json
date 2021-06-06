@@ -1,8 +1,9 @@
 {
-	"isShow": false,
-	"isForce": true,
+	"isShow": true,
+	"isForce": false,
+	"isUpdate": true,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
-	"versionName": "1.9.7b1",
+	"versionName": "1.9.8b",
 	"versionCode": 20191203,
 	"title": "Tips",
 	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
@@ -10,9 +11,11 @@
 	<html>
     <h3>最新版本已發布</h3>
     <b>更新說明：</b><br>
-    <small>1.修復Android11不能下載</small><br>
-    <small>2.修復了影片無法顯示預覽圖像的錯誤。</small><br>
-    <small>3.添加重新下載功能。 刪除文件的歷史記錄可以重新下載。</small><br><br>
+    <small>1.修復分享無法下載的bug</small><br>
+    <small>2.修復Android11無法下載的bug</small><br>
+    <small>3.添加最近下載的記錄</small><br>
+    <small>4.增加重新下載功能，刪除文件的記錄可重新下載</small><br>
+    <small>5.修復更多bug</small><br>
     現在更新: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate
                 Pro</b></a>
 	</html>"

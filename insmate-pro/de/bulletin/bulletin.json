@@ -1,8 +1,9 @@
 {
-	"isShow": false,
-	"isForce": true,
+	"isShow": true,
+	"isForce": false,
+	"isUpdate": true,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
-	"versionName": "1.9.7b1",
+	"versionName": "1.9.8b",
 	"versionCode": 20191203,
 	"title": "Tips",
 	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
@@ -10,9 +11,11 @@
 	<html>
     <h3>Die neueste Version wurde veröffentlicht</h3>
     <b>Update-Hinweise:</b><br>
-    <small>1.Fix Android11 ​​kann nicht heruntergeladen werden</small><br>
-    <small>2.Behebung des Fehlers, dass das Video das Vorschaubild nicht anzeigen kann.</small><br>
-    <small>3.Re-Download-Funktion hinzufügen. Der Verlauf gelöschter Dateien kann erneut heruntergeladen werden.</small><br>
+    <small>1.Beheben Sie den Fehler, dass das Teilen nicht heruntergeladen werden kann</small><br>
+    <small>2.Beheben Sie den Fehler, dass Android11 nicht heruntergeladen werden kann</small><br>
+    <small>3.Kürzlich heruntergeladene Datensätze hinzufügen</small><br>
+    <small>4.Add Redownload-Funktion, Der Verlauf gelöschter Dateien kann erneut heruntergeladen werden</small><br>
+    <small>5.Fix mehr Bugs</small><br>
     <br>Jetzt
 	aktualisieren: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate Pro</b></a>
 	</html>"

@@ -1,8 +1,9 @@
 {
-	"isShow": false,
-	"isForce": true,
+	"isShow": true,
+	"isForce": false,
+	"isUpdate": true,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
-	"versionName": "1.9.7b1",
+	"versionName": "1.9.8b",
 	"versionCode": 20191203,
 	"title": "Tips",
 	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
@@ -10,9 +11,11 @@
 	<html>
     <h3>آخرین نسخه منتشر شده است</h3>
     <b>به روز رسانی یادداشت ها:</b><br>
-    <small>1.رفع مشکل Android11 ​​بارگیری نمی شود</small><br>
-    <small>2.رفع اشکالی که ویدیو نمی تواند تصویر پیش نمایش را نشان دهد.</small><br>
-    <small>3.اضافه کردن عملکرد بارگیری مجدد. تاریخچه پرونده های حذف شده بارگیری مجدد می شود.</small><br>
+    <small>1.رفع اشکال که به اشتراک گذاری قابل بارگیری نیست</small><br>
+    <small>2.رفع اشکال که Android11 می تواند دانلود شود</small><br>
+    <small>3.سوابق اخیراً بارگیری شده را اضافه کنید</small><br>
+    <small>4.عملکرد بارگیری مجدد را اضافه کنید. تاریخچه پرونده های حذف شده بارگیری مجدد می</small><br>
+    <small>5.رفع اشکالات بیشتر</small><br>
     <br>اکنون به روز کنید: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate Pro</b></a>
 	</html>"
 }

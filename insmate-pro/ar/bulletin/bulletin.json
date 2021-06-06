@@ -1,8 +1,9 @@
 {
-	"isShow": false,
-	"isForce": true,
+	"isShow": true,
+	"isForce": false,
+	"isUpdate": true,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
-	"versionName": "1.9.7b1",
+	"versionName": "1.9.8b",
 	"versionCode": 20191203,
 	"title": "Tips",
 	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
@@ -10,10 +11,12 @@
 	<html>
     <h3>تم الافراج عن أحدث نسخة</h3>
     <b>ملاحظات التحديث:</b><br>
-    <small>1.إصلاح Android11 ​​لا يمكن تنزيله</small><br>
-    <small>2.أصلح الخطأ المتمثل في أن الفيديو لا يمكنه عرض صورة المعاينة.</small><br>
-    <small>3.إضافة وظيفة إعادة التحميل. يمكن إعادة تنزيل محفوظات الملفات المحذوفة.</small><br>
+    <small>1.Fix والخلل الذي تقاسم لا يمكن تحميل</small><br>
+    <small>2.إصلاح الخلل الذي لا يمكن تنزيل Android11</small><br>
+    <small>3.إضافة السجلات التي تم تنزيلها مؤخرًا</small><br>
+    <small>4.إضافة وظيفة إعادة التنزيل. يمكن إعادة تنزيل محفوظات الملفات المحذوفة</small><br>
+    <small>5.إصلاح المزيد من الأخطاء</small><br>
     <br>التحديث الآن: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate
-                Pro</b></a>
+            Pro</b></a>
 	</html>"
 }

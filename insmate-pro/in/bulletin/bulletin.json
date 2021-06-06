@@ -1,8 +1,9 @@
 {
-	"isShow": false,
-	"isForce": true,
+	"isShow": true,
+	"isForce": false,
+	"isUpdate": true,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
-	"versionName": "1.9.7b1",
+	"versionName": "1.9.8b",
 	"versionCode": 20191203,
 	"title": "Tips",
 	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
@@ -10,9 +11,11 @@
 	<html>
     <h3>Versi terbaru telah dirilis</h3>
     <b>Perbarui Catatan:</b><br>
-    <small>1.Perbaiki Android11 ​​tidak dapat mengunduh</small><br>
-    <small>2.Perbaiki bug yang video tidak dapat menampilkan gambar pratinjau.</small><br>
-    <small>3.Tambahkan fungsi unduh ulang. Sejarah file yang terhapus dapat diunduh ulang.</small><br>
+    <small>1.Perbaiki bug yang berbagi tidak dapat diunduh</small><br>
+    <small>2.Perbaiki bug yang tidak dapat diunduh Android11</small><br>
+    <small>3.Menambahkan catatan baru-baru download</small><br>
+    <small>4.Tambahkan fungsi unduh ulang, Riwayat file yang dihapus dapat diunduh ulang</small><br>
+    <small>5.Perbaiki lebih banyak bug</small><br>
     <br>Memperbarui sekarang: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate Pro</b></a>
 	</html>"
 }
