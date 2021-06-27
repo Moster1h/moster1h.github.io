@@ -11,6 +11,7 @@
 	<html>
     <h3>A última versão foi lançada</h3>
     <b>Notas de atualização:</b><br>
+	<small>A versão mais recente baixa alguns vídeos ou fotos sem fazer login.</small><br>
     <small>1.Corrija o bug de que o compartilhamento não pode ser baixado</small><br>
     <small>2.Corrija o bug que impede o download do Android11</small><br>
     <small>3.Adicionar registros baixados recentemente</small><br>
