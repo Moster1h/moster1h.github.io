@@ -10,13 +10,13 @@
 	"content":"<!DOCTYPE>
 	<html>
     <h3>最新版本已發布</h3>
-    <b>更新說明：</b><br>
-	<small>最新版本無需登錄即可下載一些影片或圖片。</small><br>
-    <small>減少廣告，不再那麼頻繁。</small><br>
-    <small>1.添加最近下載的記錄</small><br>
-    <small>2.增加重新下載功能，刪除文件的記錄可重新下載</small><br>
-    <small>3.修復更多bug</small><br>
-    <br>現在更新: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate
+    <b>更新說明：</b>
+	<br><small>最新版本無需登錄即可下載一些影片或圖片。</small>
+    <br><small>減少廣告，不再那麼頻繁。</small>
+    <br><small>1.添加最近下載的記錄</small>
+    <br><small>2.增加重新下載功能，刪除文件的記錄可重新下載</small>
+    <br><small>3.修復更多bug</small>
+    <br><br>現在更新: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate
                 Pro</b></a><br>
 	</html>"
 }

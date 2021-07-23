@@ -10,13 +10,13 @@
 	"content":"<!DOCTYPE>
 	<html>
     <h3>The latest version has been released</h3>
-    <b>Update Notes:</b><br>
-	<small>The latest version downloads some videos or photos without logging in.</small><br>
-	<small>Reduce advertising, no longer so frequent.</small><br>
-    <small>1.Add recently downloaded records</small><br>
-    <small>2.Add redownload function, The history of deleted files can be re-downloaded</small><br>
-    <small>3.Fix more bugs</small><br>
-    <br>Update Now: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate
+    <b>Update Notes:</b>
+	<br><small>The latest version downloads some videos or photos without logging in.</small>
+	<br><small>Reduce advertising, no longer so frequent.</small>
+    <br><small>1.Add recently downloaded records</small>
+    <br><small>2.Add redownload function, The history of deleted files can be re-downloaded</small>
+    <br><small>3.Fix more bugs</small>
+    <br><br>Update Now: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate
                 Pro</b></a><br>
 	</html>"
 }
