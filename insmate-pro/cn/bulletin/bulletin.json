@@ -10,8 +10,8 @@
 	"content":"<!DOCTYPE>
 	<html>
     <h3>最新版本已发布</h3>
-    <b>更新说明：</b><br>
-	<small>最新版本无需登录即可下载一些视频或照片。</small><br>
+    <b>更新说明：</b>
+	<br><small>最新版本无需登录即可下载一些视频或照片。</small><br>
 	<small>减少广告，不再那么频繁。</small><br>
     <small>1.添加最近下载模块</small><br>
     <small>2.添加重新下载功能。 删除文件的历史记录可以重新下载。</small><br>
