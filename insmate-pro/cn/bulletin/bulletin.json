@@ -1,9 +1,9 @@
 {
-	"isShow": false,
+	"isShow": true,
 	"isForce": false,
 	"isUpdate": true,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
-	"versionName": "2.0.1b",
+	"versionName": "2.0.5b",
 	"versionCode": 20191203,
 	"title": "Tips",
 	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
@@ -12,12 +12,10 @@
     <h3>最新版本已发布</h3>
     <b>更新说明：</b><br>
 	<small>最新版本无需登录即可下载一些视频或照片。</small><br>
-    <small>1.修复分享链接不能下载的bug</small><br>
-    <small>2.修复Android11不能下载</small><br>
-    <small>3.添加最近下载模块</small><br>
-    <small>4.修复了视频无法显示预览图像的错误。</small><br>
-    <small>5.添加重新下载功能。 删除文件的历史记录可以重新下载。</small><br>
-    <small>6.优化更多bug</small><br>
+    <small>减少广告，不再那么频繁。</small><br>
+    <small>1.添加最近下载模块</small><br>
+    <small>2.添加重新下载功能。 删除文件的历史记录可以重新下载。</small><br>
+    <small>3.优化更多bug</small><br>
     <br>现在更新: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate
             Pro</b></a><br>
 	</html>"
