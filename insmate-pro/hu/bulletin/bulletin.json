@@ -1,5 +1,5 @@
 {
-	"isShow": false,
+	"isShow": true,
 	"isForce": false,
 	"isUpdate": true,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
@@ -10,13 +10,12 @@
 	"content":"<!DOCTYPE>
 	<html>
     <h3>Megjelent a legújabb verzió</h3>
-    <b>Frissítési megjegyzések:</b><br>
-	<small>A legújabb verzió néhány videót vagy fotót bejelentkezés nélkül letölt.</small><br>
-    <small>1.Javítsa ki azt a hibát, amelyet nem lehet letölteni</small><br>
-    <small>2.Javítsa ki azt a hibát, amelyet az Android11 nem tud letölteni</small><br>
-    <small>3.Adjon hozzá nemrégiben letöltött rekordokat</small><br>
-    <small>4.Újratöltés funkció hozzáadása, A törölt fájlok előzményei újra letölthetők</small><br>
-    <small>5.Javítson ki további hibákat</small><br>
-    <br>Frissítse most: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate Pro</b></a><br>
+    <b>Frissítési megjegyzések:</b>
+	<br><small>A legújabb verzió néhány videót vagy fotót bejelentkezés nélkül letölt.</small>
+	<br><small>Csökkentse a reklámot</small>
+    <br><small>1.Adjon hozzá nemrégiben letöltött rekordokat</small>
+    <br><small>2.Újratöltés funkció hozzáadása, A törölt fájlok előzményei újra letölthetők</small>
+    <br><small>3.Javítson ki további hibákat</small>
+    <br><br>Frissítse most: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate Pro</b></a><br>
 	</html>"
 }

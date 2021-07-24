@@ -1,5 +1,5 @@
 {
-	"isShow": false,
+	"isShow": true,
 	"isForce": false,
 	"isUpdate": true,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
@@ -10,13 +10,12 @@
 	"content":"<!DOCTYPE>
 	<html>
     <h3>Najnowsza wersja została wydana</h3>
-    <b>Uwagi dotyczące aktualizacji:</b><br>
-	<small>Najnowsza wersja pobiera niektóre filmy lub zdjęcia bez logowania.</small><br>
-    <small>1.Napraw błąd, przez który nie można pobrać udostępniania</small><br>
-    <small>2.Napraw błąd uniemożliwiający pobranie Androida11</small><br>
-    <small>3.Dodaj ostatnio pobrane rekordy</small><br>
-    <small>4.Dodaj funkcję ponownego pobierania, historię usuniętych plików można ponownie pobrać;</small><br>
-    <small>5.Napraw więcej błędów</small><br>
-    <br>Aktualizuj teraz: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate Pro</b></a><br>
+    <b>Uwagi dotyczące aktualizacji:</b>
+	<br><small>Najnowsza wersja pobiera niektóre filmy lub zdjęcia bez logowania.</small>
+	<br><small>Zmniejsz reklamę, już nie tak często.</small>
+    <br><small>1.Dodaj ostatnio pobrane rekordy</small>
+    <br><small>2.Dodaj funkcję ponownego pobierania, historię usuniętych plików można ponownie pobrać;</small>
+    <br><small>3.Napraw więcej błędów</small>
+    <br><br>Aktualizuj teraz: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate Pro</b></a><br>
 	</html>"
 }

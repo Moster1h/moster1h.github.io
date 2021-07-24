@@ -1,5 +1,5 @@
 {
-	"isShow": false,
+	"isShow": true,
 	"isForce": false,
 	"isUpdate": true,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
@@ -10,14 +10,13 @@
 	"content":"<!DOCTYPE>
 	<html>
     <h3>최신 버전이 출시되었습니다</h3>
-    <b>업데이트 노트 :</b><br>
-	<small>최신 버전은 로그인하지 않고 일부 비디오 또는 사진을 다운로드합니다.</small><br>
-    <small>1.공유를 다운로드 할 수없는 버그 수정</small><br>
-    <small>2.Android11을 다운로드 할 수없는 버그 수정</small><br>
-    <small>3.최근 다운로드 기록 추가</small><br>
-    <small>4.재 다운로드 기능을 추가합니다, 삭제 된 파일의 내역을 다시 다운로드 할 수 있습니다</small><br>
-    <small>5.더 많은 버그 수정</small><br>
-    <br>지금 업데이트: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate
+    <b>업데이트 노트 :</b>
+	<br><small>최신 버전은 로그인하지 않고 일부 비디오 또는 사진을 다운로드합니다.</small>
+	<br><small>광고 감소, 그리 자주.</small>
+    <br><small>1.최근 다운로드 기록 추가</small>
+    <br><small>2.재 다운로드 기능을 추가합니다, 삭제 된 파일의 내역을 다시 다운로드 할 수 있습니다</small>
+    <br><small>3.더 많은 버그 수정</small>
+    <br><br>지금 업데이트: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate
                 Pro</b></a><br>
 	</html>"
 }

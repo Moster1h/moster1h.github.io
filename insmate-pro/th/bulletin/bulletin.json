@@ -1,5 +1,5 @@
 {
-	"isShow": false,
+	"isShow": true,
 	"isForce": false,
 	"isUpdate": true,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
@@ -10,14 +10,13 @@
 	"content":"<!DOCTYPE>
 	<html>
     <h3>รุ่นล่าสุดได้รับการเผยแพร่</h3>
-    <b>อัปเดตหมายเหตุ:</b><br>
-	<small>เวอร์ชันล่าสุดดาวน์โหลดวิดีโอหรือภาพถ่ายบางส่วนโดยไม่ต้องลงชื่อเข้าใช้</small><br>
-    <small>1.แก้ไขข้อผิดพลาดที่ไม่สามารถดาวน์โหลดการแชร์ได้</small><br>
-    <small>2.แก้ไขข้อผิดพลาดที่ไม่สามารถดาวน์โหลด Android11 ได้</small><br>
-    <small>3.เพิ่มระเบียนดาวน์โหลดเมื่อเร็ว ๆ นี้</small><br>
-    <small>4.เพิ่มฟังก์ชั่นดาวน์โหลดซ้ำ ประวัติของไฟล์ที่ถูกลบสามารถดาวน์โหลดซ้ำได้</small><br>
-    <small>5.แก้ไขข้อผิดพลาดเพิ่มเติม</small><br>
-    <br>อัปเดตทันที: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate
+    <b>อัปเดตหมายเหตุ:</b>
+	<br><small>เวอร์ชันล่าสุดดาวน์โหลดวิดีโอหรือภาพถ่ายบางส่วนโดยไม่ต้องลงชื่อเข้าใช้</small>
+	<br><small>ลดการโฆษณาไม่มีอีกต่อไปดังนั้นบ่อย</small>
+    <br><small>1.เพิ่มระเบียนดาวน์โหลดเมื่อเร็ว ๆ นี้</small>
+    <br><small>2.เพิ่มฟังก์ชั่นดาวน์โหลดซ้ำ ประวัติของไฟล์ที่ถูกลบสามารถดาวน์โหลดซ้ำได้</small>
+    <br><small>3.แก้ไขข้อผิดพลาดเพิ่มเติม</small>
+    <br><br>อัปเดตทันที: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate
                 Pro</b></a><br>
 	</html>"
 }

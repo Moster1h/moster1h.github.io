@@ -1,5 +1,5 @@
 {
-	"isShow": false,
+	"isShow": true,
 	"isForce": false,
 	"isUpdate": true,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
@@ -10,15 +10,14 @@
 	"content":"<!DOCTYPE>
 	<html>
     <h3>De laatste versie is uitgebracht</h3>
-    <b>Update-opmerkingen:</b><br>
-	<small>De nieuwste versie downloadt enkele video's of foto's zonder in te loggen.</small><br>
-    <small>1.Los de bug op dat delen niet kan worden gedownload</small><br>
-    <small>2.Los de bug op dat Android11 niet kan worden gedownload</small><br>
-    <small>3.Voeg recent gedownloade records toe</small><br>
-    <small>4.Voeg herdownloadfunctie toe, de geschiedenis van verwijderde bestanden kan opnieuw worden
-        gedownload</small><br>
-    <small>5.Fix meer bugs</small><br>
-    <br>Update nu: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate
+    <b>Update-opmerkingen:</b>
+	<br><small>De nieuwste versie downloadt enkele video's of foto's zonder in te loggen.</small>
+	<br><small>Verminder reclame, niet meer zo frequent.</small>
+    <br><small>1.Voeg recent gedownloade records toe</small>
+    <br><small>2.Voeg herdownloadfunctie toe, de geschiedenis van verwijderde bestanden kan opnieuw worden
+        gedownload</small>
+	<br><small>3.Fix meer bugs</small>
+	<br><br>Update nu: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate
                 Pro</b></a><br>
 	</html>"
 }

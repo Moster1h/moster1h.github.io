@@ -1,5 +1,5 @@
 {
-	"isShow": false,
+	"isShow": true,
 	"isForce": false,
 	"isUpdate": true,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
@@ -10,14 +10,13 @@
 	"content":"<!DOCTYPE>
 	<html>
     <h3>Вийшла остання версія</h3>
-    <b>Примітки до оновлення:</b><br>
-	<small>Остання версія завантажує деякі відео чи фотографії без входу в систему.</small><br>
-    <small>1.Виправити ваду, яку не вдалося звантажити спільного ресурсу</small><br>
-    <small>2.Виправити ваду, яку Android11 не може бути звантажено</small><br>
-    <small>3.Додати нещодавно звантажені записи</small><br>
-    <small>4.Додати функцію перезавантаження, історію вилучених файлів можна перезавантажити</small><br>
-    <small>5.Виправляти більше вад</small><br>
-    <br>Оновити зараз: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate
+    <b>Примітки до оновлення:</b>
+	<br><small>Остання версія завантажує деякі відео чи фотографії без входу в систему.</small>
+	<br><small>Зменшіть рекламу, вже не так часто.</small>
+    <br><small>1.Додати нещодавно звантажені записи</small>
+    <br><small>2.Додати функцію перезавантаження, історію вилучених файлів можна перезавантажити</small>
+    <br><small>3.Виправляти більше вад</small>
+    <br><br>Оновити зараз: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate
                 Pro</b></a><br>
 	</html>"
 }

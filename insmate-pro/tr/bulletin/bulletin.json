@@ -1,5 +1,5 @@
 {
-	"isShow": false,
+	"isShow": true,
 	"isForce": false,
 	"isUpdate": true,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
@@ -10,13 +10,12 @@
 	"content":"<!DOCTYPE>
 	<html>
     <h3>En son sürüm yayınlandı</h3>
-    <b>Güncelleme Notları:</b><br>
-	<small>En son sürüm giriş yapmadan bazı video veya fotoğraf indirir.</small><br>
-    <small>1.Paylaşımın indirilemediği hatayı düzeltin</small><br>
-    <small>2.Android11'in indirilemediği hatayı düzeltin</small><br>
-    <small>3.Son indirilen kayıtları ekleyin</small><br>
-    <small>4.Yeniden indirme işlevi ekleyin, Silinen dosyaların geçmişi yeniden indirilebilir</small><br>
-    <small>5.Daha fazla hata düzeltin</small><br>
-    <br>Şimdi güncelle: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate Pro</b></a><br>
+    <b>Güncelleme Notları:</b>
+	<br><small>En son sürüm giriş yapmadan bazı video veya fotoğraf indirir.</small>
+	<br><small>Reklamı azaltın, reklamcılık artık çok sık değil.</small>
+    <br><small>1.Son indirilen kayıtları ekleyin</small>
+    <br><small>2.Yeniden indirme işlevi ekleyin, Silinen dosyaların geçmişi yeniden indirilebilir</small>
+    <br><small>3.Daha fazla hata düzeltin</small>
+    <br><br>Şimdi güncelle: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate Pro</b></a><br>
 	</html>"
 }

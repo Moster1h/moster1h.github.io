@@ -1,5 +1,5 @@
 {
-	"isShow": false,
+	"isShow": true,
 	"isForce": false,
 	"isUpdate": true,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
@@ -10,14 +10,13 @@
 	"content":"<!DOCTYPE>
 	<html>
     <h3>Ang pinakabagong bersyon ay pinakawalan</h3>
-    <b>I-update ang Mga Tala:</b><br>
-	<small>Ang pinakabagong bersyon ay nag-download ng ilang mga video o larawan nang hindi nag-log in.</small><br>
-    <small>1.Fix ang bug na sharing ay hindi maaaring ma-download</small><br>
-    <small>2.Ayusin ang bug na hindi maida-download ang Android11</small><br>
-    <small>3.Add kamakailan-download talaan</small><br>
-    <small>4.Magdagdag ng pagpapaandar na muling pag-download, ang kasaysayan ng mga tinanggal na mga file ay maaaring
-        muling ma-download</small><br>
-    <small>5.Pag-ayos ng higit pang mga bug</small><br>
-    <br>I-update Ngayon: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate Pro</b></a><br>
+    <b>I-update ang Mga Tala:</b>
+	<br><small>Ang pinakabagong bersyon ay nag-download ng ilang mga video o larawan nang hindi nag-log in.</small>
+	<br><small>Bawasan ang advertising, hindi na gaanong madalas.</small>
+    <br><small>1.Add kamakailan-download talaan</small>
+    <br><small>2.Magdagdag ng pagpapaandar na muling pag-download, ang kasaysayan ng mga tinanggal na mga file ay maaaring
+        muling ma-download</small>
+	<br><small>3.Pag-ayos ng higit pang mga bug</small>
+    <br><br>I-update Ngayon: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate Pro</b></a><br>
 	</html>"
 }
