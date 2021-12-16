@@ -1,7 +1,7 @@
 {
 	"isShow": true,
 	"isForce": false,
-	"isUpdate": false,
+	"isUpdate": true,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
 	"versionName": "2.1.1b",
 	"versionCode": 20191203,
