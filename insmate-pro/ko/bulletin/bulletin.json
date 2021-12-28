@@ -1,21 +1,18 @@
 {
-	"isShow": false,
+	"isShow": true,
 	"isForce": false,
 	"isUpdate": true,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
-	"versionName": "2.0.5b",
+	"versionName": "2.1.1b",
 	"versionCode": 20191203,
 	"title": "Tips",
 	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 	<html>
     <h3>최신 버전이 출시되었습니다</h3>
-    <b>업데이트 노트 :</b>
-	<br><small>최신 버전은 로그인하지 않고 일부 비디오 또는 사진을 다운로드합니다.</small>
-	<br><small>광고 감소, 그리 자주.</small>
-    <br><small>1.최근 다운로드 기록 추가</small>
-    <br><small>2.재 다운로드 기능을 추가합니다, 삭제 된 파일의 내역을 다시 다운로드 할 수 있습니다</small>
-    <br><small>3.더 많은 버그 수정</small>
+	<br><small>2.1.0b 미만 버전을 사용 중이시라면, 로그인 메시지가 자주 뜨는 경우 최신 버전으로 업데이트 해주시기 바랍니다. 최신 버전은 이 문제를 해결합니다.</small>
+    <br><small>최신 버전은 로그인 없이 일부 동영상이나 사진을 다운로드합니다.</small>
+    <br><small>최신 버전은 광고를 줄여 더 이상 자주 사용되지 않습니다.</small>
     <br><br>지금 업데이트: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate
                 Pro</b></a><br>
 	</html>"

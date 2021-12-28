@@ -1,22 +1,18 @@
 {
-	"isShow": false,
+	"isShow": true,
 	"isForce": false,
 	"isUpdate": true,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
-	"versionName": "2.0.5b",
+	"versionName": "2.1.1b",
 	"versionCode": 20191203,
 	"title": "Tips",
 	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 	<html>
     <h3>Ang pinakabagong bersyon ay pinakawalan</h3>
-    <b>I-update ang Mga Tala:</b>
-	<br><small>Ang pinakabagong bersyon ay nag-download ng ilang mga video o larawan nang hindi nag-log in.</small>
-	<br><small>Bawasan ang advertising, hindi na gaanong madalas.</small>
-    <br><small>1.Add kamakailan-download talaan</small>
-    <br><small>2.Magdagdag ng pagpapaandar na muling pag-download, ang kasaysayan ng mga tinanggal na mga file ay maaaring
-        muling ma-download</small>
-	<br><small>3.Pag-ayos ng higit pang mga bug</small>
+	<br><small>Kung gumagamit ka ng bersyon na mas mababa sa 2.1.0b, kung madalas kang sinenyasan na mag-log in, mangyaring mag-update sa pinakabagong bersyon. Inaayos ng pinakabagong bersyon ang problemang ito.</small>
+    <br><small>Ang pinakabagong bersyon ay nagda-download ng ilang video o larawan nang hindi nagla-log in.</small>
+	<br><small>Ang pinakabagong bersyon ay binabawasan ang mga ad at hindi na ito madalas.</small>
     <br><br>I-update Ngayon: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate Pro</b></a><br>
 	</html>"
 }

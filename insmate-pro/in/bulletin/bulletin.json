@@ -1,21 +1,18 @@
 {
-	"isShow": false,
+	"isShow": true,
 	"isForce": false,
 	"isUpdate": true,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
-	"versionName": "2.0.5b",
+	"versionName": "2.1.1b",
 	"versionCode": 20191203,
 	"title": "Tips",
 	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 	<html>
     <h3>Versi terbaru telah dirilis</h3>
-    <b>Perbarui Catatan:</b>
-	<br><small>Versi terbaru mengunduh bagian dari video dan foto tanpa masuk.</small>
-	<br><small>Mengurangi iklan, tidak lagi begitu sering.</small>
-    <br><small>1.Menambahkan catatan baru-baru download</small>
-    <br><small>2.Tambahkan fungsi unduh ulang, Riwayat file yang dihapus dapat diunduh ulang</small>
-    <br><small>3.Perbaiki lebih banyak bug</small>
+	<br><small>Jika Anda menggunakan versi yang lebih rendah dari 2.1.0b, jika Anda sering diminta untuk masuk, perbarui ke versi terbaru. Versi terbaru memperbaiki masalah ini.</small>
+    <br><small>Versi terbaru mengunduh beberapa video atau foto tanpa masuk.</small>
+    <br><small>Versi terbaru mengurangi iklan dan tidak lagi sering.</small>
     <br><br>Memperbarui sekarang: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate Pro</b></a><br>
 	</html>"
 }

@@ -1,21 +1,18 @@
 {
-	"isShow": false,
+	"isShow": true,
 	"isForce": false,
 	"isUpdate": true,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
-	"versionName": "2.0.5b",
+	"versionName": "2.1.1b",
 	"versionCode": 20191203,
 	"title": "Tips",
 	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 	<html>
     <h3>Den seneste version er frigivet</h3>
-    <b>Opdater noter:</b>
-	<br><small>Den seneste version downloader nogle videoer eller fotos uden at logge ind.</small>
-	<br><small>Reducer reklamer, ikke længere så hyppige.</small>
-    <br><small>1.Tilføj nyligt downloadede poster</small>
-    <br><small>2.Add redownload-funktion, Historikken over slettede filer kan downloades igen</small>
-    <br><small>3.Fix flere fejl</small>
+	<br><small>Hvis du bruger en version lavere end 2.1.0b, og hvis du ofte bliver bedt om at logge på, skal du opdatere til den nyeste version. Den seneste version løser dette problem.</small>
+    <br><small>Den seneste version downloader nogle videoer eller billeder uden at logge ind.</small>
+    <br><small>Den seneste version reducerer reklamer og er ikke længere så hyppig.</small>
     <br><br>Opdatere nu: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate
                 Pro</b></a><br>
 	</html>"

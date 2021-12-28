@@ -1,21 +1,18 @@
 {
-	"isShow": false,
+	"isShow": true,
 	"isForce": false,
 	"isUpdate": true,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
-	"versionName": "2.0.5b",
+	"versionName": "2.1.1b",
 	"versionCode": 20191203,
 	"title": "Tips",
 	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 	<html>
     <h3>Bola vydaná najnovšia verzia</h3>
-    <b>Poznámky k aktualizácii:</b>
-	<br><small>Najnovšia verzia sťahuje niektoré videá alebo fotografie bez prihlásenia.</small>
-	<br><small>Znížte reklamu</small>
-    <br><small>1.Pridajte nedávno stiahnuté záznamy</small>
-    <br><small>2.Add funkcie redownload, História zmazaných súborov môže byť re-stiahnuť</small>
-    <br><small>3.Opravte ďalšie chyby</small>
+	<br><small>Ak používate verziu nižšiu ako 2.1.0b, ak sa vám často zobrazuje výzva na prihlásenie, aktualizujte na najnovšiu verziu. Najnovšia verzia tento problém rieši.</small>
+    <br><small>Najnovšia verzia stiahne niektoré videá alebo fotografie bez prihlásenia.</small>
+    <br><small>Najnovšia verzia redukuje reklamy a už nie je taká častá.</small>
     <br><br>Teraz aktualizovať: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate Pro</b></a><br>
 	</html>"
 }

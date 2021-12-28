@@ -1,22 +1,18 @@
 {
-	"isShow": false,
+	"isShow": true,
 	"isForce": false,
 	"isUpdate": true,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
-	"versionName": "2.0.5b",
+	"versionName": "2.1.1b",
 	"versionCode": 20191203,
 	"title": "Tips",
 	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 	<html>
     <h3>La dernière version a été publiée</h3>
-    <b>Notes de mise à jour:</b>
-	<br><small>La dernière version télécharge des une partie de la vidéo et des photos sans se connecter.</small>
-	<br><small>Réduire la publicité, ne sont plus si fréquents.</small>
-    <br><small>1.Ajouter des enregistrements récemment téléchargés</small>
-    <br><small>2.Ajoutez la fonction de retéléchargement, L'historique des fichiers supprimés peut être téléchargé à
-        nouveau</small>
-	<br><small>3.Corrigez plus de bugs</small>
+	<br><small>Si vous utilisez une version inférieure à 2.1.0b, si vous êtes fréquemment invité à vous connecter, veuillez mettre à jour vers la dernière version. La dernière version corrige ce problème.</small>
+    <br><small>La dernière version télécharge certaines vidéos ou photos sans vous connecter.</small>
+	<br><small>La dernière version réduit les publicités et n'est plus aussi fréquente.</small>
 	<br><br>Mettre à jour maintenant: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate Pro</b></a><br>
 	</html>"
 }
