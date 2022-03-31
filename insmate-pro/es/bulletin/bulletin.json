@@ -1,21 +1,18 @@
 {
 	"isShow": false,
 	"isForce": false,
-	"isUpdate": true,
+	"isUpdate": false,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
-	"versionName": "2.0.5b",
+	"versionName": "2.1.1b",
 	"versionCode": 20191203,
 	"title": "Tips",
 	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 	<html>
-    <h3>Se ha lanzado la última versión</h3>
-    <b>Notas de actualización:</b>
-	<br><small>La última versión descarga algunos videos o fotos sin iniciar sesión.</small>
-	<br><small>Reducir la publicidad, ya no tan frecuente.</small>
-    <br><small>1.Añadir registros descargados recientemente</small>
-    <br><small>2.Añadir la función de descarga, El historial de archivos eliminados se puede volver a descargar</small>
-    <br><small>3.Corregir más errores</small>
+    <h3>Se ha lanzado la última versión.</h3>
+	<br><small>Si está utilizando una versión inferior a 2.1.0b, si se le solicita con frecuencia que inicie sesión, actualice a la última versión. La última versión soluciona este problema.</small>
+    <br><small>La última versión descarga algunos videos o fotos sin iniciar sesión.</small>
+    <br><small>La última versión reduce la publicidad y ya no es tan frecuente.</small>
     <br><br>Actualizar ahora: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate Pro</b></a><br>
 	</html>"
 }

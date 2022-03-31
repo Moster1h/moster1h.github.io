@@ -1,21 +1,18 @@
 {
 	"isShow": false,
 	"isForce": false,
-	"isUpdate": true,
+	"isUpdate": false,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
-	"versionName": "2.0.5b",
+	"versionName": "2.1.1b",
 	"versionCode": 20191203,
 	"title": "Tips",
 	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 	<html>
     <h3>En son sürüm yayınlandı</h3>
-    <b>Güncelleme Notları:</b>
-	<br><small>En son sürüm giriş yapmadan bazı video veya fotoğraf indirir.</small>
-	<br><small>Reklamı azaltın, reklamcılık artık çok sık değil.</small>
-    <br><small>1.Son indirilen kayıtları ekleyin</small>
-    <br><small>2.Yeniden indirme işlevi ekleyin, Silinen dosyaların geçmişi yeniden indirilebilir</small>
-    <br><small>3.Daha fazla hata düzeltin</small>
+	<br><small>2.1.0b'den daha düşük bir sürüm kullanıyorsanız, sık sık oturum açmanız isteniyorsa, lütfen en son sürüme güncelleyin. En son sürüm bu sorunu giderir.</small>
+    <br><small>En son sürüm, oturum açmadan bazı videoları veya fotoğrafları indirir.</small>
+    <br><small>En son sürüm reklamları azaltır ve artık çok sık değildir.</small>
     <br><br>Şimdi güncelle: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate Pro</b></a><br>
 	</html>"
 }

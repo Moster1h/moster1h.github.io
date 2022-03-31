@@ -1,21 +1,18 @@
 {
 	"isShow": false,
 	"isForce": false,
-	"isUpdate": true,
+	"isUpdate": false,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
-	"versionName": "2.0.5b",
+	"versionName": "2.1.1b",
 	"versionCode": 20191203,
 	"title": "Tips",
 	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 	<html>
     <h3>नवीनतम संस्करण जारी किया गया है</h3>
-    <b>अद्यतन नोट:</b>
-	<br><small>नवीनतम संस्करण लॉग इन किए बिना कुछ वीडियो या तस्वीरें डाउनलोड करता है।</small>
-	<br><small>विज्ञापन कम करें, अब इतनी बार नहीं।</small>
-    <br><small>1.हाल ही में डाउनलोड किए गए रिकॉर्ड जोड़ें</small>
-    <br><small>2.पुनः डाउनलोड फ़ंक्शन जोड़ें। हटाई गई फ़ाइलों का इतिहास फिर से डाउनलोड किया जा सकता है।</small>
-    <br><small>3.अधिक बग्स को ठीक करें</small>
+	<br><small>यदि आप 2.1.0b से कम के संस्करण का उपयोग कर रहे हैं, यदि आपको अक्सर लॉग इन करने के लिए कहा जाता है, तो कृपया नवीनतम संस्करण में अपडेट करें। नवीनतम संस्करण इस समस्या को ठीक करता है।</small>
+    <br><small>नवीनतम संस्करण लॉग इन किए बिना कुछ वीडियो या तस्वीरें डाउनलोड करता है।</small>
+    <br><small>नवीनतम संस्करण विज्ञापनों को कम करता है और अब ऐसा अक्सर नहीं होता है।</small>
     <br><br>अभी अद्यतन करें: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate Pro</b></a><br>
 	</html>"
 }
