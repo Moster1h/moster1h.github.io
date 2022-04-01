@@ -1,18 +1,16 @@
 {
-	"isShow": false,
+	"isShow": true,
 	"isForce": false,
-	"isUpdate": false,
+	"isUpdate": true,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
-	"versionName": "2.1.1b",
+	"versionName": "2.1.9b",
 	"versionCode": 20191203,
 	"title": "Tips",
 	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 	<html>
     <h3>Ang pinakabagong bersyon ay pinakawalan</h3>
-	<br><small>Kung gumagamit ka ng bersyon na mas mababa sa 2.1.0b, kung madalas kang sinenyasan na mag-log in, mangyaring mag-update sa pinakabagong bersyon. Inaayos ng pinakabagong bersyon ang problemang ito.</small>
-    <br><small>Ang pinakabagong bersyon ay nagda-download ng ilang video o larawan nang hindi nagla-log in.</small>
-	<br><small>Ang pinakabagong bersyon ay binabawasan ang mga ad at hindi na ito madalas.</small>
+    <br><small>Ayusin ang http 400 error</small>
     <br><br>I-update Ngayon: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate Pro</b></a><br>
 	</html>"
 }

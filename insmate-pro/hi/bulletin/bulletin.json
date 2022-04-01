@@ -1,18 +1,16 @@
 {
-	"isShow": false,
+	"isShow": true,
 	"isForce": false,
-	"isUpdate": false,
+	"isUpdate": true,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
-	"versionName": "2.1.1b",
+	"versionName": "2.1.9b",
 	"versionCode": 20191203,
 	"title": "Tips",
 	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 	<html>
     <h3>नवीनतम संस्करण जारी किया गया है</h3>
-	<br><small>यदि आप 2.1.0b से कम के संस्करण का उपयोग कर रहे हैं, यदि आपको अक्सर लॉग इन करने के लिए कहा जाता है, तो कृपया नवीनतम संस्करण में अपडेट करें। नवीनतम संस्करण इस समस्या को ठीक करता है।</small>
-    <br><small>नवीनतम संस्करण लॉग इन किए बिना कुछ वीडियो या तस्वीरें डाउनलोड करता है।</small>
-    <br><small>नवीनतम संस्करण विज्ञापनों को कम करता है और अब ऐसा अक्सर नहीं होता है।</small>
+    <br><small>http 400 त्रुटि को ठीक करें</small>
     <br><br>अभी अद्यतन करें: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate Pro</b></a><br>
 	</html>"
 }

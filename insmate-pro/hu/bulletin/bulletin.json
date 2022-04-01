@@ -1,18 +1,16 @@
 {
-	"isShow": false,
+	"isShow": true,
 	"isForce": false,
-	"isUpdate": false,
+	"isUpdate": true,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
-	"versionName": "2.1.1b",
+	"versionName": "2.1.9b",
 	"versionCode": 20191203,
 	"title": "Tips",
 	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 	<html>
     <h3>Megjelent a legújabb verzió</h3>
-	<br><small>Ha 2.1.0b-nél régebbi verziót használ, és gyakran kéri, hogy jelentkezzen be, kérjük, frissítse a legújabb verzióra. A legújabb verzió megoldja ezt a problémát.</small>
-    <br><small>A legújabb verzió bejelentkezés nélkül tölt le néhány videót vagy fényképet.</small>
-    <br><small>A legújabb verzió csökkenti a reklámokat, és már nem olyan gyakori.</small>
+	<br><small>http 400 hiba javítása</small>
     <br><br>Frissítse most: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate Pro</b></a><br>
 	</html>"
 }

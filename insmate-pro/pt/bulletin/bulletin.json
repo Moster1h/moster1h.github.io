@@ -1,18 +1,16 @@
 {
-	"isShow": false,
+	"isShow": true,
 	"isForce": false,
-	"isUpdate": false,
+	"isUpdate": true,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
-	"versionName": "2.1.1b",
+	"versionName": "2.1.9b",
 	"versionCode": 20191203,
 	"title": "Tips",
 	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 	<html>
     <h3>A última versão foi lançada</h3>
-    <br><small>Se você estiver usando uma versão inferior a 2.1.0b, se for solicitado com freqüência para fazer login, atualize para a versão mais recente. A versão mais recente corrige esse problema.</small>
-    <br><small>A versão mais recente baixa alguns vídeos ou fotos sem fazer login.</small>
-    <br><small>A última versão reduz propagandas e não é mais tão frequente.</small>
+	<br><small>Corrigir erro http 400</small>
     <br><br>Atualize agora: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate Pro</b></a><br>
 	</html>"
 }

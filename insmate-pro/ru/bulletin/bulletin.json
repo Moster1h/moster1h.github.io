@@ -1,18 +1,16 @@
 {
-	"isShow": false,
+	"isShow": true,
 	"isForce": false,
-	"isUpdate": false,
+	"isUpdate": true,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
-	"versionName": "2.1.1b",
+	"versionName": "2.1.9b",
 	"versionCode": 20191203,
 	"title": "Tips",
 	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 	<html>
     <h3>Вышла последняя версия</h3>
-	<br><small>Если вы используете версию ниже 2.1.0b, если вам часто предлагается войти в систему, обновите ее до последней версии. Последняя версия устраняет эту проблему.</small>
-    <br><small>Последняя версия загружает некоторые видео или фотографии без входа в систему.</small>
-    <br><small>Последняя версия сокращает количество рекламных объявлений и уже не так часто.</small>
+	<br><small>Исправить ошибку http 400</small>
     <br><br>Обновить сейчас: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate Pro</b></a><br>
 	</html>"
 }
