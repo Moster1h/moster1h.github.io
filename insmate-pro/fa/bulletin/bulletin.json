@@ -1,16 +1,18 @@
 {
-	"isShow": false,
+	"isShow": true,
 	"isForce": false,
-	"isUpdate": false,
+	"isUpdate": true,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
-	"versionName": "2.1.9b",
+	"versionName": "2.2.0b",
 	"versionCode": 20191203,
 	"title": "نسخه جدید شناسایی شد",
 	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 	<html>
     <h3>آخرین نسخه منتشر شده است</h3>
-	<br><small>رفع خطای http 400</small>
+    <br><small>رفع اشکالاتی که قابل دانلود نیستند</small>
+    <br><small>رفع خطاهای http 400</small>
+    <br><small>رفع اشکالی که امکان ورود به سیستم وجود ندارد.</small>
     <br><br>اکنون به روز کنید: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate Pro</b></a>
 	</html>"
 }

@@ -1,16 +1,18 @@
 {
-	"isShow": false,
+	"isShow": true,
 	"isForce": false,
-	"isUpdate": false,
+	"isUpdate": true,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
-	"versionName": "2.1.9b",
+	"versionName": "2.2.0b",
 	"versionCode": 20191203,
 	"title": "Tips",
 	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 	<html>
     <h3>最新版本已发布</h3>
-    <br><small>修复Http 400错误</small>
+    <br><small>修复无法下载的BUG</small>
+    <br><small>修复http 400错误</small>
+    <br><small>修复无法登录的BUG</small>
     <br><br>现在更新: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate
             Pro</b></a><br>
 	</html>"
