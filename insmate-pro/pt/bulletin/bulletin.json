@@ -5,11 +5,10 @@
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
 	"versionName": "2.3.2b",
 	"versionCode": 20191203,
-	"title": "Tips",
+	"title": "A última versão foi lançada",
 	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 	<html>
-    <h3>A última versão foi lançada</h3>
     <br><small>Corrigir bugs cujo baixados não foi possível</small>
     <br><small>Corrigir erros de http 400</small>
     <br><small>Corrigir o bug que não pode fazer login.</small>
