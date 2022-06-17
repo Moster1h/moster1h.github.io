@@ -1,16 +1,17 @@
 {
-	"isShow": false,
+	"isShow": true,
 	"isForce": false,
-	"isUpdate": false,
+	"isUpdate": true,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
-	"versionName": "2.1.9b",
+	"versionName": "2.4.0b",
 	"versionCode": 20191203,
-	"title": "Tips",
+	"title": "업데이트 프롬프트",
 	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 	<html>
-    <h3>최신 버전이 출시되었습니다</h3>
-    <br><small>http 400 오류 수정</small>
+    <h3>버전 2.4.0b 출시</h3>
+    <br><small>다운로드할 수 없는 버그를 수정합니다.</small>
+	<br><small>잦은 로그인 버그 수정.</small>
     <br><br>지금 업데이트: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate
                 Pro</b></a><br>
 	</html>"
