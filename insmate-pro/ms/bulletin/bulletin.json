@@ -1,16 +1,17 @@
 {
-	"isShow": false,
+	"isShow": true,
 	"isForce": false,
-	"isUpdate": false,
+	"isUpdate": true,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
-	"versionName": "2.1.9b",
+	"versionName": "2.4.0b",
 	"versionCode": 20191203,
-	"title": "Tips",
+	"title": "Petua Kemas Kini",
 	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 	<html>
-    <h3>Versi terbaru telah dikeluarkan</h3>
-	<br><small>Betulkan ralat http 400</small>
-    <br><br>Mengemas kini sekarang: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate Pro</b></a><br>
+    <h3>Versi 2.4.0b dikeluarkan</h3>
+    <small>Betulkan pepijat yang tidak boleh dimuat turun.</small>
+    <br><small>Betulkan pepijat log masuk yang kerap.</small>
+    <br><br>Mengemas kini sekarang: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate Pro</b></a>
 	</html>"
 }

@@ -1,17 +1,18 @@
 {
-	"isShow": false,
+	"isShow": true,
 	"isForce": false,
-	"isUpdate": false,
+	"isUpdate": true,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
-	"versionName": "2.1.9b",
+	"versionName": "2.4.0b",
 	"versionCode": 20191203,
-	"title": "Tips",
+	"title": "Bijwerktips",
 	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
 	"content":"<!DOCTYPE>
 	<html>
-    <h3>De laatste versie is uitgebracht</h3>
-	<br><small>Fix http 400-fout</small>
+    <h3>Versie 2.4.0b vrijgegeven</h3>
+    <small>Los de bug op die niet kan worden gedownload.</small>
+    <br><small>Fix frequente login-bug.</small>
 	<br><br>Update nu: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate
-                Pro</b></a><br>
+                Pro</b></a>
 	</html>"
 }
