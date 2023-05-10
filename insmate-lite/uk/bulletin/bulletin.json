@@ -2,16 +2,16 @@
 	"isShow": false,
 	"isForce": false,
 	"isUpdate": false,
-	"packageName": "repost.share.instagram.videodownloader.photodownloader",
-	"versionName": "2.1.9b",
+	"packageName": "videodownloader.instagram.videosaver",
+	"versionName": "1.0.0R",
 	"versionCode": 20191203,
 	"title": "Tips",
-	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
+	"website": "https://play.google.com/store/apps/details?id=videodownloader.instagram.videosaver",
 	"content":"<!DOCTYPE>
 	<html>
     <h3>Вийшла остання версія</h3>
 	<br><small>Виправити помилку http 400</small>
-    <br><br>Оновити зараз: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate
+    <br><br>Оновити зараз: <a href=\"market://details?id=videodownloader.instagram.videosaver\"><b>InsMate
                 Pro</b></a><br>
 	</html>"
 }

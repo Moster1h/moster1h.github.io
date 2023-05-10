@@ -2,17 +2,17 @@
 	"isShow": false,
 	"isForce": false,
 	"isUpdate": false,
-	"packageName": "repost.share.instagram.videodownloader.photodownloader",
-	"versionName": "2.4.0b",
+	"packageName": "videodownloader.instagram.videosaver",
+	"versionName": "1.0.0R",
 	"versionCode": 20191203,
 	"title": "プロンプトの更新",
-	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
+	"website": "https://play.google.com/store/apps/details?id=videodownloader.instagram.videosaver",
 	"content":"<!DOCTYPE>
 	<html>
-    <h3>バージョン2.4.0bがリリースされました</h3>
+    <h3>バージョン1.0.0Rがリリースされました</h3>
     <small>ダウンロードできないバグを修正してください。</small>
     <br><small>頻繁なログインのバグを修正します。</small>
-    <br><br>今すぐアップデート: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate
+    <br><br>今すぐアップデート: <a href=\"market://details?id=videodownloader.instagram.videosaver\"><b>InsMate
                 Pro</b></a>
 	</html>"
 }

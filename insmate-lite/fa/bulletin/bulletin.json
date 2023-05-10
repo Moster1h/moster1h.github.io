@@ -2,16 +2,16 @@
 	"isShow": false,
 	"isForce": false,
 	"isUpdate": false,
-	"packageName": "repost.share.instagram.videodownloader.photodownloader",
-	"versionName": "2.3.2b",
+	"packageName": "videodownloader.instagram.videosaver",
+	"versionName": "1.0.0R",
 	"versionCode": 20191203,
 	"title": "آخرین نسخه منتشر شده است",
-	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
+	"website": "https://play.google.com/store/apps/details?id=videodownloader.instagram.videosaver",
 	"content":"<!DOCTYPE>
 	<html>
     <small>رفع اشکالاتی که قابل دانلود نیستند</small>
     <br><small>رفع خطاهای http 400</small>
     <br><small>رفع اشکالی که امکان ورود به سیستم وجود ندارد.</small>
-    <br><br>اکنون به روز کنید: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate Pro</b></a>
+    <br><br>اکنون به روز کنید: <a href=\"market://details?id=videodownloader.instagram.videosaver\"><b>InsMate Pro</b></a>
 	</html>"
 }

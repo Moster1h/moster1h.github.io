@@ -2,16 +2,16 @@
 	"isShow": false,
 	"isForce": false,
 	"isUpdate": false,
-	"packageName": "repost.share.instagram.videodownloader.photodownloader",
-	"versionName": "2.4.0b",
+	"packageName": "videodownloader.instagram.videosaver",
+	"versionName": "1.0.0R",
 	"versionCode": 20191203,
 	"title": "İpuçlarını Güncelle",
-	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
+	"website": "https://play.google.com/store/apps/details?id=videodownloader.instagram.videosaver",
 	"content":"<!DOCTYPE>
 	<html>
-    <h3>Sürüm 2.4.0b yayınlandıı</h3>
+    <h3>Sürüm 1.0.0R yayınlandıı</h3>
     <small>İndirilemeyen hatayı düzeltin.</small>
 	<br><small>Sık oturum açma hatasını düzeltin.</small>
-    <br><br>Şimdi güncelle: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate Pro</b></a>
+    <br><br>Şimdi güncelle: <a href=\"market://details?id=videodownloader.instagram.videosaver\"><b>InsMate Pro</b></a>
 	</html>"
 }

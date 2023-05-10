@@ -2,16 +2,16 @@
 	"isShow": false,
 	"isForce": false,
 	"isUpdate": false,
-	"packageName": "repost.share.instagram.videodownloader.photodownloader",
-	"versionName": "2.4.0b",
+	"packageName": "videodownloader.instagram.videosaver",
+	"versionName": "1.0.0R",
 	"versionCode": 20191203,
 	"title": "Petua Kemas Kini",
-	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
+	"website": "https://play.google.com/store/apps/details?id=videodownloader.instagram.videosaver",
 	"content":"<!DOCTYPE>
 	<html>
-    <h3>Versi 2.4.0b dikeluarkan</h3>
+    <h3>Versi 1.0.0R dikeluarkan</h3>
     <small>Betulkan pepijat yang tidak boleh dimuat turun.</small>
     <br><small>Betulkan pepijat log masuk yang kerap.</small>
-    <br><br>Mengemas kini sekarang: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate Pro</b></a>
+    <br><br>Mengemas kini sekarang: <a href=\"market://details?id=videodownloader.instagram.videosaver\"><b>InsMate Pro</b></a>
 	</html>"
 }
