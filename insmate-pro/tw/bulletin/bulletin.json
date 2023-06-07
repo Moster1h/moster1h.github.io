@@ -1,18 +1,17 @@
 {
-	"isShow": false,
+	"isShow": true,
 	"isForce": false,
 	"isUpdate": false,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
-	"versionName": "2.4.0b",
+	"versionName": "2.6.6R",
 	"versionCode": 20191203,
-	"title": "更新提示",
-	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
+	"title": "提示",
+	"website": "https://play.google.com/store/apps/details?id=videodownloader.instagram.videosaver",
 	"content":"<!DOCTYPE>
 	<html>
-    <h3>2.4.0b版本已發布</h3>
-    <small>修復無法下載的BUG</small>
-    <br><small>修復頻繁登錄的BUG</small>
-    <br><br>現在更新: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate
-            Pro</b></a>
+    <p>此應用已不在維護，但是依舊可以使用。</p>
+	<p>如果你想使用我們的最新應用InsMate,可以通過下面的方式進行安裝。</p>
+    <br><a href=\"market://details?id=videodownloader.instagram.videosaver\"><b>Google Play</b></a>
+	<p>對於已經購買InsMate Pro訂閲的用戶（沒有過期），你可以聯係<a href=\"mailto:support_ins@vidtak.net\">support_ins@vidtak.net</a>,我們會爲你恢復購買。</p>
 	</html>"
 }
