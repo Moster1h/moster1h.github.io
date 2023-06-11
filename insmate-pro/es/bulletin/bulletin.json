@@ -1,17 +1,17 @@
 {
-	"isShow": false,
+	"isShow": true,
 	"isForce": false,
 	"isUpdate": false,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
-	"versionName": "2.4.0b",
+	"versionName": "2.6.6R",
 	"versionCode": 20191203,
-	"title": "Consejos de actualización",
-	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
+	"title": "Consejos",
+	"website": "https://play.google.com/store/apps/details?id=videodownloader.instagram.videosaver",
 	"content":"<!DOCTYPE>
 	<html>
-    <h3>Lanzamiento de la versión 2.4.0b</h3>
-    <small>Solucione el error que no se puede descargar.</small>
-	<br><small>Solucione el error de inicio de sesión frecuente.</small>
-    <br><br>Actualizar ahora: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate Pro</b></a>
-	</html>"
+    Esta aplicación ya no se mantiene, pero aún funciona.
+    <br><br>Si desea utilizar nuestra última aplicación InsMate, puede instalarla de la siguiente manera.
+    <br><br><a href=\"market://details?id=videodownloader.instagram.videosaver\"><b>Google Play</b></a>
+    <br><br>Para usuarios que han comprado la suscripción InsMate Pro (no vencido), puede ponerse en contacto con <a href=\"mailto:support_ins@vidtak.net\">support_ins@vidtak.net</a> y enviar su correo electrónico de compra, restauraremos la compra por usted.
+	<br></html>"
 }
