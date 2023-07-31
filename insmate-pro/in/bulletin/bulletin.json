@@ -1,17 +1,17 @@
 {
-	"isShow": false,
+	"isShow": true,
 	"isForce": false,
 	"isUpdate": false,
 	"packageName": "repost.share.instagram.videodownloader.photodownloader",
-	"versionName": "2.4.0b",
+	"versionName": "2.6.6R",
 	"versionCode": 20191203,
-	"title": "Perbarui Kiat",
-	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
+	"title": "Tips",
+	"website": "https://play.google.com/store/apps/details?id=videodownloader.instagram.videosaver",
 	"content":"<!DOCTYPE>
 	<html>
-    <h3>Versi 2.4.0b dirilis</h3>
-    <small>Perbaiki bug yang tidak dapat diunduh.</small>
-	<br><small>Perbaiki bug login yang sering.</small>
-    <br><br>Memperbarui sekarang: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate Pro</b></a>
-	</html>"
+    Aplikasi ini tidak lagi dipertahankan, tetapi masih berfungsi.
+    <br><br>Jika Anda ingin menggunakan aplikasi InsMate terbaru kami, Anda dapat menginstalnya dengan cara berikut.
+    <br><br><a href=\"market://details?id=videodownloader.instagram.videosaver\"><b>Google Play</b></a>
+	<br><br>Untuk pengguna yang telah membeli langganan InsMate Pro (tidak kedaluwarsa), Anda dapat menghubungi <a href=\"mailto:support_ins@vidtak.net\">support_ins@vidtak.net</a> dan mengirimkan email pembelian Anda, kami akan mengembalikan pembelian untuk Anda.
+	<br></html>"
 }
