@@ -3,15 +3,13 @@
 	"isForce": false,
 	"isUpdate": false,
 	"packageName": "videodownloader.instagram.videosaver",
-	"versionName": "1.0.0R",
-	"versionCode": 20191203,
+	"versionName": "1.1.5R",
 	"title": "Tips",
 	"website": "https://play.google.com/store/apps/details?id=videodownloader.instagram.videosaver",
 	"content":"<!DOCTYPE>
 	<html>
     <h3>Den seneste version er frigivet</h3>
 	<br><small>Ret http 400-fejlen</small>
-    <br><br>Opdatere nu: <a href=\"market://details?id=videodownloader.instagram.videosaver\"><b>InsMate
-                Pro</b></a><br>
+    <br><br>Opdatere nu: <a href=\"market://details?id=videodownloader.instagram.videosaver\"><b>InsMate</b></a><br>
 	</html>"
 }

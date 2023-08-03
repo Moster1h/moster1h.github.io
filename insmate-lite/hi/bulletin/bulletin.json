@@ -3,15 +3,14 @@
 	"isForce": false,
 	"isUpdate": false,
 	"packageName": "videodownloader.instagram.videosaver",
-	"versionName": "1.0.0R",
-	"versionCode": 20191203,
+	"versionName": "1.1.5R",
 	"title": "अद्यतन युक्तियाँ",
 	"website": "https://play.google.com/store/apps/details?id=videodownloader.instagram.videosaver",
 	"content":"<!DOCTYPE>
 	<html>
-    <h3>संस्करण 2.4.0बी जारी किया गया</h3>
+    <h3>संस्करण 1.1.5R बी जारी किया गया</h3>
     <small>उस बग को ठीक करें जिसे डाउनलोड नहीं किया जा सकता है।</small>
 	<br><small>बार-बार लॉग इन बग को ठीक करें।</small>
-    <br><br>अभी अद्यतन करें: <a href=\"market://details?id=videodownloader.instagram.videosaver\"><b>InsMate Pro</b></a>
+    <br><br>अभी अद्यतन करें: <a href=\"market://details?id=videodownloader.instagram.videosaver\"><b>InsMate</b></a>
 	</html>"
 }

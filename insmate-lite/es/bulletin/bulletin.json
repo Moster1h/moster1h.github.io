@@ -3,15 +3,14 @@
 	"isForce": false,
 	"isUpdate": false,
 	"packageName": "videodownloader.instagram.videosaver",
-	"versionName": "1.0.0R",
-	"versionCode": 20191203,
+	"versionName": "1.1.5R",
 	"title": "Consejos de actualización",
 	"website": "https://play.google.com/store/apps/details?id=videodownloader.instagram.videosaver",
 	"content":"<!DOCTYPE>
 	<html>
-    <h3>Lanzamiento de la versión 1.0.0R</h3>
+    <h3>Lanzamiento de la versión 1.1.5R</h3>
     <small>Solucione el error que no se puede descargar.</small>
 	<br><small>Solucione el error de inicio de sesión frecuente.</small>
-    <br><br>Actualizar ahora: <a href=\"market://details?id=videodownloader.instagram.videosaver\"><b>InsMate Pro</b></a>
+    <br><br>Actualizar ahora: <a href=\"market://details?id=videodownloader.instagram.videosaver\"><b>InsMate</b></a>
 	</html>"
 }
