@@ -1,9 +1,9 @@
 {
-	"isShow": false,
+	"isShow": true,
 	"isForce": false,
 	"isUpdate": true,
 	"packageName": "downloadtwittervideo.twitterdownloader.twittervideodownloader.twittersaver",
-	"versionName": "1.5.0b",
+	"versionName": "2.1.9b",
 	"versionCode": 20191203,
 	"title": "Tips",
 	"website": "https://play.google.com/store/apps/details?id=downloadtwittervideo.twitterdownloader.twittervideodownloader.twittersaver",
@@ -11,12 +11,6 @@
 	<html>
     <h3>Ang pinakabagong bersyon ay pinakawalan</h3>
     <b>I-update ang Mga Tala:</b><br>
-    <small>1.Fix ang bug na sharing ay hindi maaaring ma-download</small><br>
-    <small>2.Ayusin ang bug na hindi maida-download ang Android11</small><br>
-    <small>3.Add kamakailan-download talaan</small><br>
-    <small>4.Magdagdag ng pagpapaandar na muling pag-download, ang kasaysayan ng mga tinanggal na mga file ay maaaring
-        muling ma-download</small><br>
-    <small>5.Pag-ayos ng higit pang mga bug</small><br>
-    <br>I-update Ngayon: <a href=\"market://details?id=downloadtwittervideo.twitterdownloader.twittervideodownloader.twittersaver\"><b>TwiTake</b></a><br>
+    <small>Ayusin ang bug na hindi ma-download</small><br>
 	</html>"
 }

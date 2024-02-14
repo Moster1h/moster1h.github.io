@@ -1,9 +1,9 @@
 {
-	"isShow": false,
+	"isShow": true,
 	"isForce": false,
 	"isUpdate": true,
 	"packageName": "downloadtwittervideo.twitterdownloader.twittervideodownloader.twittersaver",
-	"versionName": "1.5.0b",
+	"versionName": "2.1.9b",
 	"versionCode": 20191203,
 	"title": "Tips",
 	"website": "https://play.google.com/store/apps/details?id=downloadtwittervideo.twitterdownloader.twittervideodownloader.twittersaver",
@@ -11,12 +11,6 @@
 	<html>
     <h3>La dernière version a été publiée</h3>
     <b>Notes de mise à jour:</b><br>
-    <small>1.Corrige le bogue selon lequel le partage ne peut pas être téléchargé</small><br>
-    <small>2.Corrigez le bug empêchant le téléchargement d'Android11</small><br>
-    <small>3.Ajouter des enregistrements récemment téléchargés</small><br>
-    <small>4.Ajoutez la fonction de retéléchargement, L'historique des fichiers supprimés peut être téléchargé à
-        nouveau</small><br>
-    <small>5.Corrigez plus de bugs</small><br>
-    <br>Mettre à jour maintenant: <a href=\"market://details?id=downloadtwittervideo.twitterdownloader.twittervideodownloader.twittersaver\"><b>TwiTake</b></a><br>
+    <small>Corrigez le bug qui ne peut pas être téléchargé</small><br>
 	</html>"
 }

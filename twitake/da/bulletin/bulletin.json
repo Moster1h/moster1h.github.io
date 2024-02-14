@@ -1,9 +1,9 @@
 {
-	"isShow": false,
+	"isShow": true,
 	"isForce": false,
 	"isUpdate": true,
 	"packageName": "downloadtwittervideo.twitterdownloader.twittervideodownloader.twittersaver",
-	"versionName": "1.5.0b",
+	"versionName": "2.1.9b",
 	"versionCode": 20191203,
 	"title": "Tips",
 	"website": "https://play.google.com/store/apps/details?id=downloadtwittervideo.twitterdownloader.twittervideodownloader.twittersaver",
@@ -11,11 +11,6 @@
 	<html>
     <h3>Den seneste version er frigivet</h3>
     <b>Opdater noter:</b><br>
-    <small>1.Fix fejlen at deling ikke kan downloades</small><br>
-    <small>2.Fix fejlen, at Android11 ikke kan downloades</small><br>
-    <small>3.Tilføj nyligt downloadede poster</small><br>
-    <small>4.Add redownload-funktion, Historikken over slettede filer kan downloades igen</small><br>
-    <small>5.Fix flere fejl</small><br>
-    <br>Opdatere nu: <a href=\"market://details?id=downloadtwittervideo.twitterdownloader.twittervideodownloader.twittersaver\"><b>TwiTake</b></a><br>
+    <small>Ret fejlen, der ikke kan downloades</small><br>
 	</html>"
 }
