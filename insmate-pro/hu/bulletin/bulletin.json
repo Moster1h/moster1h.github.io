@@ -1,16 +1,16 @@
 {
-	"isShow": false,
+	"isShow": true,
 	"isForce": false,
 	"isUpdate": false,
-	"packageName": "repost.share.instagram.videodownloader.photodownloader",
-	"versionName": "2.1.9b",
+	"packageName": "videodownloader.instagram.videosaver",
+	"versionName": "2.6.6R",
 	"versionCode": 20191203,
 	"title": "Tips",
-	"website": "https://play.google.com/store/apps/details?id=repost.share.instagram.videodownloader.photodownloader",
+	"website": "https://play.google.com/store/apps/details?id=videodownloader.instagram.videosaver",
 	"content":"<!DOCTYPE>
 	<html>
     <h3>Megjelent a legújabb verzió</h3>
-	<br><small>http 400 hiba javítása</small>
-    <br><br>Frissítse most: <a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\"><b>InsMate Pro</b></a><br>
+    <b>Frissítési megjegyzések:</b><br>
+    <small>Javítsa ki azt a hibát, amelyet nem lehet letölteni</small><br>
 	</html>"
 }

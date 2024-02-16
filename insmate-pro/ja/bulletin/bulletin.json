@@ -1,17 +1,16 @@
 {
-	"isShow": false,
+	"isShow": true,
 	"isForce": false,
 	"isUpdate": false,
-	"packageName": "repost.share.instagram.videodownloader.photodownloader",
-	"versionName": "2.6.7R",
+	"packageName": "videodownloader.instagram.videosaver",
+	"versionName": "2.6.6R",
 	"versionCode": 20191203,
-	"title": "ヒントです",
+	"title": "Tips",
 	"website": "https://play.google.com/store/apps/details?id=videodownloader.instagram.videosaver",
 	"content":"<!DOCTYPE>
 	<html>
-    このアプリはメンテナンスが終了しましたが、まだ動作します。
-	<br><br>最新のアプリ InsMate を使用したい場合は、次の方法でインストールできます。
-    <br><br><a href=\"market://details?id=videodownloader.instagram.videosaver\"><b>Google Play</b></a>
-	<br><br>すでに InsMate Pro サブスクリプション（有効期限なし）を購入しているユーザーの場合，<a href=\"mailto:support_ins@vidtak.net\">support_ins@vidtak.net</a>に連絡して、購入内容を電子メールで送信してください。,購入を復元させていただきます。
-	<br></html>"
+    <h3>最新バージョンがリリースされました</h3>
+    <b>更新メモ：</b><br>
+    <small>ダウンロードできないバグを修正します。</small><br>
+	</html>"
 }
