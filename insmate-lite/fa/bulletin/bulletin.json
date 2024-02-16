@@ -1,16 +1,16 @@
 {
-	"isShow": false,
+	"isShow": true,
 	"isForce": false,
 	"isUpdate": false,
 	"packageName": "videodownloader.instagram.videosaver",
-	"versionName": "1.1.5R",
-	"title": "آخرین نسخه منتشر شده است",
+	"versionName": "1.3.0R",
+	"versionCode": 20191203,
+	"title": "نسخه جدید شناسایی شد",
 	"website": "https://play.google.com/store/apps/details?id=videodownloader.instagram.videosaver",
 	"content":"<!DOCTYPE>
 	<html>
-    <small>رفع اشکالاتی که قابل دانلود نیستند</small>
-    <br><small>رفع خطاهای http 400</small>
-    <br><small>رفع اشکالی که امکان ورود به سیستم وجود ندارد.</small>
-    <br><br>اکنون به روز کنید: <a href=\"market://details?id=videodownloader.instagram.videosaver\"><b>InsMate</b></a>
+    <h3>آخرین نسخه منتشر شده است</h3>
+    <b>به روز رسانی یادداشت ها:</b><br>
+    <small>رفع اشکالی که دانلود نمی شود</small><br>
 	</html>"
 }

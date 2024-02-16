@@ -1,16 +1,16 @@
 {
-	"isShow": false,
+	"isShow": true,
 	"isForce": false,
 	"isUpdate": false,
 	"packageName": "videodownloader.instagram.videosaver",
-	"versionName": "1.0.0R",
+	"versionName": "1.3.0R",
 	"versionCode": 20191203,
 	"title": "Tips",
 	"website": "https://play.google.com/store/apps/details?id=videodownloader.instagram.videosaver",
 	"content":"<!DOCTYPE>
 	<html>
     <h3>Bola vydaná najnovšia verzia</h3>
-	<br><small>Oprava chyby http 400</small>
-    <br><br>Teraz aktualizovať: <a href=\"market://details?id=videodownloader.instagram.videosaver\"><b>InsMate Pro</b></a><br>
+    <b>Poznámky k aktualizácii:</b><br>
+    <small>Opravte chybu, ktorú nemožno stiahnuť</small><br>
 	</html>"
 }

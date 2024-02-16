@@ -1,15 +1,16 @@
 {
-	"isShow": false,
+	"isShow": true,
 	"isForce": false,
 	"isUpdate": false,
 	"packageName": "videodownloader.instagram.videosaver",
-	"versionName": "1.1.5R",
+	"versionName": "1.3.0R",
+	"versionCode": 20191203,
 	"title": "Tips",
 	"website": "https://play.google.com/store/apps/details?id=videodownloader.instagram.videosaver",
 	"content":"<!DOCTYPE>
 	<html>
     <h3>Ang pinakabagong bersyon ay pinakawalan</h3>
-    <br><small>Ayusin ang http 400 error</small>
-    <br><br>I-update Ngayon: <a href=\"market://details?id=videodownloader.instagram.videosaver\"><b>InsMate</b></a><br>
+    <b>I-update ang Mga Tala:</b><br>
+    <small>Ayusin ang bug na hindi ma-download</small><br>
 	</html>"
 }

@@ -1,18 +1,16 @@
 {
-	"isShow": false,
+	"isShow": true,
 	"isForce": false,
 	"isUpdate": false,
 	"packageName": "videodownloader.instagram.videosaver",
-	"versionName": "1.0.0R",
+	"versionName": "1.3.0R",
 	"versionCode": 20191203,
-	"title": "更新提示",
+	"title": "Tips",
 	"website": "https://play.google.com/store/apps/details?id=videodownloader.instagram.videosaver",
 	"content":"<!DOCTYPE>
 	<html>
-    <h3>1.0.0R版本已發布</h3>
-    <small>修復無法下載的BUG</small>
-    <br><small>修復頻繁登錄的BUG</small>
-    <br><br>現在更新: <a href=\"market://details?id=videodownloader.instagram.videosaver\"><b>InsMate
-            Pro</b></a>
+    <h3>最新版本已發布</h3>
+    <b>更新說明：</b><br>
+    <small>修復無法下載的bug</small><br>
 	</html>"
 }

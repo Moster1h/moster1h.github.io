@@ -1,17 +1,16 @@
 {
-	"isShow": false,
+	"isShow": true,
 	"isForce": false,
 	"isUpdate": false,
 	"packageName": "videodownloader.instagram.videosaver",
-	"versionName": "1.0.0R",
+	"versionName": "1.3.0R",
 	"versionCode": 20191203,
-	"title": "Perbarui Kiat",
+	"title": "Tips",
 	"website": "https://play.google.com/store/apps/details?id=videodownloader.instagram.videosaver",
 	"content":"<!DOCTYPE>
 	<html>
-    <h3>Versi 1.0.0R dirilis</h3>
-    <small>Perbaiki bug yang tidak dapat diunduh.</small>
-	<br><small>Perbaiki bug login yang sering.</small>
-    <br><br>Memperbarui sekarang: <a href=\"market://details?id=videodownloader.instagram.videosaver\"><b>InsMate Pro</b></a>
+    <h3>Versi terbaru telah dirilis</h3>
+    <b>Perbarui Catatan:</b><br>
+    <small>Perbaiki bug yang tidak dapat diunduh</small><br>
 	</html>"
 }
