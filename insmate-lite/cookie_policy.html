@@ -178,17 +178,12 @@
     }
 
 
-    const testsdc = document.getElementById('update-time');
-    testsdc.innerHTML = '<b>这是一个新的段落。' + newLang + "</b>";
-
-
     if (newLang != 'en') {
       switch (newLang) {
         case 'cn':
         case 'pt':
         case 'es':
-          // window.location.href = '/insmate-lite/' + newLang + '/cookie_policy.html';
-          window.location.replace('/insmate-lite/' + newLang + '/cookie_policy.html');
+          window.location.href = '/insmate-lite/' + newLang + '/cookie_policy.html';
           break;
         default:
           break;

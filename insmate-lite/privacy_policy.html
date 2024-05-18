@@ -461,7 +461,7 @@
 
   <!-- SCRIPTS ADD-->
   <script>
-    var userLang = navigator.language || navigator.userLanguage;
+    var userLang = navigator.languages ? navigator.languages[0] : (navigator.language || navigator.userLanguage);
 
     var newLang = 'en';
     if (userLang == 'zh-CN') {
@@ -469,7 +469,11 @@
     } else if (userLang == 'zh-TW') {
       newLang = 'tw';
     } else {
-      newLang = userLang.substring(0, 2);
+      if (userLang.includes("-")) {
+        newLang = userLang.split('-')[0];
+      } else {
+        newLang = userLang;
+      }
     }
 
     if (newLang != 'en') {
