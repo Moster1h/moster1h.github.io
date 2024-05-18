@@ -170,7 +170,11 @@
     } else if (userLang == 'zh-TW') {
       newLang = 'tw';
     } else {
-      newLang = userLang.split('-')[0];
+      if (userLang.includes("-")) {
+        newLang = userLang.split('-')[0];
+      } else {
+        newLang = userLang;
+      }
     }
 
     if (newLang != 'en') {
