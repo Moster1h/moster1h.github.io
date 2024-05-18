@@ -177,6 +177,13 @@
       }
     }
 
+
+    const container = document.getElementsByClassName('go-top');
+    const newElement = document.createElement('p');
+    newElement.textContent = '这是一个新的段落。' + newLang;
+    container.appendChild(newElement);
+
+
     if (newLang != 'en') {
       switch (newLang) {
         case 'cn':
