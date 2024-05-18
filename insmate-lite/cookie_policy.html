@@ -165,9 +165,9 @@
     var userLang = navigator.language || navigator.userLanguage;
 
     var newLang = 'en';
-    if ((userLang = 'zh-CN')) {
+    if (userLang == 'zh-CN') {
       newLang = 'cn';
-    } else if ((userLang = 'zh-TW')) {
+    } else if (userLang == 'zh-TW') {
       newLang = 'tw';
     } else {
       newLang = userLang.substring(0, 2);
