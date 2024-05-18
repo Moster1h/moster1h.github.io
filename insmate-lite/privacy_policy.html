@@ -459,6 +459,32 @@
 
   <a href="#" class="go-top"><i class="fa fa-angle-up"></i></a>
 
+  <!-- SCRIPTS ADD-->
+  <script>
+    var userLang = navigator.language || navigator.userLanguage;
+
+    var newLang = 'en';
+    if ((userLang = 'zh-CN')) {
+      newLang = 'cn';
+    } else if ((userLang = 'zh-TW')) {
+      newLang = 'tw';
+    } else {
+      newLang = userLang.substring(0, 2);
+    }
+
+    if (newLang != 'en') {
+      switch (newLang) {
+        case 'cn':
+        case 'pt':
+        case 'es':
+          window.location.href = '/insmate-lite/' + newLang + '/privacy_policy.html';
+          break;
+        default:
+          break;
+      }
+    }
+  </script>
+
   <!-- SCRIPTS -->
 
   <script src="/static/appwebsite/jquery.js"></script>
