@@ -160,38 +160,6 @@
 
   <a href="#" class="go-top"><i class="fa fa-angle-up"></i></a>
 
-  <!-- SCRIPTS ADD-->
-  <script>
-    var userLang = navigator.languages ? navigator.languages[0] : (navigator.language || navigator.userLanguage);
-    userLang = Android.getAcceptLanguage() ? userLang : Android.getAcceptLanguage();
-
-    var newLang = 'en';
-    if (userLang == 'zh-CN') {
-      newLang = 'cn';
-    } else if (userLang == 'zh-TW') {
-      newLang = 'tw';
-    } else {
-      if (userLang.includes("-")) {
-        newLang = userLang.split('-')[0];
-      } else {
-        newLang = userLang;
-      }
-    }
-
-
-    if (newLang != 'en') {
-      switch (newLang) {
-        case 'cn':
-        case 'pt':
-        case 'es':
-        case 'fr':
-          window.location.href = '/insmate-lite/' + newLang + '/cookie_policy.html';
-          break;
-        default:
-          break;
-      }
-    }
-  </script>
 
   <!-- SCRIPTS -->
 
