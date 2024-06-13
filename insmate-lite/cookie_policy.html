@@ -163,7 +163,6 @@
   <!-- SCRIPTS ADD-->
   <script>
     var userLang = navigator.languages ? navigator.languages[0] : (navigator.language || navigator.userLanguage);
-    userLang = Android.getAcceptLanguage() ? userLang : Android.getAcceptLanguage();
 
     var newLang = 'en';
     if (userLang == 'zh-CN') {
@@ -185,6 +184,7 @@
         case 'pt':
         case 'es':
         case 'fr':
+        case 'ja':
           window.location.href = '/insmate-lite/' + newLang + '/cookie_policy.html';
           break;
         default:
