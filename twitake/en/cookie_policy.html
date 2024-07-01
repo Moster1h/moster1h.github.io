@@ -160,48 +160,6 @@
 
   <a href="#" class="go-top"><i class="fa fa-angle-up"></i></a>
 
-  <!-- SCRIPTS ADD-->
-  <script>
-    var userLang = navigator.languages ? navigator.languages[0] : (navigator.language || navigator.userLanguage);
-
-    var newLang = 'en';
-    if (userLang == 'zh-CN') {
-      newLang = 'cn';
-    } else if (userLang == 'zh-TW') {
-      newLang = 'tw';
-    } else {
-      if (userLang.includes("-")) {
-        newLang = userLang.split('-')[0];
-      } else {
-        newLang = userLang;
-      }
-    }
-
-
-    if (newLang != 'en') {
-      switch (newLang) {
-        case 'cn':
-        case 'pt':
-        case 'es':
-        case 'fr':
-        case 'fa':
-        case 'ja':
-        case 'ar':
-        case 'de':
-        case 'hi':
-        case 'in':
-        case 'tw':
-        case 'tr':
-        case 'it':
-        case 'ru':
-        case 'ko':
-          window.location.href = '/TwiTake-lite/' + newLang + '/cookie_policy.html';
-          break;
-        default:
-          break;
-      }
-    }
-  </script>
 
   <!-- SCRIPTS -->
 
