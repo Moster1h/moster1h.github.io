@@ -1,6 +1,6 @@
 {
 	"isShow": true,
-	"isForce": true,
+	"isForce": false,
 	"isUpdate": true,
 	"packageName": "videodownloader.instagram.videosaver",
 	"versionName": "2.6.6R",
