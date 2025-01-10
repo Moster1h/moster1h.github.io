@@ -142,7 +142,7 @@ a:hover, a:active, a:focus {
 }
 
 .section-title p{
-  text-align: center;
+  text-align: start;
 }
 
 #about,
