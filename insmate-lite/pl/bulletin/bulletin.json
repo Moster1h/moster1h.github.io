@@ -1,7 +1,7 @@
 {
-	"isShow": true,
+	"isShow": false,
 	"isForce": false,
-	"isUpdate": true,
+	"isUpdate": false,
 	"packageName": "videodownloader.instagram.videosaver",
 	"versionName": "1.4.68R",
 	"versionCode": 20191203,
