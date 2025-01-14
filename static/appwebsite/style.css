@@ -138,7 +138,7 @@ a:hover, a:active, a:focus {
 .section-title {
   position: relative;
   padding-bottom: 62px;
-  text-align: center;
+  text-align: start;
 }
 
 .section-title p{
@@ -284,8 +284,19 @@ a:hover, a:active, a:focus {
     Home section              
 -----------------------------------------*/
 #update-time{
+  text-align: start;
+}
+
+.home-title {
+  position: relative;
+  padding-bottom: 62px;
   text-align: center;
 }
+
+.home-title p{
+  text-align: center;
+}
+
 
 #home {
   background: #1da1f2 url('../images/home-bg.jpg') no-repeat;
