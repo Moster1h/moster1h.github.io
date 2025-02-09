@@ -3,7 +3,7 @@
 	"isForce": false,
 	"isUpdate": true,
 	"packageName": "videodownloader.instagram.videosaver",
-	"versionName": "2.6.7R",
+	"versionName": "1.4.80R",
 	"versionCode": 20191203,
 	"title": "Tips",
 	"website": "https://play.google.com/store/apps/details?id=videodownloader.instagram.videosaver",
@@ -11,6 +11,6 @@
 	<html>
     <h3>नवीनतम संस्करण जारी किया गया है</h3>
     <b>अद्यतन नोट:</b><br>
-    <small>उस बग को ठीक करें जिसे डाउनलोड नहीं किया जा सकता</small><br>
+    <small>अकाउंट के बार-बार लॉगआउट होने वाली बग को ठीक करें।</small><br>
 	</html>"
 }

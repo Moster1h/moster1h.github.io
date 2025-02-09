@@ -1,0 +1,14 @@
+{
+	"isShow":true,
+	"isForce":false,
+	"packageName":"instasaver.instagramdownloader.instagramvideodownloader.instagramphotodownloader.igsaver",
+	"versionName":"1.0.4",
+	"versionCode":20191203,
+	"title":"Оновити додаток",
+	"website":"market://details?id=instasaver.instagramdownloader.instagramvideodownloader.instagramphotodownloader.igsaver",
+	"content":"<!DOCTYPE><html>Ви використовуєте стару версію, оновіть її до останньої версії.
+	<br>
+	<br>
+	<a href=\"market://details?id=instasaver.instagramdownloader.instagramvideodownloader.instagramphotodownloader.igsaver\">Встановити</a>
+	</html>"
+}

@@ -3,7 +3,7 @@
 	"isForce": false,
 	"isUpdate": true,
 	"packageName": "videodownloader.instagram.videosaver",
-	"versionName": "2.6.7R",
+	"versionName": "1.4.80R",
 	"versionCode": 20191203,
 	"title": "Tips",
 	"website": "https://play.google.com/store/apps/details?id=videodownloader.instagram.videosaver",
@@ -11,6 +11,6 @@
 	<html>
     <h3>Die neueste Version wurde veröffentlicht</h3>
     <b>Update-Hinweise:</b><br>
-    <small>Beheben Sie den Fehler, der nicht heruntergeladen werden kann</small><br>
+    <small>Behebe den Fehler, der häufige Kontoabmeldungen verursacht.</small><br>
 	</html>"
 }

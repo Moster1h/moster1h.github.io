@@ -3,7 +3,7 @@
 	"isForce": false,
 	"isUpdate": true,
 	"packageName": "videodownloader.instagram.videosaver",
-	"versionName": "2.6.7R",
+	"versionName": "1.4.80R",
 	"versionCode": 20191203,
 	"title": "Tips",
 	"website": "https://play.google.com/store/apps/details?id=videodownloader.instagram.videosaver",
@@ -11,6 +11,6 @@
 	<html>
     <h3>最新版本已发布</h3>
     <b>更新说明：</b><br>
-    <small>修复不能下载的bug</small><br>
+    <small>修复了导致账号反复退出的bug。</small><br>
 	</html>"
 }

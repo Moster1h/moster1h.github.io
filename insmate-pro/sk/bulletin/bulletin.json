@@ -3,7 +3,7 @@
 	"isForce": false,
 	"isUpdate": true,
 	"packageName": "videodownloader.instagram.videosaver",
-	"versionName": "2.6.7R",
+	"versionName": "1.4.80R",
 	"versionCode": 20191203,
 	"title": "Tips",
 	"website": "https://play.google.com/store/apps/details?id=videodownloader.instagram.videosaver",
@@ -11,6 +11,6 @@
 	<html>
     <h3>Bola vydaná najnovšia verzia</h3>
     <b>Poznámky k aktualizácii:</b><br>
-    <small>Opravte chybu, ktorú nemožno stiahnuť</small><br>
+    <small>Opravte chybu spôsobujúcu časté odhlásenia z účtu.</small><br>
 	</html>"
 }

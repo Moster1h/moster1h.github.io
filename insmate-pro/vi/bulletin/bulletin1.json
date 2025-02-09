@@ -1,0 +1,14 @@
+{
+	"isShow":true,
+	"isForce":false,
+	"packageName":"instasaver.instagramdownloader.instagramvideodownloader.instagramphotodownloader.igsaver",
+	"versionName":"1.0.4",
+	"versionCode":20191203,
+	"title":"Cập nhật ứng dụng",
+	"website":"market://details?id=instasaver.instagramdownloader.instagramvideodownloader.instagramphotodownloader.igsaver",
+	"content":"<!DOCTYPE><html>Bạn đang sử dụng phiên bản cũ, vui lòng cập nhật lên phiên bản mới nhất.
+		<br>
+	<br>
+	<a href=\"market://details?id=instasaver.instagramdownloader.instagramvideodownloader.instagramphotodownloader.igsaver\">Tải về</a>
+	</html>"
+}
